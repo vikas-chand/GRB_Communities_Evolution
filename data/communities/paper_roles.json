@@ -1,0 +1,1217 @@
+{
+ "n": 13800,
+ "arcs": 380361,
+ "review_titled": 194,
+ "giant_wcc": 13672,
+ "n_scc_nontrivial": 222,
+ "top_pagerank": [
+  {
+   "bibcode": "1973ApJ...182L..85K",
+   "year": 1973,
+   "community": 0,
+   "title": "Observations of Gamma-Ray Bursts of Cosmic Origin",
+   "v": 0.02321492250126076,
+   "extra": ""
+  },
+  {
+   "bibcode": "1986ApJ...308L..43P",
+   "year": 1986,
+   "community": 0,
+   "title": "Gamma-ray bursters at cosmological distances",
+   "v": 0.010619266534849082,
+   "extra": ""
+  },
+  {
+   "bibcode": "1986ApJ...308L..47G",
+   "year": 1986,
+   "community": 3,
+   "title": "Are gamma-ray bursts optically thick?",
+   "v": 0.009135057716426868,
+   "extra": ""
+  },
+  {
+   "bibcode": "1992Natur.355..143M",
+   "year": 1992,
+   "community": 0,
+   "title": "Spatial distribution of \u03b3-ray bursts observed by BATSE",
+   "v": 0.00906939843016136,
+   "extra": ""
+  },
+  {
+   "bibcode": "1997Natur.386..686V",
+   "year": 1997,
+   "community": 1,
+   "title": "Transient optical emission from the error box of the \u03b3-ray burst of 28 February 1997",
+   "v": 0.00634079398066131,
+   "extra": ""
+  },
+  {
+   "bibcode": "1974ApJ...194L..19M",
+   "year": 1974,
+   "community": 0,
+   "title": "Observation of a Cosmic Gamma-Ray Burst on Apollo 16. I. Temporal Variability and Energy S",
+   "v": 0.005227941063486436,
+   "extra": ""
+  },
+  {
+   "bibcode": "1973ApJ...185L..57W",
+   "year": 1973,
+   "community": 0,
+   "title": "The Direction and Spectral Variability of a Cosmic Gamma-Ray Burst",
+   "v": 0.004949665894718724,
+   "extra": ""
+  },
+  {
+   "bibcode": "1993ApJ...405..273W",
+   "year": 1993,
+   "community": 5,
+   "title": "Gamma-Ray Bursts from Stellar Mass Accretion Disks around Black Holes",
+   "v": 0.004803292700098012,
+   "extra": ""
+  },
+  {
+   "bibcode": "1989Natur.340..126E",
+   "year": 1989,
+   "community": 2,
+   "title": "Nucleosynthesis, neutrino bursts and \u03b3-rays from coalescing neutron stars",
+   "v": 0.004783977525314481,
+   "extra": ""
+  },
+  {
+   "bibcode": "1981Ap&SS..80....3M",
+   "year": 1981,
+   "community": 0,
+   "title": "Catalog of cosmic gamma-ray bursts from the KONUS experiment data: Parts I and II",
+   "v": 0.0047784254007301324,
+   "extra": ""
+  },
+  {
+   "bibcode": "1993ApJ...413..281B",
+   "year": 1993,
+   "community": 3,
+   "title": "BATSE Observations of Gamma-Ray Burst Spectra. I. Spectral Diversity",
+   "v": 0.004741395115303781,
+   "extra": ""
+  },
+  {
+   "bibcode": "1990ApJ...365L..55S",
+   "year": 1990,
+   "community": 3,
+   "title": "The Appearance of Cosmic Fireballs",
+   "v": 0.004355241808329891,
+   "extra": ""
+  },
+  {
+   "bibcode": "1997ApJ...476..232M",
+   "year": 1997,
+   "community": 1,
+   "title": "Optical and Long-Wavelength Afterglow from Gamma-Ray Bursts",
+   "v": 0.004351171601178482,
+   "extra": ""
+  },
+  {
+   "bibcode": "1973ApJ...185L...1C",
+   "year": 1973,
+   "community": 0,
+   "title": "Energy Spectra of Cosmic Gamma-Ray Bursts",
+   "v": 0.004204067793832865,
+   "extra": ""
+  },
+  {
+   "bibcode": "1981Natur.290..378M",
+   "year": 1981,
+   "community": 0,
+   "title": "Cyclotron and annihilation lines in \u03b3-ray bursts",
+   "v": 0.004036773309868111,
+   "extra": ""
+  }
+ ],
+ "top_pagerank_recent": [
+  {
+   "bibcode": "2024Natur.626..737L",
+   "year": 2024,
+   "community": 2,
+   "title": "Heavy-element production in a compact object merger observed by JWST",
+   "v": 0.9991467576791809,
+   "extra": ""
+  },
+  {
+   "bibcode": "2025A&A...701A.134M",
+   "year": 2025,
+   "community": 4,
+   "title": "The brightest GRB ever detected: GRB 221009A as a highly luminous event at z = 0.151",
+   "v": 0.9990942028985508,
+   "extra": ""
+  },
+  {
+   "bibcode": "2023ApJ...952L..42L",
+   "year": 2023,
+   "community": 4,
+   "title": "Fermi-GBM Discovery of GRB 221009A: An Extraordinarily Bright GRB from Onset to Afterglow",
+   "v": 0.9989626556016598,
+   "extra": ""
+  },
+  {
+   "bibcode": "2018Natur.561..355M",
+   "year": 2018,
+   "community": 2,
+   "title": "Superluminal motion of a relativistic jet in the neutron-star merger GW170817",
+   "v": 0.9989339019189766,
+   "extra": ""
+  },
+  {
+   "bibcode": "2022Natur.612..223R",
+   "year": 2022,
+   "community": 2,
+   "title": "A kilonova following a long-duration gamma-ray burst at 350 Mpc",
+   "v": 0.9989224137931034,
+   "extra": ""
+  },
+  {
+   "bibcode": "2021Sci...372.1081H",
+   "year": 2021,
+   "community": 4,
+   "title": "Revealing x-ray and gamma ray temporal and spectral similarities in the GRB 190829A afterg",
+   "v": 0.9988962472406181,
+   "extra": ""
+  },
+  {
+   "bibcode": "2019Natur.575..455M",
+   "year": 2019,
+   "community": 4,
+   "title": "Teraelectronvolt emission from the \u03b3-ray burst GRB 190114C",
+   "v": 0.9988479262672811,
+   "extra": ""
+  },
+  {
+   "bibcode": "2017PhRvL.119p1101A",
+   "year": 2017,
+   "community": 2,
+   "title": "GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral",
+   "v": 0.9987893462469734,
+   "extra": ""
+  },
+  {
+   "bibcode": "2020ApJ...893...46V",
+   "year": 2020,
+   "community": 2,
+   "title": "The Fourth Fermi-GBM Gamma-Ray Burst Catalog: A Decade of Data",
+   "v": 0.9987623762376238,
+   "extra": ""
+  },
+  {
+   "bibcode": "2015PhR...561....1K",
+   "year": 2015,
+   "community": 3,
+   "title": "The physics of gamma-ray bursts &amp; relativistic jets",
+   "v": 0.9987437185929648,
+   "extra": ""
+  },
+  {
+   "bibcode": "2026MNRAS.549ag833S",
+   "year": 2026,
+   "community": 1,
+   "title": "The hydrodynamics of stratified ultrarelativistic outflows and the origin of GRB X-ray pla",
+   "v": 0.9986876640419947,
+   "extra": ""
+  },
+  {
+   "bibcode": "2016ApJ...826L...6C",
+   "year": 2016,
+   "community": 2,
+   "title": "Fermi GBM Observations of LIGO Gravitational-wave Event GW150914",
+   "v": 0.9986772486772487,
+   "extra": ""
+  },
+  {
+   "bibcode": "2024Natur.626..742Y",
+   "year": 2024,
+   "community": 2,
+   "title": "A lanthanide-rich kilonova in the aftermath of a long gamma-ray burst",
+   "v": 0.9974402730375427,
+   "extra": ""
+  },
+  {
+   "bibcode": "2025NSRev..12E.401S",
+   "year": 2025,
+   "community": 2,
+   "title": "Magnetar emergence in a peculiar gamma-ray burst from a compact star merger",
+   "v": 0.9972826086956522,
+   "extra": ""
+  },
+  {
+   "bibcode": "2023PhRvL.131y1001G",
+   "year": 2023,
+   "community": 4,
+   "title": "Observability of the Very-High-Energy Emission from GRB 221009A",
+   "v": 0.9968879668049793,
+   "extra": ""
+  }
+ ],
+ "top_betweenness_dir": [
+  {
+   "bibcode": "2010ApJ...720.1513K",
+   "year": 2010,
+   "community": 6,
+   "title": "The Afterglows of Swift-era Gamma-ray Bursts. I. Comparing pre-Swift and Swift-era Long/So",
+   "v": 3435300.1681615287,
+   "extra": ""
+  },
+  {
+   "bibcode": "2007PhR...442..166N",
+   "year": 2007,
+   "community": 2,
+   "title": "Short-hard gamma-ray bursts",
+   "v": 3215800.597794377,
+   "extra": ""
+  },
+  {
+   "bibcode": "2015PhR...561....1K",
+   "year": 2015,
+   "community": 3,
+   "title": "The physics of gamma-ray bursts &amp; relativistic jets",
+   "v": 3077449.999103181,
+   "extra": ""
+  },
+  {
+   "bibcode": "2009ApJ...691..723B",
+   "year": 2009,
+   "community": 1,
+   "title": "Observations of the Naked-Eye GRB 080319B: Implications of Nature's Brightest Explosion",
+   "v": 1977565.3176920984,
+   "extra": ""
+  },
+  {
+   "bibcode": "2017AdAst2017E...5C",
+   "year": 2017,
+   "community": 5,
+   "title": "The Observer's Guide to the Gamma-Ray Burst Supernova Connection",
+   "v": 1969967.7826265434,
+   "extra": ""
+  },
+  {
+   "bibcode": "2006RPPh...69.2259M",
+   "year": 2006,
+   "community": 4,
+   "title": "Gamma-ray bursts",
+   "v": 1846733.9010457497,
+   "extra": ""
+  },
+  {
+   "bibcode": "2007MNRAS.380.1744N",
+   "year": 2007,
+   "community": 1,
+   "title": "Smooth light curves from a bumpy ride: relativistic blast wave encounters a density jump",
+   "v": 1817386.9265835532,
+   "extra": ""
+  },
+  {
+   "bibcode": "2008ApJ...684..430D",
+   "year": 2008,
+   "community": 1,
+   "title": "Nonthermal Synchrotron Radiation from Gamma-Ray Burst External Shocks and the X-Ray Flares",
+   "v": 1791611.285440151,
+   "extra": ""
+  },
+  {
+   "bibcode": "2008MNRAS.391L..19K",
+   "year": 2008,
+   "community": 1,
+   "title": "What did we learn from gamma-ray burst 080319B?",
+   "v": 1764847.192777851,
+   "extra": ""
+  },
+  {
+   "bibcode": "2008MNRAS.383.1143P",
+   "year": 2008,
+   "community": 1,
+   "title": "X-ray flares, plateaus and chromatic breaks of GRB afterglows from up-scattered forward-sh",
+   "v": 1762896.5614303402,
+   "extra": ""
+  },
+  {
+   "bibcode": "2004IJMPA..19.2385Z",
+   "year": 2004,
+   "community": 1,
+   "title": "Gamma-Ray Bursts: progress, problems &amp; prospects",
+   "v": 1743618.4467416808,
+   "extra": ""
+  },
+  {
+   "bibcode": "2019A&A...624A.143K",
+   "year": 2019,
+   "community": 5,
+   "title": "Highly luminous supernovae associated with gamma-ray bursts. I. GRB 111209A/SN 2011kl in t",
+   "v": 1738798.2724144822,
+   "extra": ""
+  },
+  {
+   "bibcode": "2009ApJ...693.1417N",
+   "year": 2009,
+   "community": 1,
+   "title": "Prompt Observations of the Early-Time Optical Afterglow of GRB 060607A",
+   "v": 1736019.0108558645,
+   "extra": ""
+  },
+  {
+   "bibcode": "2004RvMP...76.1143P",
+   "year": 2004,
+   "community": 3,
+   "title": "The physics of gamma-ray bursts",
+   "v": 1701727.303485661,
+   "extra": ""
+  },
+  {
+   "bibcode": "2007A&A...475..421G",
+   "year": 2007,
+   "community": 1,
+   "title": "High energy afterglows and flares from gamma-ray burst by inverse Compton emission",
+   "v": 1699093.5853208932,
+   "extra": ""
+  }
+ ],
+ "top_betweenness_und": [
+  {
+   "bibcode": "1993ApJ...413..281B",
+   "year": 1993,
+   "community": 3,
+   "title": "BATSE Observations of Gamma-Ray Burst Spectra. I. Spectral Diversity",
+   "v": 4021527.1561466837,
+   "extra": ""
+  },
+  {
+   "bibcode": "1973ApJ...182L..85K",
+   "year": 1973,
+   "community": 0,
+   "title": "Observations of Gamma-Ray Bursts of Cosmic Origin",
+   "v": 3025780.6738080657,
+   "extra": ""
+  },
+  {
+   "bibcode": "1993ApJ...405..273W",
+   "year": 1993,
+   "community": 5,
+   "title": "Gamma-Ray Bursts from Stellar Mass Accretion Disks around Black Holes",
+   "v": 2984809.0001886785,
+   "extra": ""
+  },
+  {
+   "bibcode": "1993ApJ...413L.101K",
+   "year": 1993,
+   "community": 2,
+   "title": "Identification of Two Classes of Gamma-Ray Bursts",
+   "v": 2920485.0016164817,
+   "extra": ""
+  },
+  {
+   "bibcode": "2004RvMP...76.1143P",
+   "year": 2004,
+   "community": 3,
+   "title": "The physics of gamma-ray bursts",
+   "v": 2688391.952453394,
+   "extra": ""
+  },
+  {
+   "bibcode": "2015PhR...561....1K",
+   "year": 2015,
+   "community": 3,
+   "title": "The physics of gamma-ray bursts &amp; relativistic jets",
+   "v": 2364462.875006154,
+   "extra": ""
+  },
+  {
+   "bibcode": "2004ApJ...611.1005G",
+   "year": 2004,
+   "community": 1,
+   "title": "The Swift Gamma-Ray Burst Mission",
+   "v": 2292143.7921663956,
+   "extra": ""
+  },
+  {
+   "bibcode": "1999PhR...314..575P",
+   "year": 1999,
+   "community": 1,
+   "title": "Gamma-ray bursts and the fireball model",
+   "v": 2270524.000757158,
+   "extra": ""
+  },
+  {
+   "bibcode": "1998ApJ...497L..17S",
+   "year": 1998,
+   "community": 1,
+   "title": "Spectra and Light Curves of Gamma-Ray Burst Afterglows",
+   "v": 2197245.178152385,
+   "extra": ""
+  },
+  {
+   "bibcode": "1986ApJ...308L..43P",
+   "year": 1986,
+   "community": 0,
+   "title": "Gamma-ray bursters at cosmological distances",
+   "v": 2062507.237686997,
+   "extra": ""
+  },
+  {
+   "bibcode": "2009ApJ...702..791M",
+   "year": 2009,
+   "community": 3,
+   "title": "The Fermi Gamma-ray Burst Monitor",
+   "v": 1961318.1768438674,
+   "extra": ""
+  },
+  {
+   "bibcode": "2006ARA&A..44..507W",
+   "year": 2006,
+   "community": 5,
+   "title": "The Supernova Gamma-Ray Burst Connection",
+   "v": 1705396.5521372359,
+   "extra": ""
+  },
+  {
+   "bibcode": "2006RPPh...69.2259M",
+   "year": 2006,
+   "community": 4,
+   "title": "Gamma-ray bursts",
+   "v": 1668901.8463807928,
+   "extra": ""
+  },
+  {
+   "bibcode": "1999ApJ...524..262M",
+   "year": 1999,
+   "community": 5,
+   "title": "Collapsars: Gamma-Ray Bursts and Explosions in ``Failed Supernovae''",
+   "v": 1665478.009302587,
+   "extra": ""
+  },
+  {
+   "bibcode": "2004IJMPA..19.2385Z",
+   "year": 2004,
+   "community": 1,
+   "title": "Gamma-Ray Bursts: progress, problems &amp; prospects",
+   "v": 1460388.1246233296,
+   "extra": ""
+  }
+ ],
+ "top_betweenness_und_pruned": [
+  {
+   "bibcode": "1993ApJ...413..281B",
+   "year": 1993,
+   "community": 3,
+   "title": "BATSE Observations of Gamma-Ray Burst Spectra. I. Spectral Diversity",
+   "v": 4109684.5914622922,
+   "extra": ""
+  },
+  {
+   "bibcode": "1973ApJ...182L..85K",
+   "year": 1973,
+   "community": 0,
+   "title": "Observations of Gamma-Ray Bursts of Cosmic Origin",
+   "v": 3049079.8981454945,
+   "extra": ""
+  },
+  {
+   "bibcode": "1993ApJ...405..273W",
+   "year": 1993,
+   "community": 5,
+   "title": "Gamma-Ray Bursts from Stellar Mass Accretion Disks around Black Holes",
+   "v": 2943637.665774991,
+   "extra": ""
+  },
+  {
+   "bibcode": "1993ApJ...413L.101K",
+   "year": 1993,
+   "community": 2,
+   "title": "Identification of Two Classes of Gamma-Ray Bursts",
+   "v": 2813186.47822855,
+   "extra": ""
+  },
+  {
+   "bibcode": "2004RvMP...76.1143P",
+   "year": 2004,
+   "community": 3,
+   "title": "The physics of gamma-ray bursts",
+   "v": 2672067.947650991,
+   "extra": ""
+  },
+  {
+   "bibcode": "2015PhR...561....1K",
+   "year": 2015,
+   "community": 3,
+   "title": "The physics of gamma-ray bursts &amp; relativistic jets",
+   "v": 2413402.6527717696,
+   "extra": ""
+  },
+  {
+   "bibcode": "1999PhR...314..575P",
+   "year": 1999,
+   "community": 1,
+   "title": "Gamma-ray bursts and the fireball model",
+   "v": 2259791.1490507363,
+   "extra": ""
+  },
+  {
+   "bibcode": "2004ApJ...611.1005G",
+   "year": 2004,
+   "community": 1,
+   "title": "The Swift Gamma-Ray Burst Mission",
+   "v": 2229421.856230576,
+   "extra": ""
+  },
+  {
+   "bibcode": "1998ApJ...497L..17S",
+   "year": 1998,
+   "community": 1,
+   "title": "Spectra and Light Curves of Gamma-Ray Burst Afterglows",
+   "v": 2173779.7831438594,
+   "extra": ""
+  },
+  {
+   "bibcode": "1986ApJ...308L..43P",
+   "year": 1986,
+   "community": 0,
+   "title": "Gamma-ray bursters at cosmological distances",
+   "v": 2078911.0088847133,
+   "extra": ""
+  },
+  {
+   "bibcode": "2009ApJ...702..791M",
+   "year": 2009,
+   "community": 3,
+   "title": "The Fermi Gamma-ray Burst Monitor",
+   "v": 2014405.0151656722,
+   "extra": ""
+  },
+  {
+   "bibcode": "2006ARA&A..44..507W",
+   "year": 2006,
+   "community": 5,
+   "title": "The Supernova Gamma-Ray Burst Connection",
+   "v": 1745773.696490695,
+   "extra": ""
+  },
+  {
+   "bibcode": "2006RPPh...69.2259M",
+   "year": 2006,
+   "community": 4,
+   "title": "Gamma-ray bursts",
+   "v": 1687527.939296227,
+   "extra": ""
+  },
+  {
+   "bibcode": "1999ApJ...524..262M",
+   "year": 1999,
+   "community": 5,
+   "title": "Collapsars: Gamma-Ray Bursts and Explosions in ``Failed Supernovae''",
+   "v": 1667089.982612787,
+   "extra": ""
+  },
+  {
+   "bibcode": "2004IJMPA..19.2385Z",
+   "year": 2004,
+   "community": 1,
+   "title": "Gamma-Ray Bursts: progress, problems &amp; prospects",
+   "v": 1490224.2808121627,
+   "extra": ""
+  }
+ ],
+ "connector_hubs": [
+  {
+   "bibcode": "1993ApJ...405..273W",
+   "year": 1993,
+   "community": 5,
+   "title": "Gamma-Ray Bursts from Stellar Mass Accretion Disks around Black Holes",
+   "v": 0.8330117762463152,
+   "extra": "z=11.3"
+  },
+  {
+   "bibcode": "2006ARA&A..44..507W",
+   "year": 2006,
+   "community": 5,
+   "title": "The Supernova Gamma-Ray Burst Connection",
+   "v": 0.824195678909251,
+   "extra": "z=9.1"
+  },
+  {
+   "bibcode": "2005SSRv..120..143B",
+   "year": 2005,
+   "community": 1,
+   "title": "The Burst Alert Telescope (BAT) on the SWIFT Midex Mission",
+   "v": 0.8158602150537634,
+   "extra": "z=3.7"
+  },
+  {
+   "bibcode": "2004ApJ...611.1005G",
+   "year": 2004,
+   "community": 1,
+   "title": "The Swift Gamma-Ray Burst Mission",
+   "v": 0.8153810345433758,
+   "extra": "z=8.4"
+  },
+  {
+   "bibcode": "2002A&A...390...81A",
+   "year": 2002,
+   "community": 7,
+   "title": "Intrinsic spectra and energetics of BeppoSAX Gamma-Ray Bursts with known redshifts",
+   "v": 0.8062462554293678,
+   "extra": "z=9.3"
+  },
+  {
+   "bibcode": "2004IJMPA..19.2385Z",
+   "year": 2004,
+   "community": 1,
+   "title": "Gamma-Ray Bursts: progress, problems &amp; prospects",
+   "v": 0.7993559685704641,
+   "extra": "z=6.6"
+  },
+  {
+   "bibcode": "2009MNRAS.397.1177E",
+   "year": 2009,
+   "community": 1,
+   "title": "Methods and results of an automatic analysis of a complete sample of Swift-XRT observation",
+   "v": 0.7965707194357718,
+   "extra": "z=4.8"
+  },
+  {
+   "bibcode": "1999ApJ...524..262M",
+   "year": 1999,
+   "community": 5,
+   "title": "Collapsars: Gamma-Ray Bursts and Explosions in ``Failed Supernovae''",
+   "v": 0.7914467268599282,
+   "extra": "z=11.6"
+  },
+  {
+   "bibcode": "2000ApJ...534..248N",
+   "year": 2000,
+   "community": 7,
+   "title": "Connection between Energy-dependent Lags and Peak Luminosity in Gamma-Ray Bursts",
+   "v": 0.7890394480498255,
+   "extra": "z=3.6"
+  },
+  {
+   "bibcode": "1973ApJ...182L..85K",
+   "year": 1973,
+   "community": 0,
+   "title": "Observations of Gamma-Ray Bursts of Cosmic Origin",
+   "v": 0.7859718788603115,
+   "extra": "z=12.6"
+  },
+  {
+   "bibcode": "2006MNRAS.372..233A",
+   "year": 2006,
+   "community": 7,
+   "title": "The E<SUB>p,i</SUB>-E<SUB>iso</SUB> correlation in gamma-ray bursts: updated observational",
+   "v": 0.78396,
+   "extra": "z=4.4"
+  },
+  {
+   "bibcode": "1998Natur.395..670G",
+   "year": 1998,
+   "community": 5,
+   "title": "An unusual supernova in the error box of the \u03b3-ray burst of 25 April 1998",
+   "v": 0.7823924472836226,
+   "extra": "z=11.0"
+  },
+  {
+   "bibcode": "2007ChJAA...7....1Z",
+   "year": 2007,
+   "community": 1,
+   "title": "Gamma-Ray Bursts in the Swift Era",
+   "v": 0.7813622737992902,
+   "extra": "z=5.6"
+  },
+  {
+   "bibcode": "2001ApJ...562L..55F",
+   "year": 2001,
+   "community": 1,
+   "title": "Beaming in Gamma-Ray Bursts: Evidence for a Standard Energy Reservoir",
+   "v": 0.7806184333458998,
+   "extra": "z=6.5"
+  },
+  {
+   "bibcode": "2004ApJ...609..935Y",
+   "year": 2004,
+   "community": 7,
+   "title": "Gamma-Ray Burst Formation Rate Inferred from the Spectral Peak Energy-Peak Luminosity Rela",
+   "v": 0.7789546779093558,
+   "extra": "z=5.8"
+  }
+ ],
+ "provincial_hubs": [
+  {
+   "bibcode": "2017PhRvL.119p1101A",
+   "year": 2017,
+   "community": 2,
+   "title": "GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral",
+   "v": 12.486985081035916,
+   "extra": "P=0.41"
+  },
+  {
+   "bibcode": "2017ApJ...848L..13A",
+   "year": 2017,
+   "community": 2,
+   "title": "Gravitational Waves and Gamma-Rays from a Binary Neutron Star Merger: GW170817 and GRB 170",
+   "v": 10.514777188946955,
+   "extra": "P=0.54"
+  },
+  {
+   "bibcode": "2017ApJ...848L..12A",
+   "year": 2017,
+   "community": 2,
+   "title": "Multi-messenger Observations of a Binary Neutron Star Merger",
+   "v": 10.213931917272367,
+   "extra": "P=0.46"
+  },
+  {
+   "bibcode": "2014ARA&A..52...43B",
+   "year": 2014,
+   "community": 2,
+   "title": "Short-Duration Gamma-Ray Bursts",
+   "v": 9.428391485677611,
+   "extra": "P=0.59"
+  },
+  {
+   "bibcode": "1990ARA&A..28..401H",
+   "year": 1990,
+   "community": 0,
+   "title": "Gamma-ray bursts.",
+   "v": 8.63311681653549,
+   "extra": "P=0.15"
+  },
+  {
+   "bibcode": "2017ApJ...848L..14G",
+   "year": 2017,
+   "community": 2,
+   "title": "An Ordinary Short Gamma-Ray Burst with Extraordinary Implications: Fermi-GBM Detection of ",
+   "v": 8.291864903795839,
+   "extra": "P=0.48"
+  },
+  {
+   "bibcode": "1999ApJ...525..737R",
+   "year": 1999,
+   "community": 1,
+   "title": "The Dynamics and Light Curves of Beamed Gamma-Ray Burst Afterglows",
+   "v": 7.785066815769027,
+   "extra": "P=0.57"
+  },
+  {
+   "bibcode": "1991PhR...206..327H",
+   "year": 1991,
+   "community": 0,
+   "title": "The physics of gamma-ray bursts",
+   "v": 7.485042050019871,
+   "extra": "P=0.17"
+  },
+  {
+   "bibcode": "1981Natur.290..378M",
+   "year": 1981,
+   "community": 0,
+   "title": "Cyclotron and annihilation lines in \u03b3-ray bursts",
+   "v": 7.485042050019871,
+   "extra": "P=0.15"
+  },
+  {
+   "bibcode": "1988Natur.335..234M",
+   "year": 1988,
+   "community": 0,
+   "title": "Evidence for cyclotron absorption from spectral features in gamma-ray bursts seen with Gin",
+   "v": 6.734377779605813,
+   "extra": "P=0.18"
+  },
+  {
+   "bibcode": "1994ApJS...92..229F",
+   "year": 1994,
+   "community": 0,
+   "title": "The First BATSE Gamma-Ray Burst Catalog",
+   "v": 6.646064336027688,
+   "extra": "P=0.62"
+  },
+  {
+   "bibcode": "2009ApJ...691..182S",
+   "year": 2009,
+   "community": 6,
+   "title": "The Galaxy Population Hosting Gamma-Ray Bursts",
+   "v": 6.156560743702936,
+   "extra": "P=0.55"
+  },
+  {
+   "bibcode": "2015ApJ...815..102F",
+   "year": 2015,
+   "community": 2,
+   "title": "A Decade of Short-duration Gamma-Ray Burst Broadband Afterglows: Energetics, Circumburst D",
+   "v": 5.885102730399139,
+   "extra": "P=0.38"
+  },
+  {
+   "bibcode": "2007ApJ...660...16S",
+   "year": 2007,
+   "community": 7,
+   "title": "The Hubble Diagram to Redshift &gt;6 from 69 Gamma-Ray Bursts",
+   "v": 5.861186482779528,
+   "extra": "P=0.54"
+  },
+  {
+   "bibcode": "2009ApJS..185..526F",
+   "year": 2009,
+   "community": 6,
+   "title": "Low-resolution Spectroscopy of Gamma-ray Burst Optical Afterglows: Biases in the Swift Sam",
+   "v": 5.859325089971453,
+   "extra": "P=0.48"
+  }
+ ],
+ "stable_connectors": [
+  {
+   "bibcode": "2009ARA&A..47..567G",
+   "year": 2009,
+   "community": 6,
+   "title": "Gamma-Ray Bursts in the Swift Era",
+   "v": 0.8520262935528122,
+   "extra": "P=0.85+/-0.01"
+  },
+  {
+   "bibcode": "2019PhyU...62..739A",
+   "year": 2019,
+   "community": 0,
+   "title": "Cosmic gamma-ray bursts and soft gamma-repeaters - observations and modeling of extreme as",
+   "v": 0.8506664153077576,
+   "extra": "P=0.85+/-0.01"
+  },
+  {
+   "bibcode": "2018ARep...62..933P",
+   "year": 2018,
+   "community": 10,
+   "title": "Structure of the Prompt Emission of GRB 151027A Within the Fireshell Model",
+   "v": 0.8406805293005669,
+   "extra": "P=0.84+/-0.01"
+  },
+  {
+   "bibcode": "2020ApJ...893...77W",
+   "year": 2020,
+   "community": 7,
+   "title": "A Comprehensive Statistical Study of Gamma-Ray Bursts",
+   "v": 0.8403268219839991,
+   "extra": "P=0.84+/-0.02"
+  },
+  {
+   "bibcode": "2025Galax..13...16G",
+   "year": 2025,
+   "community": 7,
+   "title": "Gamma-Ray Bursts: The Energy Monsters of the Universe",
+   "v": 0.8391582766439908,
+   "extra": "P=0.84+/-0.01"
+  },
+  {
+   "bibcode": "1993ApJ...405..273W",
+   "year": 1993,
+   "community": 5,
+   "title": "Gamma-Ray Bursts from Stellar Mass Accretion Disks around Black Holes",
+   "v": 0.8312085791931296,
+   "extra": "P=0.83+/-0.02"
+  },
+  {
+   "bibcode": "2014PASJ...66...87S",
+   "year": 2014,
+   "community": 7,
+   "title": "MAXI observations of gamma-ray bursts",
+   "v": 0.8296691358024693,
+   "extra": "P=0.83+/-0.02"
+  },
+  {
+   "bibcode": "2023ApJ...949L...4L",
+   "year": 2023,
+   "community": 6,
+   "title": "GRB 221009A: An Ordinary Nearby GRB with Extraordinary Observational Properties",
+   "v": 0.8265279223031564,
+   "extra": "P=0.83+/-0.02"
+  },
+  {
+   "bibcode": "2011ApJS..195....2S",
+   "year": 2011,
+   "community": 7,
+   "title": "The Second Swift Burst Alert Telescope Gamma-Ray Burst Catalog",
+   "v": 0.8261517700957934,
+   "extra": "P=0.83+/-0.02"
+  },
+  {
+   "bibcode": "2016ApJ...818...18G",
+   "year": 2016,
+   "community": 7,
+   "title": "Estimating Long GRB Jet Opening Angles and Rest-frame Energetics",
+   "v": 0.8254167417823447,
+   "extra": "P=0.83+/-0.02"
+  },
+  {
+   "bibcode": "2025EPJC...85..820X",
+   "year": 2025,
+   "community": 10,
+   "title": "Collimated and spinning fireballs for ultra-relativistic jets: long vs short gamma-ray bur",
+   "v": 0.8213551020408164,
+   "extra": "P=0.82+/-0.01"
+  },
+  {
+   "bibcode": "2009ApJ...703.1696Z",
+   "year": 2009,
+   "community": 2,
+   "title": "Discerning the Physical Origins of Cosmological Gamma-ray Bursts Based on Multiple Observa",
+   "v": 0.8212575515924798,
+   "extra": "P=0.82+/-0.01"
+  },
+  {
+   "bibcode": "2011IJMPD..20.1797R",
+   "year": 2011,
+   "community": 10,
+   "title": "Fundamental Physics from Black Holes, Neutron Stars and Gamma-Ray Bursts",
+   "v": 0.8190114464099897,
+   "extra": "P=0.82+/-0.01"
+  },
+  {
+   "bibcode": "2017MNRAS.468..570M",
+   "year": 2017,
+   "community": 7,
+   "title": "Physical insight into the Combo-relation",
+   "v": 0.8179747614650662,
+   "extra": "P=0.82+/-0.01"
+  },
+  {
+   "bibcode": "2013ApJ...767....2Q",
+   "year": 2013,
+   "community": 7,
+   "title": "Roles of the Kinetic and Dynamic Mechanisms in the L<SUB>p</SUB> -E<SUB>p</SUB> Relation",
+   "v": 0.8166607333570665,
+   "extra": "P=0.82+/-0.02"
+  }
+ ],
+ "flows_top": [
+  {
+   "src": 8,
+   "dst": 4,
+   "obs": 433,
+   "exp": 310.87715880439896,
+   "log2_oe": 0.47802240406000185
+  },
+  {
+   "src": 4,
+   "dst": 11,
+   "obs": 39,
+   "exp": 28.50808048143737,
+   "log2_oe": 0.4521032216032746
+  },
+  {
+   "src": 12,
+   "dst": 6,
+   "obs": 116,
+   "exp": 90.72647826669926,
+   "log2_oe": 0.35452924155669285
+  },
+  {
+   "src": 9,
+   "dst": 3,
+   "obs": 360,
+   "exp": 310.19403145958705,
+   "log2_oe": 0.2148259792605594
+  },
+  {
+   "src": 9,
+   "dst": 0,
+   "obs": 184,
+   "exp": 162.7650048243642,
+   "log2_oe": 0.1769152189720854
+  },
+  {
+   "src": 13,
+   "dst": 5,
+   "obs": 149,
+   "exp": 132.11466475269546,
+   "log2_oe": 0.17352171579275205
+  },
+  {
+   "src": 3,
+   "dst": 4,
+   "obs": 3628,
+   "exp": 3853.1451515796834,
+   "log2_oe": -0.08686207882550255
+  },
+  {
+   "src": 4,
+   "dst": 3,
+   "obs": 4594,
+   "exp": 4895.763477328117,
+   "log2_oe": -0.09178300394374055
+  },
+  {
+   "src": 10,
+   "dst": 5,
+   "obs": 524,
+   "exp": 561.0795638879906,
+   "log2_oe": -0.09863855494943258
+  },
+  {
+   "src": 4,
+   "dst": 8,
+   "obs": 267,
+   "exp": 293.70586101098695,
+   "log2_oe": -0.1375323135596626
+  },
+  {
+   "src": 8,
+   "dst": 3,
+   "obs": 529,
+   "exp": 595.5782112256514,
+   "log2_oe": -0.1710232526490508
+  },
+  {
+   "src": 6,
+   "dst": 5,
+   "obs": 4332,
+   "exp": 5084.34442016926,
+   "log2_oe": -0.23102852076399844
+  },
+  {
+   "src": 10,
+   "dst": 3,
+   "obs": 539,
+   "exp": 633.9980387053351,
+   "log2_oe": -0.23419310436724347
+  },
+  {
+   "src": 13,
+   "dst": 1,
+   "obs": 186,
+   "exp": 232.3730903010561,
+   "log2_oe": -0.3211403874391338
+  },
+  {
+   "src": 12,
+   "dst": 4,
+   "obs": 50,
+   "exp": 65.56466619869019,
+   "log2_oe": -0.3909904389604994
+  },
+  {
+   "src": 9,
+   "dst": 2,
+   "obs": 307,
+   "exp": 402.64708526899443,
+   "log2_oe": -0.39127723427953925
+  },
+  {
+   "src": 3,
+   "dst": 9,
+   "obs": 164,
+   "exp": 218.89292277599438,
+   "log2_oe": -0.41652949535830863
+  },
+  {
+   "src": 4,
+   "dst": 1,
+   "obs": 5645,
+   "exp": 7620.645705001301,
+   "log2_oe": -0.43293966290619074
+  },
+  {
+   "src": 7,
+   "dst": 6,
+   "obs": 1728,
+   "exp": 2398.312468943977,
+   "log2_oe": -0.47291641790968386
+  },
+  {
+   "src": 5,
+   "dst": 6,
+   "obs": 3175,
+   "exp": 4409.757404150268,
+   "log2_oe": -0.4739426984884012
+  }
+ ],
+ "flows_bottom": [
+  {
+   "src": 0,
+   "dst": 6,
+   "obs": 487,
+   "exp": 2571.778218587079,
+   "log2_oe": -2.400772557492711
+  },
+  {
+   "src": 2,
+   "dst": 10,
+   "obs": 83,
+   "exp": 464.434826388615,
+   "log2_oe": -2.4842929174837596
+  },
+  {
+   "src": 1,
+   "dst": 10,
+   "obs": 68,
+   "exp": 433.4862407029112,
+   "log2_oe": -2.6723795500805845
+  },
+  {
+   "src": 8,
+   "dst": 6,
+   "obs": 66,
+   "exp": 430.182771104293,
+   "log2_oe": -2.7044118161439252
+  },
+  {
+   "src": 6,
+   "dst": 3,
+   "obs": 783,
+   "exp": 5745.111028733229,
+   "log2_oe": -2.875250561714151
+  },
+  {
+   "src": 3,
+   "dst": 6,
+   "obs": 698,
+   "exp": 5331.870199626144,
+   "log2_oe": -2.933342717980028
+  },
+  {
+   "src": 2,
+   "dst": 8,
+   "obs": 83,
+   "exp": 651.8206782503989,
+   "log2_oe": -2.973291879046929
+  },
+  {
+   "src": 6,
+   "dst": 4,
+   "obs": 363,
+   "exp": 2998.806470694945,
+   "log2_oe": -3.046346966913088
+  },
+  {
+   "src": 8,
+   "dst": 1,
+   "obs": 107,
+   "exp": 927.0649120177936,
+   "log2_oe": -3.115059561606819
+  },
+  {
+   "src": 1,
+   "dst": 8,
+   "obs": 38,
+   "exp": 608.385244543999,
+   "log2_oe": -4.000913839450508
+  }
+ ],
+ "role_counts": {
+  "connector_hub": 126,
+  "provincial_hub": 207,
+  "connector_nonhub": 3562,
+  "peripheral": 9905
+ },
+ "role_counts_stable": {
+  "population": 7562,
+  "connector_hub": 66,
+  "provincial_hub": 129,
+  "connector_nonhub": 1348,
+  "peripheral": 6019,
+  "absent_communities": [
+   8,
+   9,
+   11,
+   12,
+   13
+  ]
+ }
+}

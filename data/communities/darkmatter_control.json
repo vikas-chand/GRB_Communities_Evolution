@@ -1,0 +1,28 @@
+{
+ "dm_community": 10,
+ "dm_size": 99,
+ "real_dm": 0.050505050505050504,
+ "real_weakest": 0.050505050505050504,
+ "real_n_below_50": 1,
+ "controls": [
+  {
+   "weakest_id": 1,
+   "weakest_frac": 0.7183585313174946,
+   "n_below_50": 0,
+   "dm_frac": 0.9797979797979798
+  },
+  {
+   "weakest_id": 0,
+   "weakest_frac": 0.5363105175292153,
+   "n_below_50": 0,
+   "dm_frac": 0.9393939393939394
+  },
+  {
+   "weakest_id": 0,
+   "weakest_frac": 0.6114357262103506,
+   "n_below_50": 0,
+   "dm_frac": 0.9696969696969697
+  }
+ ],
+ "specific": true
+}

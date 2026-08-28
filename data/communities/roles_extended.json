@@ -1,0 +1,624 @@
+{
+ "tops": {
+  "exporters": [
+   {
+    "bibcode": "2009ARA&A..47..567G",
+    "year": 2009,
+    "community": 6,
+    "v": 0.87294265910523,
+    "title": "Gamma-Ray Bursts in the Swift Era"
+   },
+   {
+    "bibcode": "2008ApJS..175..179S",
+    "year": 2008,
+    "community": 7,
+    "v": 0.8486394557823129,
+    "title": "The First Swift BAT Gamma-Ray Burst Catalog"
+   },
+   {
+    "bibcode": "2011ApJS..195....2S",
+    "year": 2011,
+    "community": 7,
+    "v": 0.84255,
+    "title": "The Second Swift Burst Alert Telescope Gamma-Ray Burst Catalog"
+   },
+   {
+    "bibcode": "2006ARA&A..44..507W",
+    "year": 2006,
+    "community": 5,
+    "v": 0.8331153764696342,
+    "title": "The Supernova Gamma-Ray Burst Connection"
+   },
+   {
+    "bibcode": "1993ApJ...405..273W",
+    "year": 1993,
+    "community": 5,
+    "v": 0.8318749454473319,
+    "title": "Gamma-Ray Bursts from Stellar Mass Accretion Disks around Black Holes"
+   },
+   {
+    "bibcode": "2012MNRAS.421.1256N",
+    "year": 2012,
+    "community": 7,
+    "v": 0.8299038623713948,
+    "title": "A complete sample of bright Swift long gamma-ray bursts: testing the spectral-energy cor"
+   },
+   {
+    "bibcode": "1995ARA&A..33..415F",
+    "year": 1995,
+    "community": 0,
+    "v": 0.8257568828317936,
+    "title": "Gamma-Ray Bursts"
+   },
+   {
+    "bibcode": "2009ApJ...703.1696Z",
+    "year": 2009,
+    "community": 2,
+    "v": 0.820398023169306,
+    "title": "Discerning the Physical Origins of Cosmological Gamma-ray Bursts Based on Multiple Obser"
+   },
+   {
+    "bibcode": "2000PhR...333..529P",
+    "year": 2000,
+    "community": 1,
+    "v": 0.8192623130564449,
+    "title": "Gamma-ray bursts - a puzzle being resolved"
+   },
+   {
+    "bibcode": "2018A&A...609A.112G",
+    "year": 2018,
+    "community": 1,
+    "v": 0.8179995544664737,
+    "title": "Bulk Lorentz factors of gamma-ray bursts"
+   }
+  ],
+  "importers": [
+   {
+    "bibcode": "2019PhyU...62..739A",
+    "year": 2019,
+    "community": 0,
+    "v": 0.8587081891580162,
+    "title": "Cosmic gamma-ray bursts and soft gamma-repeaters - observations and modeling of extreme "
+   },
+   {
+    "bibcode": "2020ApJ...893...77W",
+    "year": 2020,
+    "community": 7,
+    "v": 0.8547904408044066,
+    "title": "A Comprehensive Statistical Study of Gamma-Ray Bursts"
+   },
+   {
+    "bibcode": "2016ApJ...829....7L",
+    "year": 2016,
+    "community": 2,
+    "v": 0.8489256198347108,
+    "title": "The Third Swift Burst Alert Telescope Gamma-Ray Burst Catalog"
+   },
+   {
+    "bibcode": "2013ApJ...767....2Q",
+    "year": 2013,
+    "community": 7,
+    "v": 0.8396770472895041,
+    "title": "Roles of the Kinetic and Dynamic Mechanisms in the L<SUB>p</SUB> -E<SUB>p</SUB> Relation"
+   },
+   {
+    "bibcode": "2025Galax..13...16G",
+    "year": 2025,
+    "community": 7,
+    "v": 0.838854421831002,
+    "title": "Gamma-Ray Bursts: The Energy Monsters of the Universe"
+   },
+   {
+    "bibcode": "2011IJMPD..20.1797R",
+    "year": 2011,
+    "community": 10,
+    "v": 0.8382608695652174,
+    "title": "Fundamental Physics from Black Holes, Neutron Stars and Gamma-Ray Bursts"
+   },
+   {
+    "bibcode": "2017MNRAS.468..570M",
+    "year": 2017,
+    "community": 7,
+    "v": 0.8380177514792899,
+    "title": "Physical insight into the Combo-relation"
+   },
+   {
+    "bibcode": "2025NatAs...9..564L",
+    "year": 2025,
+    "community": 5,
+    "v": 0.8279163517258756,
+    "title": "Soft X-ray prompt emission from the high-redshift gamma-ray burst EP240315a"
+   },
+   {
+    "bibcode": "2007PhR...442..166N",
+    "year": 2007,
+    "community": 2,
+    "v": 0.8249831122482529,
+    "title": "Short-hard gamma-ray bursts"
+   },
+   {
+    "bibcode": "2009ARA&A..47..567G",
+    "year": 2009,
+    "community": 6,
+    "v": 0.8239063170288697,
+    "title": "Gamma-Ray Bursts in the Swift Era"
+   }
+  ],
+  "export_asym": [
+   {
+    "bibcode": "1991ApJ...373..277K",
+    "year": 1991,
+    "community": 0,
+    "v": 0.7227095464182268,
+    "title": "Relativistic Motion in Gamma-Ray Bursts"
+   },
+   {
+    "bibcode": "2009MNRAS.397.1177E",
+    "year": 2009,
+    "community": 1,
+    "v": 0.6029208719135802,
+    "title": "Methods and results of an automatic analysis of a complete sample of Swift-XRT observati"
+   },
+   {
+    "bibcode": "1999ApJ...523..177W",
+    "year": 1999,
+    "community": 1,
+    "v": 0.5480092029072183,
+    "title": "Physical Parameters of GRB 970508 and GRB 971214 from Their Afterglow Synchrotron Emissi"
+   },
+   {
+    "bibcode": "1995ARA&A..33..415F",
+    "year": 1995,
+    "community": 0,
+    "v": 0.5444851904813841,
+    "title": "Gamma-Ray Bursts"
+   },
+   {
+    "bibcode": "1996ApJ...459...40B",
+    "year": 1996,
+    "community": 0,
+    "v": 0.502196749390614,
+    "title": "BATSE Observations of the Large-Scale Isotropy of Gamma-Ray Bursts"
+   },
+   {
+    "bibcode": "2011ApJ...739L..55B",
+    "year": 2011,
+    "community": 5,
+    "v": 0.4997256046207095,
+    "title": "Are Low-luminosity Gamma-Ray Bursts Generated by Relativistic Jets?"
+   },
+   {
+    "bibcode": "2006Natur.442.1011P",
+    "year": 2006,
+    "community": 5,
+    "v": 0.4892173516349342,
+    "title": "An optical supernova associated with the X-ray flash XRF 060218"
+   },
+   {
+    "bibcode": "2003ApJ...591.1075K",
+    "year": 2003,
+    "community": 1,
+    "v": 0.4721772092815635,
+    "title": "The Evolution of a Structured Relativistic Jet and Gamma-Ray Burst Afterglow Light Curve"
+   },
+   {
+    "bibcode": "2001ApJ...558L.109D",
+    "year": 2001,
+    "community": 1,
+    "v": 0.4466726597251145,
+    "title": "Afterglow Emission from Highly Collimated Jets with Flat Electron Spectra: Application t"
+   },
+   {
+    "bibcode": "1999ApJ...519L..17S",
+    "year": 1999,
+    "community": 1,
+    "v": 0.43459010970647405,
+    "title": "Jets in Gamma-Ray Bursts"
+   }
+  ],
+  "import_asym": [
+   {
+    "bibcode": "2008ApJ...680...92L",
+    "year": 2008,
+    "community": 7,
+    "v": 0.6159132231069553,
+    "title": "Overcoming the Circular Problem for Gamma-Ray Bursts in Cosmological Global-Fitting Anal"
+   },
+   {
+    "bibcode": "2005ApJ...633..603X",
+    "year": 2005,
+    "community": 7,
+    "v": 0.5721765558075081,
+    "title": "Can Gamma-Ray Bursts Be Used to Measure Cosmology? A Further Analysis"
+   },
+   {
+    "bibcode": "2017MNRAS.471.1652L",
+    "year": 2017,
+    "community": 2,
+    "v": 0.523878737441139,
+    "title": "Off-axis emission of short \u03b3-ray bursts and the detectability of electromagnetic counter"
+   },
+   {
+    "bibcode": "2019A&A...628A..18S",
+    "year": 2019,
+    "community": 2,
+    "v": 0.5096021947873798,
+    "title": "On-axis view of GRB 170817A"
+   },
+   {
+    "bibcode": "2015A&A...582A.115I",
+    "year": 2015,
+    "community": 7,
+    "v": 0.4939425887040422,
+    "title": "New measurements of \u03a9<SUB>m</SUB> from gamma-ray bursts"
+   },
+   {
+    "bibcode": "2014ApJ...788L...8M",
+    "year": 2014,
+    "community": 2,
+    "v": 0.41998824145792024,
+    "title": "Necessary Conditions for Short Gamma-Ray Burst Production in Binary Neutron Star Mergers"
+   },
+   {
+    "bibcode": "2015ApJ...800...31D",
+    "year": 2015,
+    "community": 7,
+    "v": 0.40498991935483875,
+    "title": "Selection Effects in Gamma-Ray Burst Correlations: Consequences on the Ratio between Gam"
+   },
+   {
+    "bibcode": "2006NJPh....8..123G",
+    "year": 2006,
+    "community": 7,
+    "v": 0.3970238584227168,
+    "title": "Gamma-ray bursts as standard candles to constrain the cosmological parameters"
+   },
+   {
+    "bibcode": "2018AdAst2018E...1D",
+    "year": 2018,
+    "community": 7,
+    "v": 0.3945921845951239,
+    "title": "Gamma-Ray Burst Prompt Correlations"
+   },
+   {
+    "bibcode": "2017ApJ...848L...6L",
+    "year": 2017,
+    "community": 2,
+    "v": 0.38208285478927984,
+    "title": "Off-axis Prompt X-Ray Transients from the Cocoon of Short Gamma-Ray Bursts"
+   }
+  ]
+ },
+ "community_founders": {
+  "0": {
+   "bibcode": "1973ApJ...182L..85K",
+   "year": 1973,
+   "title": "Observations of Gamma-Ray Bursts of Cosmic Origin"
+  },
+  "1": {
+   "bibcode": "1992MNRAS.258P..41R",
+   "year": 1992,
+   "title": "Relativistic fireballs - Energy conversion and time-scales."
+  },
+  "2": {
+   "bibcode": "1989Natur.340..126E",
+   "year": 1989,
+   "title": "Nucleosynthesis, neutrino bursts and \u03b3-rays from coalescing neutron stars"
+  },
+  "3": {
+   "bibcode": "1986ApJ...308L..47G",
+   "year": 1986,
+   "title": "Are gamma-ray bursts optically thick?"
+  },
+  "4": {
+   "bibcode": "1994MNRAS.269L..41M",
+   "year": 1994,
+   "title": "Delayed GEV Emission from Cosmological Gamma-Ray Bursts - Impact of a Relativistic Wind "
+  },
+  "5": {
+   "bibcode": "1992ApJ...391..228W",
+   "year": 1992,
+   "title": "The Collapse of White Dwarfs to Neutron Stars"
+  },
+  "6": {
+   "bibcode": "1997ApJ...486L..71T",
+   "year": 1997,
+   "title": "Cosmological Gamma-Ray Bursts and Evolution of Galaxies"
+  },
+  "7": {
+   "bibcode": "2000ApJ...534..248N",
+   "year": 2000,
+   "title": "Connection between Energy-dependent Lags and Peak Luminosity in Gamma-Ray Bursts"
+  },
+  "8": {
+   "bibcode": "1998Natur.393..763A",
+   "year": 1998,
+   "title": "Tests of quantum gravity from observations of \u03b3-ray bursts"
+  },
+  "9": {
+   "bibcode": "1996GeoRL..23.1017I",
+   "year": 1996,
+   "title": "On the association of terrestrial gamma-ray bursts with lightning and implications for s"
+  },
+  "10": {
+   "bibcode": "1998A&A...338L..87P",
+   "year": 1998,
+   "title": "The dyadosphere of black holes and gamma-ray bursts"
+  },
+  "11": {
+   "bibcode": "2002PhRvD..66l3502U",
+   "year": 2002,
+   "title": "Cosmological dark matter annihilations into \u03b3 rays: A closer look"
+  },
+  "12": {
+   "bibcode": "1995ApJ...444L..53T",
+   "year": 1995,
+   "title": "Terrestrial Implications of Cosmological Gamma-Ray Burst Models"
+  },
+  "13": {
+   "bibcode": "1991ApJ...375..209H",
+   "year": 1991,
+   "title": "Gamma-Ray Bursts from Colliding Strange Stars"
+  },
+  "14": {
+   "bibcode": "2019WRR....55.9191G",
+   "year": 2019,
+   "title": "Role of Extreme Precipitation and Initial Hydrologic Conditions on Floods in Godavari Ri"
+  },
+  "15": {
+   "bibcode": "2018Sust...10.3052R",
+   "year": 2018,
+   "title": "Land Use and Land Cover Dynamics and Assessing the Ecosystem Service Values in the Trans"
+  },
+  "16": {
+   "bibcode": "2006PASJ...58..461F",
+   "year": 2006,
+   "title": "Velocity-Dependent Eddington Factor in Relativistic Radiative Flow"
+  },
+  "17": {
+   "bibcode": "1999ApL&C..39..273G",
+   "year": 1999,
+   "title": "A Search for Optical Transients in GRB Error Boxes Provided by Watch and BATSE"
+  },
+  "18": {
+   "bibcode": "2024CarbL..34.2223K",
+   "year": 2024,
+   "title": "Chemical dissolution of oxide layer on carbon steel SA 106 GR.B-based oxalic acid"
+  },
+  "19": {
+   "bibcode": "2019Sust...11.3590L",
+   "year": 2019,
+   "title": "Promoting Green Residential Buildings in China: Bridging the Gap between Design and Oper"
+  },
+  "20": {
+   "bibcode": "2018RadAc.106..709L",
+   "year": 2018,
+   "title": "Measurement of cross sections and isomeric cross-section ratios for the (n,2n) reactions"
+  },
+  "21": {
+   "bibcode": "2015NuPhB.892..400P",
+   "year": 2015,
+   "title": "Predicting the values of the leptonic CP violation phases in theories with discrete flav"
+  },
+  "22": {
+   "bibcode": "1995PNAS...92.8891R",
+   "year": 1995,
+   "title": "p56<SUP>Lck</SUP> and p59<SUP>Fyn</SUP> Regulate CD28 Binding to Phosphatidylinositol 3-"
+  },
+  "23": {
+   "bibcode": "2022GeoIn..3713658F",
+   "year": 2022,
+   "title": "Evaluation of spatio-temporal variations of FVC and its relationship with climate change"
+  },
+  "24": {
+   "bibcode": "2015JHyd..529..754A",
+   "year": 2015,
+   "title": "A comparative analysis of 9 multi-model averaging approaches in hydrological continuous "
+  },
+  "25": {
+   "bibcode": "2012NatSR...2..433I",
+   "year": 2012,
+   "title": "Comparative genomics of the Hedgehog loci in chordates and the origins of Shh regulatory"
+  },
+  "26": {
+   "bibcode": "2022DyAtO..9901317G",
+   "year": 2022,
+   "title": "Performance evaluation of CORDEX-Africa regional climate models in simulating climate va"
+  },
+  "27": {
+   "bibcode": "2023EMnAs.195.1062S",
+   "year": 2023,
+   "title": "Projected climate extremes over agro-climatic zones of Ganga River Basin under 1.5, 2, a"
+  },
+  "28": {
+   "bibcode": "2019JHyd..571..225K",
+   "year": 2019,
+   "title": "Spatial distribution of \u03b4<SUP>18</SUP>O values of water in the Ganga river basin: Insigh"
+  },
+  "29": {
+   "bibcode": "1996KosIs..34..564K",
+   "year": 1996,
+   "title": "Can the problem of origin of gamma-ray bursts be solved?"
+  },
+  "30": {
+   "bibcode": "2019CMAME.344..186D",
+   "year": 2019,
+   "title": "An algebraic least squares reduced basis method for the solution of nonaffinely parametr"
+  },
+  "31": {
+   "bibcode": "2022JWCC...13..158L",
+   "year": 2022,
+   "title": "Interactive influence of climate variability and land-use change on blue and green water"
+  },
+  "32": {
+   "bibcode": "2009Caten..79...49B",
+   "year": 2009,
+   "title": "Soil erosion prediction in the Grande River Basin, Brazil using distributed modeling"
+  },
+  "33": {
+   "bibcode": "1999ApL&C..39..305H",
+   "year": 1999,
+   "title": "Gamma-Ray Burst Localization with Integral in the Interplanetary Network"
+  },
+  "34": {
+   "bibcode": "2022EMnAs.194..729R",
+   "year": 2022,
+   "title": "Contamination assessment and potential sources of heavy metals and other elements in sed"
+  },
+  "35": {
+   "bibcode": "1991AdSpR..11h..17L",
+   "year": 1991,
+   "title": "First results from watch on granat"
+  },
+  "36": {
+   "bibcode": "1994Sci...264..424A",
+   "year": 1994,
+   "title": "Differential Complementation of Bcr-Abl Point Mutants with c-Myc"
+  },
+  "37": {
+   "bibcode": "1996NIMPA.380..431E",
+   "year": 1996,
+   "title": "Current state-of-the-art industrial and research applications using room-temperature CdT"
+  },
+  "38": {
+   "bibcode": "2008Toxgy.243..294L",
+   "year": 2008,
+   "title": "DDVP markedly decreases the expression of granzyme B and granzyme 3/K in human NK cells"
+  },
+  "39": {
+   "bibcode": "2010Bioin..26.1714B",
+   "year": 2010,
+   "title": "Prediction of protease substrates using sequence and structure features"
+  },
+  "40": {
+   "bibcode": "2015MEnvQ..26..631D",
+   "year": 2015,
+   "title": "Assessment of human-induced impacts on hydrological regime of Gomti river basin, India"
+  },
+  "41": {
+   "bibcode": "1985JGR....90.7592B",
+   "year": 1985,
+   "title": "Evidence for a nonmagnetospheric origin of fast atmospheric pulsations"
+  },
+  "42": {
+   "bibcode": "1988ApJ...327..466S",
+   "year": 1988,
+   "title": "Evidence for Two Hard X-Ray Components in Double Power-Law FITS to the 1980 June 7 Flare"
+  },
+  "43": {
+   "bibcode": "1995PNAS...9210287L",
+   "year": 1995,
+   "title": "Grb-IR: A SH2-Domain-Containing Protein that Binds to the Insulin Receptor and Inhibits "
+  },
+  "44": {
+   "bibcode": "2001HyInt.135....3C",
+   "year": 2001,
+   "title": "X-Ray-Driven Gamma Emission"
+  },
+  "45": {
+   "bibcode": "2001PhRvD..64j4012A",
+   "year": 2001,
+   "title": "Gravitational collapse of a radiating shell"
+  },
+  "46": {
+   "bibcode": "2002NIMPA.488..543A",
+   "year": 2002,
+   "title": "Point spread function and centroiding accuracy measurements with the JET-X mirror and MO"
+  },
+  "47": {
+   "bibcode": "2003FEBSL.546...45Z",
+   "year": 2003,
+   "title": "The ins and outs of leptin receptor activation"
+  },
+  "48": {
+   "bibcode": "2010Litho.118..213B",
+   "year": 2010,
+   "title": "New <SUP>40</SUP>Ar/ <SUP>39</SUP>Ar dating of the Grande Ronde lavas, Columbia River Ba"
+  },
+  "49": {
+   "bibcode": "2011OAJ.....4..165S",
+   "year": 2011,
+   "title": "On Gravity-centric Cosmology and the Implications of a Universe Awash with Plasma"
+  },
+  "50": {
+   "bibcode": "2015PhRvL.115t4801L",
+   "year": 2015,
+   "title": "Attosecond Gamma-Ray Pulses via Nonlinear Compton Scattering in the Radiation-Dominated "
+  },
+  "51": {
+   "bibcode": "2014PlPhR..40..178K",
+   "year": 2014,
+   "title": "Dynamics of accelerated ions in coronal loops and model of a gamma-ray source"
+  },
+  "52": {
+   "bibcode": "2008NIMPA.588..146F",
+   "year": 2008,
+   "title": "Cherenkov flashes and fluorescence flares on telescopes: New lights on UHECR spectroscop"
+  },
+  "53": {
+   "bibcode": "2019AdSpR..64.2531T",
+   "year": 2019,
+   "title": "The CALorimetric Electron Telescope (CALET) on the International Space Station"
+  },
+  "54": {
+   "bibcode": "2022Sust...1413070Y",
+   "year": 2022,
+   "title": "Analysis of Landscape Composition and Configuration Based on LULC Change Modeling"
+  },
+  "55": {
+   "bibcode": "2023EScIn..17...75R",
+   "year": 2023,
+   "title": "Google Earth Engine-based morphometric parameter evaluation and comparative analysis of "
+  },
+  "56": {
+   "bibcode": "2001PNAS...9811515M",
+   "year": 2001,
+   "title": "Blockade of the granzyme B/perforin pathway through overexpression of the serine proteas"
+  },
+  "57": {
+   "bibcode": "2009ChGeo.264..364J",
+   "year": 2009,
+   "title": "Chemical weathering and associated CO <SUB>2</SUB> consumption in the Godavari river bas"
+  },
+  "58": {
+   "bibcode": "2024ThApC.155.4307D",
+   "year": 2024,
+   "title": "Abating water storage and associated hydrological processes in Indian Himalayan river ba"
+  },
+  "59": {
+   "bibcode": "2020WRR....5625388T",
+   "year": 2020,
+   "title": "How Do Gaining and Losing Streams React to the Combined Effects of Climate Change and Pu"
+  },
+  "60": {
+   "bibcode": "2022GeoIn..37.3817M",
+   "year": 2022,
+   "title": "Estimation of spatio-temporal variability in land surface temperature over the Ganga Riv"
+  },
+  "61": {
+   "bibcode": "2011MmSAI..82...14M",
+   "year": 2011,
+   "title": "Microquasars"
+  },
+  "62": {
+   "bibcode": "2021ExA....51.1203G",
+   "year": 2021,
+   "title": "A deep study of the high-energy transient sky"
+  },
+  "63": {
+   "bibcode": "2023JNST...60.1208Y",
+   "year": 2023,
+   "title": "A novel Compton camera with an annular absorber for enhancing the imaging efficiency in "
+  },
+  "64": {
+   "bibcode": "2024ApJ...974..221F",
+   "year": 2024,
+   "title": "Unveiling the Multifaceted GRB 200613A: Prompt Emission Dynamics, Afterglow Evolution, a"
+  },
+  "65": {
+   "bibcode": "2026PhRvD.113b3033G",
+   "year": 2026,
+   "title": "Heavy axions can disrupt <inline-formula><mml:math><mml:mi>\u03b3</mml:mi></mml:math></inline"
+  }
+ }
+}

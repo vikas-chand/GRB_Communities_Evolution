@@ -1,0 +1,2401 @@
+[
+ {
+  "facility": "Swift",
+  "hits": 2329,
+  "linked": 1894,
+  "concentration": 0.3,
+  "top": [
+   [
+    1,
+    568
+   ],
+   [
+    2,
+    311
+   ],
+   [
+    6,
+    297
+   ]
+  ]
+ },
+ {
+  "facility": "Fermi",
+  "hits": 1338,
+  "linked": 1306,
+  "concentration": 0.25,
+  "top": [
+   [
+    5,
+    321
+   ],
+   [
+    3,
+    308
+   ],
+   [
+    2,
+    220
+   ]
+  ]
+ },
+ {
+  "facility": "BATSE",
+  "hits": 856,
+  "linked": 815,
+  "concentration": 0.52,
+  "top": [
+   [
+    0,
+    427
+   ],
+   [
+    3,
+    126
+   ],
+   [
+    7,
+    59
+   ]
+  ]
+ },
+ {
+  "facility": "Fermi-GBM",
+  "hits": 537,
+  "linked": 528,
+  "concentration": 0.28,
+  "top": [
+   [
+    3,
+    146
+   ],
+   [
+    2,
+    122
+   ],
+   [
+    9,
+    68
+   ]
+  ]
+ },
+ {
+  "facility": "LIGO/Virgo",
+  "hits": 489,
+  "linked": 477,
+  "concentration": 0.77,
+  "top": [
+   [
+    2,
+    366
+   ],
+   [
+    4,
+    59
+   ],
+   [
+    5,
+    15
+   ]
+  ]
+ },
+ {
+  "facility": "Fermi-LAT",
+  "hits": 311,
+  "linked": 296,
+  "concentration": 0.6,
+  "top": [
+   [
+    5,
+    178
+   ],
+   [
+    3,
+    44
+   ],
+   [
+    2,
+    24
+   ]
+  ]
+ },
+ {
+  "facility": "IceCube",
+  "hits": 253,
+  "linked": 243,
+  "concentration": 0.83,
+  "top": [
+   [
+    5,
+    201
+   ],
+   [
+    8,
+    15
+   ],
+   [
+    2,
+    10
+   ]
+  ]
+ },
+ {
+  "facility": "CGRO",
+  "hits": 256,
+  "linked": 230,
+  "concentration": 0.55,
+  "top": [
+   [
+    0,
+    126
+   ],
+   [
+    3,
+    44
+   ],
+   [
+    5,
+    19
+   ]
+  ]
+ },
+ {
+  "facility": "BeppoSAX",
+  "hits": 226,
+  "linked": 210,
+  "concentration": 0.44,
+  "top": [
+   [
+    1,
+    92
+   ],
+   [
+    7,
+    27
+   ],
+   [
+    0,
+    26
+   ]
+  ]
+ },
+ {
+  "facility": "INTEGRAL",
+  "hits": 234,
+  "linked": 201,
+  "concentration": 0.23,
+  "top": [
+   [
+    3,
+    47
+   ],
+   [
+    1,
+    39
+   ],
+   [
+    2,
+    37
+   ]
+  ]
+ },
+ {
+  "facility": "HST",
+  "hits": 201,
+  "linked": 193,
+  "concentration": 0.32,
+  "top": [
+   [
+    6,
+    62
+   ],
+   [
+    2,
+    39
+   ],
+   [
+    4,
+    35
+   ]
+  ]
+ },
+ {
+  "facility": "VLT",
+  "hits": 189,
+  "linked": 179,
+  "concentration": 0.58,
+  "top": [
+   [
+    6,
+    103
+   ],
+   [
+    4,
+    24
+   ],
+   [
+    1,
+    20
+   ]
+  ]
+ },
+ {
+  "facility": "Chandra",
+  "hits": 159,
+  "linked": 155,
+  "concentration": 0.29,
+  "top": [
+   [
+    2,
+    45
+   ],
+   [
+    1,
+    41
+   ],
+   [
+    4,
+    33
+   ]
+  ]
+ },
+ {
+  "facility": "Konus",
+  "hits": 157,
+  "linked": 151,
+  "concentration": 0.49,
+  "top": [
+   [
+    0,
+    74
+   ],
+   [
+    1,
+    16
+   ],
+   [
+    7,
+    13
+   ]
+  ]
+ },
+ {
+  "facility": "VLA",
+  "hits": 145,
+  "linked": 144,
+  "concentration": 0.37,
+  "top": [
+   [
+    1,
+    53
+   ],
+   [
+    2,
+    29
+   ],
+   [
+    4,
+    27
+   ]
+  ]
+ },
+ {
+  "facility": "XMM-Newton",
+  "hits": 140,
+  "linked": 133,
+  "concentration": 0.35,
+  "top": [
+   [
+    1,
+    47
+   ],
+   [
+    4,
+    26
+   ],
+   [
+    6,
+    22
+   ]
+  ]
+ },
+ {
+  "facility": "HETE",
+  "hits": 138,
+  "linked": 125,
+  "concentration": 0.27,
+  "top": [
+   [
+    1,
+    34
+   ],
+   [
+    7,
+    30
+   ],
+   [
+    6,
+    14
+   ]
+  ]
+ },
+ {
+  "facility": "Planck",
+  "hits": 121,
+  "linked": 120,
+  "concentration": 0.28,
+  "top": [
+   [
+    7,
+    33
+   ],
+   [
+    3,
+    25
+   ],
+   [
+    8,
+    22
+   ]
+  ]
+ },
+ {
+  "facility": "EGRET",
+  "hits": 105,
+  "linked": 92,
+  "concentration": 0.48,
+  "top": [
+   [
+    5,
+    44
+   ],
+   [
+    0,
+    23
+   ],
+   [
+    11,
+    11
+   ]
+  ]
+ },
+ {
+  "facility": "Einstein Probe",
+  "hits": 90,
+  "linked": 90,
+  "concentration": 0.49,
+  "top": [
+   [
+    4,
+    44
+   ],
+   [
+    2,
+    19
+   ],
+   [
+    1,
+    11
+   ]
+  ]
+ },
+ {
+  "facility": "MAGIC",
+  "hits": 97,
+  "linked": 90,
+  "concentration": 0.68,
+  "top": [
+   [
+    5,
+    61
+   ],
+   [
+    8,
+    11
+   ],
+   [
+    3,
+    4
+   ]
+  ]
+ },
+ {
+  "facility": "SVOM",
+  "hits": 98,
+  "linked": 85,
+  "concentration": 0.33,
+  "top": [
+   [
+    6,
+    28
+   ],
+   [
+    2,
+    16
+   ],
+   [
+    1,
+    11
+   ]
+  ]
+ },
+ {
+  "facility": "IPN",
+  "hits": 88,
+  "linked": 83,
+  "concentration": 0.65,
+  "top": [
+   [
+    0,
+    54
+   ],
+   [
+    1,
+    17
+   ],
+   [
+    2,
+    4
+   ]
+  ]
+ },
+ {
+  "facility": "Keck",
+  "hits": 82,
+  "linked": 79,
+  "concentration": 0.43,
+  "top": [
+   [
+    6,
+    34
+   ],
+   [
+    1,
+    21
+   ],
+   [
+    4,
+    11
+   ]
+  ]
+ },
+ {
+  "facility": "LHAASO",
+  "hits": 74,
+  "linked": 72,
+  "concentration": 0.69,
+  "top": [
+   [
+    5,
+    50
+   ],
+   [
+    8,
+    18
+   ],
+   [
+    2,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "GROND",
+  "hits": 73,
+  "linked": 71,
+  "concentration": 0.46,
+  "top": [
+   [
+    6,
+    33
+   ],
+   [
+    1,
+    23
+   ],
+   [
+    2,
+    6
+   ]
+  ]
+ },
+ {
+  "facility": "Telescope Array",
+  "hits": 72,
+  "linked": 69,
+  "concentration": 0.52,
+  "top": [
+   [
+    5,
+    36
+   ],
+   [
+    2,
+    11
+   ],
+   [
+    1,
+    6
+   ]
+  ]
+ },
+ {
+  "facility": "AGILE",
+  "hits": 73,
+  "linked": 68,
+  "concentration": 0.68,
+  "top": [
+   [
+    5,
+    46
+   ],
+   [
+    1,
+    6
+   ],
+   [
+    2,
+    6
+   ]
+  ]
+ },
+ {
+  "facility": "KAGRA",
+  "hits": 68,
+  "linked": 67,
+  "concentration": 0.84,
+  "top": [
+   [
+    2,
+    56
+   ],
+   [
+    4,
+    6
+   ],
+   [
+    7,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "SDSS",
+  "hits": 64,
+  "linked": 64,
+  "concentration": 0.38,
+  "top": [
+   [
+    6,
+    24
+   ],
+   [
+    7,
+    17
+   ],
+   [
+    1,
+    8
+   ]
+  ]
+ },
+ {
+  "facility": "GECAM",
+  "hits": 59,
+  "linked": 59,
+  "concentration": 0.73,
+  "top": [
+   [
+    9,
+    43
+   ],
+   [
+    3,
+    5
+   ],
+   [
+    5,
+    4
+   ]
+  ]
+ },
+ {
+  "facility": "CTA",
+  "hits": 63,
+  "linked": 57,
+  "concentration": 0.53,
+  "top": [
+   [
+    5,
+    30
+   ],
+   [
+    2,
+    13
+   ],
+   [
+    3,
+    5
+   ]
+  ]
+ },
+ {
+  "facility": "Granat/PHEBUS",
+  "hits": 67,
+  "linked": 55,
+  "concentration": 0.89,
+  "top": [
+   [
+    0,
+    49
+   ],
+   [
+    1,
+    4
+   ],
+   [
+    5,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "Rubin/LSST",
+  "hits": 57,
+  "linked": 55,
+  "concentration": 0.62,
+  "top": [
+   [
+    2,
+    34
+   ],
+   [
+    4,
+    6
+   ],
+   [
+    1,
+    5
+   ]
+  ]
+ },
+ {
+  "facility": "Ulysses",
+  "hits": 58,
+  "linked": 53,
+  "concentration": 0.79,
+  "top": [
+   [
+    0,
+    42
+   ],
+   [
+    1,
+    6
+   ],
+   [
+    3,
+    3
+   ]
+  ]
+ },
+ {
+  "facility": "POLAR",
+  "hits": 54,
+  "linked": 53,
+  "concentration": 0.94,
+  "top": [
+   [
+    3,
+    50
+   ],
+   [
+    6,
+    1
+   ],
+   [
+    9,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "Einstein Telescope",
+  "hits": 53,
+  "linked": 53,
+  "concentration": 0.75,
+  "top": [
+   [
+    2,
+    40
+   ],
+   [
+    4,
+    6
+   ],
+   [
+    7,
+    3
+   ]
+  ]
+ },
+ {
+  "facility": "Vela",
+  "hits": 60,
+  "linked": 50,
+  "concentration": 0.76,
+  "top": [
+   [
+    0,
+    38
+   ],
+   [
+    5,
+    5
+   ],
+   [
+    1,
+    3
+   ]
+  ]
+ },
+ {
+  "facility": "Ginga",
+  "hits": 53,
+  "linked": 50,
+  "concentration": 0.82,
+  "top": [
+   [
+    0,
+    41
+   ],
+   [
+    3,
+    5
+   ],
+   [
+    4,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "COMPTEL",
+  "hits": 58,
+  "linked": 50,
+  "concentration": 0.72,
+  "top": [
+   [
+    0,
+    36
+   ],
+   [
+    3,
+    7
+   ],
+   [
+    5,
+    3
+   ]
+  ]
+ },
+ {
+  "facility": "Gemini",
+  "hits": 53,
+  "linked": 50,
+  "concentration": 0.34,
+  "top": [
+   [
+    2,
+    17
+   ],
+   [
+    6,
+    15
+   ],
+   [
+    4,
+    11
+   ]
+  ]
+ },
+ {
+  "facility": "ALMA",
+  "hits": 49,
+  "linked": 49,
+  "concentration": 0.41,
+  "top": [
+   [
+    6,
+    20
+   ],
+   [
+    1,
+    14
+   ],
+   [
+    2,
+    6
+   ]
+  ]
+ },
+ {
+  "facility": "JWST",
+  "hits": 52,
+  "linked": 48,
+  "concentration": 0.38,
+  "top": [
+   [
+    6,
+    18
+   ],
+   [
+    4,
+    13
+   ],
+   [
+    2,
+    12
+   ]
+  ]
+ },
+ {
+  "facility": "Insight-HXMT",
+  "hits": 48,
+  "linked": 47,
+  "concentration": 0.47,
+  "top": [
+   [
+    9,
+    22
+   ],
+   [
+    3,
+    9
+   ],
+   [
+    0,
+    6
+   ]
+  ]
+ },
+ {
+  "facility": "Spitzer",
+  "hits": 47,
+  "linked": 45,
+  "concentration": 0.67,
+  "top": [
+   [
+    6,
+    30
+   ],
+   [
+    4,
+    8
+   ],
+   [
+    2,
+    4
+   ]
+  ]
+ },
+ {
+  "facility": "H.E.S.S.",
+  "hits": 44,
+  "linked": 44,
+  "concentration": 0.57,
+  "top": [
+   [
+    5,
+    25
+   ],
+   [
+    2,
+    8
+   ],
+   [
+    8,
+    3
+   ]
+  ]
+ },
+ {
+  "facility": "Palomar",
+  "hits": 46,
+  "linked": 44,
+  "concentration": 0.5,
+  "top": [
+   [
+    4,
+    22
+   ],
+   [
+    1,
+    9
+   ],
+   [
+    6,
+    4
+   ]
+  ]
+ },
+ {
+  "facility": "Pierre Auger",
+  "hits": 46,
+  "linked": 43,
+  "concentration": 0.77,
+  "top": [
+   [
+    5,
+    33
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    8,
+    3
+   ]
+  ]
+ },
+ {
+  "facility": "PVO",
+  "hits": 46,
+  "linked": 41,
+  "concentration": 0.98,
+  "top": [
+   [
+    0,
+    40
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "ROSAT",
+  "hits": 44,
+  "linked": 41,
+  "concentration": 0.66,
+  "top": [
+   [
+    0,
+    27
+   ],
+   [
+    1,
+    8
+   ],
+   [
+    4,
+    3
+   ]
+  ]
+ },
+ {
+  "facility": "ATCA",
+  "hits": 41,
+  "linked": 41,
+  "concentration": 0.32,
+  "top": [
+   [
+    1,
+    13
+   ],
+   [
+    2,
+    12
+   ],
+   [
+    6,
+    10
+   ]
+  ]
+ },
+ {
+  "facility": "RHESSI",
+  "hits": 45,
+  "linked": 40,
+  "concentration": 0.45,
+  "top": [
+   [
+    3,
+    18
+   ],
+   [
+    0,
+    11
+   ],
+   [
+    5,
+    4
+   ]
+  ]
+ },
+ {
+  "facility": "Subaru",
+  "hits": 42,
+  "linked": 40,
+  "concentration": 0.42,
+  "top": [
+   [
+    6,
+    17
+   ],
+   [
+    4,
+    8
+   ],
+   [
+    1,
+    6
+   ]
+  ]
+ },
+ {
+  "facility": "ROTSE",
+  "hits": 41,
+  "linked": 40,
+  "concentration": 0.72,
+  "top": [
+   [
+    1,
+    29
+   ],
+   [
+    5,
+    3
+   ],
+   [
+    0,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "MAXI",
+  "hits": 41,
+  "linked": 39,
+  "concentration": 0.33,
+  "top": [
+   [
+    9,
+    13
+   ],
+   [
+    1,
+    9
+   ],
+   [
+    2,
+    8
+   ]
+  ]
+ },
+ {
+  "facility": "Suzaku",
+  "hits": 39,
+  "linked": 38,
+  "concentration": 0.34,
+  "top": [
+   [
+    1,
+    13
+   ],
+   [
+    3,
+    10
+   ],
+   [
+    7,
+    6
+   ]
+  ]
+ },
+ {
+  "facility": "MASTER",
+  "hits": 42,
+  "linked": 38,
+  "concentration": 0.84,
+  "top": [
+   [
+    1,
+    32
+   ],
+   [
+    3,
+    3
+   ],
+   [
+    2,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "AstroSat/CZTI",
+  "hits": 38,
+  "linked": 37,
+  "concentration": 0.78,
+  "top": [
+   [
+    3,
+    29
+   ],
+   [
+    2,
+    7
+   ],
+   [
+    6,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "SKA",
+  "hits": 36,
+  "linked": 36,
+  "concentration": 0.25,
+  "top": [
+   [
+    1,
+    9
+   ],
+   [
+    6,
+    8
+   ],
+   [
+    2,
+    8
+   ]
+  ]
+ },
+ {
+  "facility": "ANTARES",
+  "hits": 35,
+  "linked": 33,
+  "concentration": 0.79,
+  "top": [
+   [
+    5,
+    26
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "Magellan",
+  "hits": 34,
+  "linked": 33,
+  "concentration": 0.33,
+  "top": [
+   [
+    4,
+    11
+   ],
+   [
+    6,
+    10
+   ],
+   [
+    1,
+    8
+   ]
+  ]
+ },
+ {
+  "facility": "SMM",
+  "hits": 35,
+  "linked": 28,
+  "concentration": 0.79,
+  "top": [
+   [
+    0,
+    22
+   ],
+   [
+    3,
+    2
+   ],
+   [
+    6,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "Milagro",
+  "hits": 30,
+  "linked": 28,
+  "concentration": 0.86,
+  "top": [
+   [
+    5,
+    24
+   ],
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "TAROT",
+  "hits": 28,
+  "linked": 27,
+  "concentration": 0.81,
+  "top": [
+   [
+    1,
+    22
+   ],
+   [
+    5,
+    2
+   ],
+   [
+    2,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "Liverpool Telescope",
+  "hits": 27,
+  "linked": 27,
+  "concentration": 0.56,
+  "top": [
+   [
+    1,
+    15
+   ],
+   [
+    3,
+    6
+   ],
+   [
+    4,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "VERITAS",
+  "hits": 27,
+  "linked": 26,
+  "concentration": 0.65,
+  "top": [
+   [
+    5,
+    17
+   ],
+   [
+    8,
+    2
+   ],
+   [
+    11,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "KM3NeT",
+  "hits": 26,
+  "linked": 26,
+  "concentration": 0.73,
+  "top": [
+   [
+    5,
+    19
+   ],
+   [
+    8,
+    3
+   ],
+   [
+    2,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "TNG",
+  "hits": 26,
+  "linked": 26,
+  "concentration": 0.31,
+  "top": [
+   [
+    1,
+    8
+   ],
+   [
+    4,
+    7
+   ],
+   [
+    6,
+    6
+   ]
+  ]
+ },
+ {
+  "facility": "RXTE",
+  "hits": 28,
+  "linked": 25,
+  "concentration": 0.44,
+  "top": [
+   [
+    1,
+    11
+   ],
+   [
+    0,
+    6
+   ],
+   [
+    4,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "HAWC",
+  "hits": 26,
+  "linked": 24,
+  "concentration": 0.79,
+  "top": [
+   [
+    5,
+    19
+   ],
+   [
+    2,
+    2
+   ],
+   [
+    0,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "ASCA",
+  "hits": 25,
+  "linked": 23,
+  "concentration": 0.57,
+  "top": [
+   [
+    1,
+    13
+   ],
+   [
+    0,
+    9
+   ],
+   [
+    4,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "AMANDA",
+  "hits": 26,
+  "linked": 23,
+  "concentration": 0.91,
+  "top": [
+   [
+    5,
+    21
+   ],
+   [
+    8,
+    1
+   ],
+   [
+    0,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "LISA",
+  "hits": 23,
+  "linked": 22,
+  "concentration": 0.45,
+  "top": [
+   [
+    2,
+    10
+   ],
+   [
+    5,
+    5
+   ],
+   [
+    4,
+    3
+   ]
+  ]
+ },
+ {
+  "facility": "ZTF",
+  "hits": 23,
+  "linked": 22,
+  "concentration": 0.55,
+  "top": [
+   [
+    2,
+    12
+   ],
+   [
+    4,
+    5
+   ],
+   [
+    1,
+    4
+   ]
+  ]
+ },
+ {
+  "facility": "Pan-STARRS",
+  "hits": 22,
+  "linked": 22,
+  "concentration": 0.32,
+  "top": [
+   [
+    4,
+    7
+   ],
+   [
+    2,
+    7
+   ],
+   [
+    6,
+    3
+   ]
+  ]
+ },
+ {
+  "facility": "REM",
+  "hits": 27,
+  "linked": 22,
+  "concentration": 0.77,
+  "top": [
+   [
+    1,
+    17
+   ],
+   [
+    6,
+    2
+   ],
+   [
+    3,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "LOFAR",
+  "hits": 21,
+  "linked": 20,
+  "concentration": 0.35,
+  "top": [
+   [
+    1,
+    7
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    6,
+    6
+   ]
+  ]
+ },
+ {
+  "facility": "Herschel",
+  "hits": 20,
+  "linked": 20,
+  "concentration": 0.8,
+  "top": [
+   [
+    6,
+    16
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    0,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "BOOTES",
+  "hits": 23,
+  "linked": 19,
+  "concentration": 0.68,
+  "top": [
+   [
+    1,
+    13
+   ],
+   [
+    6,
+    4
+   ],
+   [
+    2,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "Whipple",
+  "hits": 18,
+  "linked": 18,
+  "concentration": 0.33,
+  "top": [
+   [
+    1,
+    6
+   ],
+   [
+    0,
+    5
+   ],
+   [
+    5,
+    5
+   ]
+  ]
+ },
+ {
+  "facility": "CHIME",
+  "hits": 18,
+  "linked": 18,
+  "concentration": 0.78,
+  "top": [
+   [
+    2,
+    14
+   ],
+   [
+    6,
+    2
+   ],
+   [
+    1,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "GTC",
+  "hits": 20,
+  "linked": 18,
+  "concentration": 0.33,
+  "top": [
+   [
+    6,
+    6
+   ],
+   [
+    4,
+    4
+   ],
+   [
+    1,
+    3
+   ]
+  ]
+ },
+ {
+  "facility": "NuSTAR",
+  "hits": 17,
+  "linked": 17,
+  "concentration": 0.41,
+  "top": [
+   [
+    4,
+    7
+   ],
+   [
+    9,
+    3
+   ],
+   [
+    2,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "WSRT",
+  "hits": 17,
+  "linked": 17,
+  "concentration": 0.59,
+  "top": [
+   [
+    1,
+    10
+   ],
+   [
+    0,
+    3
+   ],
+   [
+    6,
+    3
+   ]
+  ]
+ },
+ {
+  "facility": "WHT",
+  "hits": 18,
+  "linked": 17,
+  "concentration": 0.59,
+  "top": [
+   [
+    6,
+    10
+   ],
+   [
+    1,
+    4
+   ],
+   [
+    0,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "MeerKAT",
+  "hits": 16,
+  "linked": 16,
+  "concentration": 0.38,
+  "top": [
+   [
+    2,
+    6
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    4,
+    4
+   ]
+  ]
+ },
+ {
+  "facility": "ARGO-YBJ",
+  "hits": 18,
+  "linked": 15,
+  "concentration": 0.87,
+  "top": [
+   [
+    5,
+    13
+   ],
+   [
+    3,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "GMRT",
+  "hits": 13,
+  "linked": 13,
+  "concentration": 0.38,
+  "top": [
+   [
+    1,
+    5
+   ],
+   [
+    6,
+    3
+   ],
+   [
+    2,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "DECam/DES",
+  "hits": 13,
+  "linked": 13,
+  "concentration": 0.38,
+  "top": [
+   [
+    7,
+    5
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    1,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "TESS",
+  "hits": 13,
+  "linked": 13,
+  "concentration": 0.46,
+  "top": [
+   [
+    1,
+    6
+   ],
+   [
+    2,
+    4
+   ],
+   [
+    4,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "ASKAP",
+  "hits": 12,
+  "linked": 12,
+  "concentration": 0.5,
+  "top": [
+   [
+    1,
+    6
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    4,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "Gaia",
+  "hits": 19,
+  "linked": 12,
+  "concentration": 0.33,
+  "top": [
+   [
+    1,
+    4
+   ],
+   [
+    6,
+    3
+   ],
+   [
+    2,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "NICER",
+  "hits": 11,
+  "linked": 11,
+  "concentration": 0.45,
+  "top": [
+   [
+    2,
+    5
+   ],
+   [
+    0,
+    2
+   ],
+   [
+    4,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "MMT",
+  "hits": 11,
+  "linked": 11,
+  "concentration": 0.45,
+  "top": [
+   [
+    6,
+    5
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    4,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "OSSE",
+  "hits": 13,
+  "linked": 10,
+  "concentration": 0.4,
+  "top": [
+   [
+    0,
+    4
+   ],
+   [
+    3,
+    2
+   ],
+   [
+    8,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "eROSITA",
+  "hits": 11,
+  "linked": 10,
+  "concentration": 0.3,
+  "top": [
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    3
+   ],
+   [
+    4,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "Baikal",
+  "hits": 13,
+  "linked": 10,
+  "concentration": 0.7,
+  "top": [
+   [
+    5,
+    7
+   ],
+   [
+    8,
+    1
+   ],
+   [
+    4,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "LBT",
+  "hits": 11,
+  "linked": 10,
+  "concentration": 0.3,
+  "top": [
+   [
+    2,
+    3
+   ],
+   [
+    4,
+    3
+   ],
+   [
+    6,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "RAPTOR",
+  "hits": 10,
+  "linked": 10,
+  "concentration": 0.8,
+  "top": [
+   [
+    1,
+    8
+   ],
+   [
+    6,
+    1
+   ],
+   [
+    5,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "Super-K",
+  "hits": 8,
+  "linked": 8,
+  "concentration": 0.5,
+  "top": [
+   [
+    5,
+    4
+   ],
+   [
+    1,
+    1
+   ],
+   [
+    4,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "Arecibo",
+  "hits": 8,
+  "linked": 8,
+  "concentration": 0.75,
+  "top": [
+   [
+    2,
+    6
+   ],
+   [
+    1,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "NOEMA/PdB",
+  "hits": 8,
+  "linked": 8,
+  "concentration": 0.62,
+  "top": [
+   [
+    6,
+    5
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    2,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "2MASS",
+  "hits": 8,
+  "linked": 8,
+  "concentration": 0.25,
+  "top": [
+   [
+    0,
+    2
+   ],
+   [
+    6,
+    2
+   ],
+   [
+    2,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "Kepler",
+  "hits": 10,
+  "linked": 8,
+  "concentration": 0.38,
+  "top": [
+   [
+    2,
+    3
+   ],
+   [
+    4,
+    2
+   ],
+   [
+    5,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "VLBA",
+  "hits": 8,
+  "linked": 7,
+  "concentration": 0.43,
+  "top": [
+   [
+    1,
+    3
+   ],
+   [
+    4,
+    2
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "WISE",
+  "hits": 7,
+  "linked": 7,
+  "concentration": 0.43,
+  "top": [
+   [
+    6,
+    3
+   ],
+   [
+    4,
+    1
+   ],
+   [
+    1,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "EVN",
+  "hits": 6,
+  "linked": 6,
+  "concentration": 0.33,
+  "top": [
+   [
+    1,
+    2
+   ],
+   [
+    4,
+    1
+   ],
+   [
+    9,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "MERLIN",
+  "hits": 7,
+  "linked": 6,
+  "concentration": 0.33,
+  "top": [
+   [
+    4,
+    2
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    6,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "Effelsberg",
+  "hits": 6,
+  "linked": 6,
+  "concentration": 0.67,
+  "top": [
+   [
+    2,
+    4
+   ],
+   [
+    1,
+    1
+   ],
+   [
+    4,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "FAST (radio)",
+  "hits": 6,
+  "linked": 6,
+  "concentration": 0.5,
+  "top": [
+   [
+    1,
+    3
+   ],
+   [
+    0,
+    1
+   ],
+   [
+    2,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "AMI",
+  "hits": 6,
+  "linked": 6,
+  "concentration": 0.67,
+  "top": [
+   [
+    1,
+    4
+   ],
+   [
+    4,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "KAIT",
+  "hits": 6,
+  "linked": 6,
+  "concentration": 1.0,
+  "top": [
+   [
+    1,
+    6
+   ]
+  ]
+ },
+ {
+  "facility": "Parkes",
+  "hits": 5,
+  "linked": 5,
+  "concentration": 0.8,
+  "top": [
+   [
+    2,
+    4
+   ],
+   [
+    5,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "CFHT",
+  "hits": 8,
+  "linked": 5,
+  "concentration": 1.0,
+  "top": [
+   [
+    1,
+    5
+   ]
+  ]
+ },
+ {
+  "facility": "ATLAS (survey)",
+  "hits": 5,
+  "linked": 5,
+  "concentration": 0.6,
+  "top": [
+   [
+    2,
+    3
+   ],
+   [
+    4,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "GOTO",
+  "hits": 5,
+  "linked": 5,
+  "concentration": 0.6,
+  "top": [
+   [
+    2,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ]
+ },
+ {
+  "facility": "GEO600",
+  "hits": 4,
+  "linked": 4,
+  "concentration": 0.5,
+  "top": [
+   [
+    2,
+    2
+   ],
+   [
+    0,
+    1
+   ],
+   [
+    5,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "UKIRT",
+  "hits": 9,
+  "linked": 4,
+  "concentration": 0.5,
+  "top": [
+   [
+    6,
+    2
+   ],
+   [
+    1,
+    1
+   ],
+   [
+    0,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "IXPE",
+  "hits": 3,
+  "linked": 3,
+  "concentration": 0.67,
+  "top": [
+   [
+    5,
+    2
+   ],
+   [
+    3,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "Euclid",
+  "hits": 4,
+  "linked": 3,
+  "concentration": 0.33,
+  "top": [
+   [
+    7,
+    1
+   ],
+   [
+    4,
+    1
+   ],
+   [
+    2,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "OVRO",
+  "hits": 2,
+  "linked": 2,
+  "concentration": 0.5,
+  "top": [
+   [
+    1,
+    1
+   ],
+   [
+    2,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "Tibet AS",
+  "hits": 1,
+  "linked": 1,
+  "concentration": 1.0,
+  "top": [
+   [
+    8,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "Ryle",
+  "hits": 1,
+  "linked": 1,
+  "concentration": 1.0,
+  "top": [
+   [
+    6,
+    1
+   ]
+  ]
+ },
+ {
+  "facility": "Hitomi",
+  "hits": 0,
+  "linked": 0,
+  "concentration": 0,
+  "top": []
+ }
+]

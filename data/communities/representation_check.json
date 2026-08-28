@@ -1,0 +1,21 @@
+{
+ "cross_mean": 0.875114308157152,
+ "cross_sd": 0.05950568427312012,
+ "multigraph_reseed_mean": 0.6480627041809912,
+ "multigraph_reseed_sd": 0.08684759014974591,
+ "collapsed_reseed_mean": 0.6687864358508513,
+ "collapsed_reseed_sd": 0.08308856293082162,
+ "seeds": [
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51
+ ],
+ "verdict": "representation moves the partition LESS than reseeding does"
+}

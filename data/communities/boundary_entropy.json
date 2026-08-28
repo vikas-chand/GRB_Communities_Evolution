@@ -1,0 +1,94 @@
+{
+ "nruns": 100,
+ "stable_frac": 0.5570289855072463,
+ "median_entropy": 0.48176306719391104,
+ "medoid_seed": 229,
+ "medoid_mean_ari": 0.7149407040820099,
+ "medoid_ari_to_canonical": 0.848235248193127,
+ "communities": [
+  {
+   "id": 0,
+   "size": 2126,
+   "core_frac": 0.7897460018814676,
+   "median_entropy": 0.0
+  },
+  {
+   "id": 1,
+   "size": 2120,
+   "core_frac": 0.7245283018867924,
+   "median_entropy": 0.16144054254182066
+  },
+  {
+   "id": 2,
+   "size": 1999,
+   "core_frac": 0.9029514757378689,
+   "median_entropy": 0.0
+  },
+  {
+   "id": 3,
+   "size": 1674,
+   "core_frac": 0.05137395459976105,
+   "median_entropy": 0.7706635459878961
+  },
+  {
+   "id": 4,
+   "size": 1459,
+   "core_frac": 0.00822481151473612,
+   "median_entropy": 1.0169968374505447
+  },
+  {
+   "id": 5,
+   "size": 1382,
+   "core_frac": 0.5926193921852387,
+   "median_entropy": 0.5158951529482092
+  },
+  {
+   "id": 6,
+   "size": 1252,
+   "core_frac": 0.6621405750798722,
+   "median_entropy": 0.16144054254182066
+  },
+  {
+   "id": 7,
+   "size": 754,
+   "core_frac": 0.8620689655172413,
+   "median_entropy": 0.08079313589591118
+  },
+  {
+   "id": 8,
+   "size": 258,
+   "core_frac": 0.0,
+   "median_entropy": 1.6086750514480772
+  },
+  {
+   "id": 9,
+   "size": 222,
+   "core_frac": 0.0,
+   "median_entropy": 2.0982741989496856
+  },
+  {
+   "id": 10,
+   "size": 150,
+   "core_frac": 0.9533333333333334,
+   "median_entropy": 0.22194073285321086
+  },
+  {
+   "id": 11,
+   "size": 88,
+   "core_frac": 0.0,
+   "median_entropy": 1.518564704190215
+  },
+  {
+   "id": 12,
+   "size": 82,
+   "core_frac": 0.0,
+   "median_entropy": 2.5251742387154126
+  },
+  {
+   "id": 13,
+   "size": 79,
+   "core_frac": 0.0,
+   "median_entropy": 2.114557016217451
+  }
+ ]
+}

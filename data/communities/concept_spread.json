@@ -1,0 +1,4667 @@
+{
+ "facilities": [
+  {
+   "probe": "Swift",
+   "n_hits": 2329,
+   "n_linked": 1897,
+   "concentration": 0.3,
+   "top": [
+    [
+     1,
+     570
+    ],
+    [
+     2,
+     316
+    ],
+    [
+     6,
+     303
+    ],
+    [
+     7,
+     170
+    ]
+   ]
+  },
+  {
+   "probe": "Fermi",
+   "n_hits": 1338,
+   "n_linked": 1306,
+   "concentration": 0.257,
+   "top": [
+    [
+     4,
+     335
+    ],
+    [
+     3,
+     306
+    ],
+    [
+     2,
+     228
+    ],
+    [
+     0,
+     103
+    ]
+   ]
+  },
+  {
+   "probe": "BATSE",
+   "n_hits": 856,
+   "n_linked": 815,
+   "concentration": 0.525,
+   "top": [
+    [
+     0,
+     428
+    ],
+    [
+     3,
+     130
+    ],
+    [
+     7,
+     57
+    ],
+    [
+     4,
+     43
+    ]
+   ]
+  },
+  {
+   "probe": "Fermi-GBM",
+   "n_hits": 537,
+   "n_linked": 529,
+   "concentration": 0.282,
+   "top": [
+    [
+     3,
+     149
+    ],
+    [
+     2,
+     130
+    ],
+    [
+     4,
+     66
+    ],
+    [
+     0,
+     62
+    ]
+   ]
+  },
+  {
+   "probe": "LIGO/Virgo",
+   "n_hits": 489,
+   "n_linked": 475,
+   "concentration": 0.771,
+   "top": [
+    [
+     2,
+     366
+    ],
+    [
+     5,
+     53
+    ],
+    [
+     0,
+     15
+    ],
+    [
+     4,
+     14
+    ]
+   ]
+  },
+  {
+   "probe": "Fermi-LAT",
+   "n_hits": 311,
+   "n_linked": 296,
+   "concentration": 0.628,
+   "top": [
+    [
+     4,
+     186
+    ],
+    [
+     3,
+     41
+    ],
+    [
+     2,
+     23
+    ],
+    [
+     1,
+     14
+    ]
+   ]
+  },
+  {
+   "probe": "IceCube",
+   "n_hits": 253,
+   "n_linked": 243,
+   "concentration": 0.827,
+   "top": [
+    [
+     4,
+     201
+    ],
+    [
+     8,
+     15
+    ],
+    [
+     2,
+     10
+    ],
+    [
+     5,
+     8
+    ]
+   ]
+  },
+  {
+   "probe": "CGRO",
+   "n_hits": 256,
+   "n_linked": 229,
+   "concentration": 0.533,
+   "top": [
+    [
+     0,
+     122
+    ],
+    [
+     3,
+     45
+    ],
+    [
+     4,
+     21
+    ],
+    [
+     7,
+     9
+    ]
+   ]
+  },
+  {
+   "probe": "BeppoSAX",
+   "n_hits": 226,
+   "n_linked": 210,
+   "concentration": 0.433,
+   "top": [
+    [
+     1,
+     91
+    ],
+    [
+     0,
+     27
+    ],
+    [
+     7,
+     24
+    ],
+    [
+     5,
+     20
+    ]
+   ]
+  },
+  {
+   "probe": "INTEGRAL",
+   "n_hits": 234,
+   "n_linked": 203,
+   "concentration": 0.202,
+   "top": [
+    [
+     1,
+     41
+    ],
+    [
+     2,
+     38
+    ],
+    [
+     3,
+     35
+    ],
+    [
+     0,
+     23
+    ]
+   ]
+  },
+  {
+   "probe": "HST",
+   "n_hits": 201,
+   "n_linked": 194,
+   "concentration": 0.366,
+   "top": [
+    [
+     6,
+     71
+    ],
+    [
+     2,
+     39
+    ],
+    [
+     1,
+     35
+    ],
+    [
+     5,
+     26
+    ]
+   ]
+  },
+  {
+   "probe": "VLT",
+   "n_hits": 189,
+   "n_linked": 179,
+   "concentration": 0.631,
+   "top": [
+    [
+     6,
+     113
+    ],
+    [
+     1,
+     19
+    ],
+    [
+     5,
+     14
+    ],
+    [
+     2,
+     13
+    ]
+   ]
+  },
+  {
+   "probe": "Chandra",
+   "n_hits": 159,
+   "n_linked": 156,
+   "concentration": 0.288,
+   "top": [
+    [
+     2,
+     45
+    ],
+    [
+     1,
+     43
+    ],
+    [
+     5,
+     31
+    ],
+    [
+     6,
+     15
+    ]
+   ]
+  },
+  {
+   "probe": "Konus",
+   "n_hits": 157,
+   "n_linked": 151,
+   "concentration": 0.483,
+   "top": [
+    [
+     0,
+     73
+    ],
+    [
+     1,
+     16
+    ],
+    [
+     7,
+     13
+    ],
+    [
+     3,
+     13
+    ]
+   ]
+  },
+  {
+   "probe": "VLA",
+   "n_hits": 145,
+   "n_linked": 144,
+   "concentration": 0.368,
+   "top": [
+    [
+     1,
+     53
+    ],
+    [
+     2,
+     29
+    ],
+    [
+     5,
+     27
+    ],
+    [
+     6,
+     20
+    ]
+   ]
+  },
+  {
+   "probe": "XMM-Newton",
+   "n_hits": 140,
+   "n_linked": 133,
+   "concentration": 0.353,
+   "top": [
+    [
+     1,
+     47
+    ],
+    [
+     5,
+     26
+    ],
+    [
+     6,
+     23
+    ],
+    [
+     2,
+     15
+    ]
+   ]
+  },
+  {
+   "probe": "HETE",
+   "n_hits": 138,
+   "n_linked": 125,
+   "concentration": 0.288,
+   "top": [
+    [
+     1,
+     36
+    ],
+    [
+     7,
+     29
+    ],
+    [
+     0,
+     13
+    ],
+    [
+     6,
+     13
+    ]
+   ]
+  },
+  {
+   "probe": "Planck",
+   "n_hits": 121,
+   "n_linked": 120,
+   "concentration": 0.275,
+   "top": [
+    [
+     7,
+     33
+    ],
+    [
+     3,
+     25
+    ],
+    [
+     8,
+     22
+    ],
+    [
+     6,
+     11
+    ]
+   ]
+  },
+  {
+   "probe": "SVOM",
+   "n_hits": 98,
+   "n_linked": 97,
+   "concentration": 0.268,
+   "top": [
+    [
+     6,
+     26
+    ],
+    [
+     2,
+     16
+    ],
+    [
+     9,
+     14
+    ],
+    [
+     1,
+     13
+    ]
+   ]
+  },
+  {
+   "probe": "EGRET",
+   "n_hits": 105,
+   "n_linked": 92,
+   "concentration": 0.511,
+   "top": [
+    [
+     4,
+     47
+    ],
+    [
+     0,
+     20
+    ],
+    [
+     11,
+     11
+    ],
+    [
+     1,
+     6
+    ]
+   ]
+  },
+  {
+   "probe": "Einstein Probe",
+   "n_hits": 90,
+   "n_linked": 90,
+   "concentration": 0.489,
+   "top": [
+    [
+     5,
+     44
+    ],
+    [
+     2,
+     19
+    ],
+    [
+     1,
+     11
+    ],
+    [
+     6,
+     6
+    ]
+   ]
+  },
+  {
+   "probe": "MAGIC",
+   "n_hits": 97,
+   "n_linked": 90,
+   "concentration": 0.689,
+   "top": [
+    [
+     4,
+     62
+    ],
+    [
+     8,
+     11
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     3
+    ]
+   ]
+  },
+  {
+   "probe": "IPN",
+   "n_hits": 88,
+   "n_linked": 83,
+   "concentration": 0.651,
+   "top": [
+    [
+     0,
+     54
+    ],
+    [
+     1,
+     17
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     4,
+     3
+    ]
+   ]
+  },
+  {
+   "probe": "Keck",
+   "n_hits": 82,
+   "n_linked": 79,
+   "concentration": 0.456,
+   "top": [
+    [
+     6,
+     36
+    ],
+    [
+     1,
+     20
+    ],
+    [
+     5,
+     10
+    ],
+    [
+     2,
+     8
+    ]
+   ]
+  },
+  {
+   "probe": "LHAASO",
+   "n_hits": 74,
+   "n_linked": 72,
+   "concentration": 0.778,
+   "top": [
+    [
+     4,
+     56
+    ],
+    [
+     8,
+     12
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     9,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "GROND",
+   "n_hits": 73,
+   "n_linked": 71,
+   "concentration": 0.479,
+   "top": [
+    [
+     6,
+     34
+    ],
+    [
+     1,
+     22
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     5,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "Telescope Array",
+   "n_hits": 72,
+   "n_linked": 69,
+   "concentration": 0.565,
+   "top": [
+    [
+     4,
+     39
+    ],
+    [
+     2,
+     8
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  {
+   "probe": "AGILE",
+   "n_hits": 73,
+   "n_linked": 68,
+   "concentration": 0.721,
+   "top": [
+    [
+     4,
+     49
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     10,
+     4
+    ],
+    [
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "KAGRA",
+   "n_hits": 68,
+   "n_linked": 67,
+   "concentration": 0.836,
+   "top": [
+    [
+     2,
+     56
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "SDSS",
+   "n_hits": 64,
+   "n_linked": 64,
+   "concentration": 0.406,
+   "top": [
+    [
+     6,
+     26
+    ],
+    [
+     7,
+     17
+    ],
+    [
+     1,
+     9
+    ],
+    [
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "GECAM",
+   "n_hits": 59,
+   "n_linked": 59,
+   "concentration": 0.729,
+   "top": [
+    [
+     9,
+     43
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     4,
+     4
+    ],
+    [
+     2,
+     3
+    ]
+   ]
+  },
+  {
+   "probe": "CTA",
+   "n_hits": 63,
+   "n_linked": 57,
+   "concentration": 0.561,
+   "top": [
+    [
+     4,
+     32
+    ],
+    [
+     2,
+     11
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     8,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "Rubin/LSST",
+   "n_hits": 57,
+   "n_linked": 55,
+   "concentration": 0.618,
+   "top": [
+    [
+     2,
+     34
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     4
+    ],
+    [
+     6,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "Granat/PHEBUS",
+   "n_hits": 67,
+   "n_linked": 54,
+   "concentration": 0.87,
+   "top": [
+    [
+     0,
+     47
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     4,
+     1
+    ],
+    [
+     3,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Ulysses",
+   "n_hits": 58,
+   "n_linked": 53,
+   "concentration": 0.774,
+   "top": [
+    [
+     0,
+     41
+    ],
+    [
+     1,
+     7
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     5,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "POLAR",
+   "n_hits": 54,
+   "n_linked": 53,
+   "concentration": 0.962,
+   "top": [
+    [
+     3,
+     51
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     2,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Einstein Telescope",
+   "n_hits": 53,
+   "n_linked": 53,
+   "concentration": 0.774,
+   "top": [
+    [
+     2,
+     41
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     7,
+     2
+    ],
+    [
+     3,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "Vela",
+   "n_hits": 60,
+   "n_linked": 50,
+   "concentration": 0.76,
+   "top": [
+    [
+     0,
+     38
+    ],
+    [
+     4,
+     5
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     7,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "Ginga",
+   "n_hits": 53,
+   "n_linked": 50,
+   "concentration": 0.82,
+   "top": [
+    [
+     0,
+     41
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     1
+    ],
+    [
+     1,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "COMPTEL",
+   "n_hits": 58,
+   "n_linked": 50,
+   "concentration": 0.7,
+   "top": [
+    [
+     0,
+     35
+    ],
+    [
+     3,
+     8
+    ],
+    [
+     4,
+     3
+    ],
+    [
+     11,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "Gemini",
+   "n_hits": 53,
+   "n_linked": 50,
+   "concentration": 0.34,
+   "top": [
+    [
+     2,
+     17
+    ],
+    [
+     6,
+     15
+    ],
+    [
+     5,
+     11
+    ],
+    [
+     1,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "ALMA",
+   "n_hits": 49,
+   "n_linked": 49,
+   "concentration": 0.408,
+   "top": [
+    [
+     6,
+     20
+    ],
+    [
+     1,
+     14
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "JWST",
+   "n_hits": 52,
+   "n_linked": 48,
+   "concentration": 0.5,
+   "top": [
+    [
+     6,
+     24
+    ],
+    [
+     2,
+     12
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     4,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "Insight-HXMT",
+   "n_hits": 48,
+   "n_linked": 47,
+   "concentration": 0.447,
+   "top": [
+    [
+     9,
+     21
+    ],
+    [
+     3,
+     9
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     2,
+     5
+    ]
+   ]
+  },
+  {
+   "probe": "Spitzer",
+   "n_hits": 47,
+   "n_linked": 45,
+   "concentration": 0.756,
+   "top": [
+    [
+     6,
+     34
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     1,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "H.E.S.S.",
+   "n_hits": 44,
+   "n_linked": 44,
+   "concentration": 0.591,
+   "top": [
+    [
+     4,
+     26
+    ],
+    [
+     2,
+     7
+    ],
+    [
+     8,
+     3
+    ],
+    [
+     5,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "Palomar",
+   "n_hits": 46,
+   "n_linked": 44,
+   "concentration": 0.409,
+   "top": [
+    [
+     5,
+     18
+    ],
+    [
+     1,
+     10
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     0,
+     3
+    ]
+   ]
+  },
+  {
+   "probe": "Pierre Auger",
+   "n_hits": 46,
+   "n_linked": 43,
+   "concentration": 0.767,
+   "top": [
+    [
+     4,
+     33
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     8,
+     3
+    ],
+    [
+     12,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "PVO",
+   "n_hits": 46,
+   "n_linked": 41,
+   "concentration": 0.976,
+   "top": [
+    [
+     0,
+     40
+    ],
+    [
+     3,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "ROSAT",
+   "n_hits": 44,
+   "n_linked": 41,
+   "concentration": 0.634,
+   "top": [
+    [
+     0,
+     26
+    ],
+    [
+     1,
+     8
+    ],
+    [
+     5,
+     3
+    ],
+    [
+     6,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "ATCA",
+   "n_hits": 41,
+   "n_linked": 41,
+   "concentration": 0.317,
+   "top": [
+    [
+     1,
+     13
+    ],
+    [
+     2,
+     12
+    ],
+    [
+     6,
+     10
+    ],
+    [
+     5,
+     6
+    ]
+   ]
+  },
+  {
+   "probe": "MAXI",
+   "n_hits": 41,
+   "n_linked": 40,
+   "concentration": 0.35,
+   "top": [
+    [
+     1,
+     14
+    ],
+    [
+     2,
+     9
+    ],
+    [
+     9,
+     8
+    ],
+    [
+     3,
+     3
+    ]
+   ]
+  },
+  {
+   "probe": "RHESSI",
+   "n_hits": 45,
+   "n_linked": 40,
+   "concentration": 0.425,
+   "top": [
+    [
+     3,
+     17
+    ],
+    [
+     0,
+     11
+    ],
+    [
+     4,
+     4
+    ],
+    [
+     7,
+     3
+    ]
+   ]
+  },
+  {
+   "probe": "Subaru",
+   "n_hits": 42,
+   "n_linked": 40,
+   "concentration": 0.45,
+   "top": [
+    [
+     6,
+     18
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     5
+    ]
+   ]
+  },
+  {
+   "probe": "ROTSE",
+   "n_hits": 41,
+   "n_linked": 40,
+   "concentration": 0.7,
+   "top": [
+    [
+     1,
+     28
+    ],
+    [
+     4,
+     4
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     5,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "Suzaku",
+   "n_hits": 39,
+   "n_linked": 38,
+   "concentration": 0.342,
+   "top": [
+    [
+     1,
+     13
+    ],
+    [
+     3,
+     10
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     0,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "MASTER",
+   "n_hits": 42,
+   "n_linked": 38,
+   "concentration": 0.842,
+   "top": [
+    [
+     1,
+     32
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     4,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "AstroSat/CZTI",
+   "n_hits": 38,
+   "n_linked": 37,
+   "concentration": 0.784,
+   "top": [
+    [
+     3,
+     29
+    ],
+    [
+     2,
+     7
+    ],
+    [
+     6,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "SKA",
+   "n_hits": 36,
+   "n_linked": 36,
+   "concentration": 0.25,
+   "top": [
+    [
+     1,
+     9
+    ],
+    [
+     6,
+     8
+    ],
+    [
+     2,
+     8
+    ],
+    [
+     5,
+     5
+    ]
+   ]
+  },
+  {
+   "probe": "ANTARES",
+   "n_hits": 35,
+   "n_linked": 33,
+   "concentration": 0.788,
+   "top": [
+    [
+     4,
+     26
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     8,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Magellan",
+   "n_hits": 34,
+   "n_linked": 33,
+   "concentration": 0.394,
+   "top": [
+    [
+     6,
+     13
+    ],
+    [
+     1,
+     8
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     2,
+     3
+    ]
+   ]
+  },
+  {
+   "probe": "SMM",
+   "n_hits": 35,
+   "n_linked": 28,
+   "concentration": 0.821,
+   "top": [
+    [
+     0,
+     23
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     7,
+     1
+    ],
+    [
+     3,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Milagro",
+   "n_hits": 30,
+   "n_linked": 28,
+   "concentration": 0.929,
+   "top": [
+    [
+     4,
+     26
+    ],
+    [
+     1,
+     1
+    ],
+    [
+     5,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "TAROT",
+   "n_hits": 28,
+   "n_linked": 27,
+   "concentration": 0.852,
+   "top": [
+    [
+     1,
+     23
+    ],
+    [
+     4,
+     2
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     5,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Liverpool Telescope",
+   "n_hits": 27,
+   "n_linked": 27,
+   "concentration": 0.556,
+   "top": [
+    [
+     1,
+     15
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     2
+    ],
+    [
+     6,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "VERITAS",
+   "n_hits": 27,
+   "n_linked": 26,
+   "concentration": 0.692,
+   "top": [
+    [
+     4,
+     18
+    ],
+    [
+     8,
+     2
+    ],
+    [
+     11,
+     2
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "KM3NeT",
+   "n_hits": 26,
+   "n_linked": 26,
+   "concentration": 0.731,
+   "top": [
+    [
+     4,
+     19
+    ],
+    [
+     8,
+     3
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     5,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "TNG",
+   "n_hits": 26,
+   "n_linked": 26,
+   "concentration": 0.308,
+   "top": [
+    [
+     1,
+     8
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     6,
+     6
+    ],
+    [
+     2,
+     3
+    ]
+   ]
+  },
+  {
+   "probe": "RXTE",
+   "n_hits": 28,
+   "n_linked": 25,
+   "concentration": 0.48,
+   "top": [
+    [
+     1,
+     12
+    ],
+    [
+     0,
+     6
+    ],
+    [
+     5,
+     2
+    ],
+    [
+     6,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "HAWC",
+   "n_hits": 26,
+   "n_linked": 24,
+   "concentration": 0.792,
+   "top": [
+    [
+     4,
+     19
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     8,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "ASCA",
+   "n_hits": 25,
+   "n_linked": 23,
+   "concentration": 0.565,
+   "top": [
+    [
+     1,
+     13
+    ],
+    [
+     0,
+     9
+    ],
+    [
+     5,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "AMANDA",
+   "n_hits": 26,
+   "n_linked": 23,
+   "concentration": 0.913,
+   "top": [
+    [
+     4,
+     21
+    ],
+    [
+     8,
+     1
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "LISA",
+   "n_hits": 23,
+   "n_linked": 22,
+   "concentration": 0.455,
+   "top": [
+    [
+     2,
+     10
+    ],
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "ZTF",
+   "n_hits": 23,
+   "n_linked": 22,
+   "concentration": 0.545,
+   "top": [
+    [
+     2,
+     12
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     5,
+     4
+    ],
+    [
+     6,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Pan-STARRS",
+   "n_hits": 22,
+   "n_linked": 22,
+   "concentration": 0.318,
+   "top": [
+    [
+     2,
+     7
+    ],
+    [
+     6,
+     6
+    ],
+    [
+     5,
+     4
+    ],
+    [
+     1,
+     3
+    ]
+   ]
+  },
+  {
+   "probe": "REM",
+   "n_hits": 27,
+   "n_linked": 22,
+   "concentration": 0.818,
+   "top": [
+    [
+     1,
+     18
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     1
+    ],
+    [
+     5,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "LOFAR",
+   "n_hits": 21,
+   "n_linked": 20,
+   "concentration": 0.35,
+   "top": [
+    [
+     1,
+     7
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     6,
+     6
+    ],
+    [
+     4,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Herschel",
+   "n_hits": 20,
+   "n_linked": 20,
+   "concentration": 0.75,
+   "top": [
+    [
+     6,
+     15
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "BOOTES",
+   "n_hits": 23,
+   "n_linked": 19,
+   "concentration": 0.684,
+   "top": [
+    [
+     1,
+     13
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     5,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Whipple",
+   "n_hits": 18,
+   "n_linked": 18,
+   "concentration": 0.333,
+   "top": [
+    [
+     4,
+     6
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     5,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "CHIME",
+   "n_hits": 18,
+   "n_linked": 18,
+   "concentration": 0.778,
+   "top": [
+    [
+     2,
+     14
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     1,
+     1
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "GTC",
+   "n_hits": 20,
+   "n_linked": 18,
+   "concentration": 0.333,
+   "top": [
+    [
+     6,
+     6
+    ],
+    [
+     5,
+     4
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     2,
+     3
+    ]
+   ]
+  },
+  {
+   "probe": "NuSTAR",
+   "n_hits": 17,
+   "n_linked": 17,
+   "concentration": 0.412,
+   "top": [
+    [
+     5,
+     7
+    ],
+    [
+     9,
+     3
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     1,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "WSRT",
+   "n_hits": 17,
+   "n_linked": 17,
+   "concentration": 0.588,
+   "top": [
+    [
+     1,
+     10
+    ],
+    [
+     0,
+     3
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "WHT",
+   "n_hits": 18,
+   "n_linked": 17,
+   "concentration": 0.529,
+   "top": [
+    [
+     6,
+     9
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     7,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "MeerKAT",
+   "n_hits": 16,
+   "n_linked": 16,
+   "concentration": 0.375,
+   "top": [
+    [
+     2,
+     6
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     5,
+     4
+    ],
+    [
+     3,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "ARGO-YBJ",
+   "n_hits": 18,
+   "n_linked": 15,
+   "concentration": 0.867,
+   "top": [
+    [
+     4,
+     13
+    ],
+    [
+     3,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "GMRT",
+   "n_hits": 13,
+   "n_linked": 13,
+   "concentration": 0.385,
+   "top": [
+    [
+     1,
+     5
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     5,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "DECam/DES",
+   "n_hits": 13,
+   "n_linked": 13,
+   "concentration": 0.385,
+   "top": [
+    [
+     7,
+     5
+    ],
+    [
+     2,
+     5
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     6,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "TESS",
+   "n_hits": 13,
+   "n_linked": 13,
+   "concentration": 0.462,
+   "top": [
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     5,
+     2
+    ],
+    [
+     4,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "ASKAP",
+   "n_hits": 12,
+   "n_linked": 12,
+   "concentration": 0.5,
+   "top": [
+    [
+     1,
+     6
+    ],
+    [
+     2,
+     5
+    ],
+    [
+     6,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Gaia",
+   "n_hits": 19,
+   "n_linked": 12,
+   "concentration": 0.417,
+   "top": [
+    [
+     6,
+     5
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "NICER",
+   "n_hits": 11,
+   "n_linked": 11,
+   "concentration": 0.455,
+   "top": [
+    [
+     2,
+     5
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     5,
+     2
+    ],
+    [
+     9,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "MMT",
+   "n_hits": 11,
+   "n_linked": 11,
+   "concentration": 0.455,
+   "top": [
+    [
+     6,
+     5
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     5,
+     2
+    ],
+    [
+     2,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "OSSE",
+   "n_hits": 13,
+   "n_linked": 10,
+   "concentration": 0.4,
+   "top": [
+    [
+     0,
+     4
+    ],
+    [
+     3,
+     2
+    ],
+    [
+     8,
+     2
+    ],
+    [
+     4,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "eROSITA",
+   "n_hits": 11,
+   "n_linked": 10,
+   "concentration": 0.3,
+   "top": [
+    [
+     1,
+     3
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     2
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Baikal",
+   "n_hits": 13,
+   "n_linked": 10,
+   "concentration": 0.7,
+   "top": [
+    [
+     4,
+     7
+    ],
+    [
+     8,
+     1
+    ],
+    [
+     5,
+     1
+    ],
+    [
+     2,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "LBT",
+   "n_hits": 11,
+   "n_linked": 10,
+   "concentration": 0.3,
+   "top": [
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     3
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     1,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "RAPTOR",
+   "n_hits": 10,
+   "n_linked": 10,
+   "concentration": 0.7,
+   "top": [
+    [
+     1,
+     7
+    ],
+    [
+     4,
+     2
+    ],
+    [
+     6,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Super-K",
+   "n_hits": 8,
+   "n_linked": 8,
+   "concentration": 0.5,
+   "top": [
+    [
+     4,
+     4
+    ],
+    [
+     1,
+     1
+    ],
+    [
+     5,
+     1
+    ],
+    [
+     2,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Arecibo",
+   "n_hits": 8,
+   "n_linked": 8,
+   "concentration": 0.75,
+   "top": [
+    [
+     2,
+     6
+    ],
+    [
+     1,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "NOEMA/PdB",
+   "n_hits": 8,
+   "n_linked": 8,
+   "concentration": 0.625,
+   "top": [
+    [
+     6,
+     5
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     2,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "2MASS",
+   "n_hits": 8,
+   "n_linked": 8,
+   "concentration": 0.25,
+   "top": [
+    [
+     0,
+     2
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     5,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Kepler",
+   "n_hits": 10,
+   "n_linked": 8,
+   "concentration": 0.375,
+   "top": [
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     12,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "VLBA",
+   "n_hits": 8,
+   "n_linked": 7,
+   "concentration": 0.429,
+   "top": [
+    [
+     1,
+     3
+    ],
+    [
+     5,
+     2
+    ],
+    [
+     3,
+     1
+    ],
+    [
+     2,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "MERLIN",
+   "n_hits": 7,
+   "n_linked": 7,
+   "concentration": 0.429,
+   "top": [
+    [
+     1,
+     3
+    ],
+    [
+     5,
+     2
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     2,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "WISE",
+   "n_hits": 7,
+   "n_linked": 7,
+   "concentration": 0.571,
+   "top": [
+    [
+     6,
+     4
+    ],
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "EVN",
+   "n_hits": 6,
+   "n_linked": 6,
+   "concentration": 0.5,
+   "top": [
+    [
+     1,
+     3
+    ],
+    [
+     5,
+     1
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     6,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Effelsberg",
+   "n_hits": 6,
+   "n_linked": 6,
+   "concentration": 0.667,
+   "top": [
+    [
+     2,
+     4
+    ],
+    [
+     1,
+     1
+    ],
+    [
+     5,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "FAST (radio)",
+   "n_hits": 6,
+   "n_linked": 6,
+   "concentration": 0.5,
+   "top": [
+    [
+     1,
+     3
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "AMI",
+   "n_hits": 6,
+   "n_linked": 6,
+   "concentration": 0.667,
+   "top": [
+    [
+     1,
+     4
+    ],
+    [
+     5,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "KAIT",
+   "n_hits": 6,
+   "n_linked": 6,
+   "concentration": 1.0,
+   "top": [
+    [
+     1,
+     6
+    ]
+   ]
+  },
+  {
+   "probe": "Parkes",
+   "n_hits": 5,
+   "n_linked": 5,
+   "concentration": 0.8,
+   "top": [
+    [
+     2,
+     4
+    ],
+    [
+     4,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "CFHT",
+   "n_hits": 8,
+   "n_linked": 5,
+   "concentration": 1.0,
+   "top": [
+    [
+     1,
+     5
+    ]
+   ]
+  },
+  {
+   "probe": "ATLAS (survey)",
+   "n_hits": 5,
+   "n_linked": 5,
+   "concentration": 0.6,
+   "top": [
+    [
+     2,
+     3
+    ],
+    [
+     5,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "GOTO",
+   "n_hits": 5,
+   "n_linked": 5,
+   "concentration": 0.6,
+   "top": [
+    [
+     2,
+     3
+    ],
+    [
+     1,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "GEO600",
+   "n_hits": 4,
+   "n_linked": 4,
+   "concentration": 0.5,
+   "top": [
+    [
+     2,
+     2
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     4,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "UKIRT",
+   "n_hits": 9,
+   "n_linked": 4,
+   "concentration": 0.5,
+   "top": [
+    [
+     6,
+     2
+    ],
+    [
+     1,
+     1
+    ],
+    [
+     0,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "IXPE",
+   "n_hits": 3,
+   "n_linked": 3,
+   "concentration": 1.0,
+   "top": [
+    [
+     4,
+     3
+    ]
+   ]
+  },
+  {
+   "probe": "Euclid",
+   "n_hits": 4,
+   "n_linked": 3,
+   "concentration": 0.333,
+   "top": [
+    [
+     7,
+     1
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     2,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "OVRO",
+   "n_hits": 2,
+   "n_linked": 2,
+   "concentration": 0.5,
+   "top": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Tibet AS",
+   "n_hits": 1,
+   "n_linked": 1,
+   "concentration": 1.0,
+   "top": [
+    [
+     8,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Ryle",
+   "n_hits": 1,
+   "n_linked": 1,
+   "concentration": 1.0,
+   "top": [
+    [
+     6,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "Hitomi",
+   "n_hits": 0,
+   "n_linked": 0,
+   "concentration": 0.0,
+   "top": []
+  }
+ ],
+ "methods": [
+  {
+   "probe": "hydrodynamic simulation",
+   "n_hits": 793,
+   "n_linked": 765,
+   "concentration": 0.281,
+   "top": [
+    [
+     5,
+     215
+    ],
+    [
+     2,
+     207
+    ],
+    [
+     3,
+     143
+    ],
+    [
+     1,
+     97
+    ]
+   ]
+  },
+  {
+   "probe": "Monte Carlo",
+   "n_hits": 491,
+   "n_linked": 476,
+   "concentration": 0.195,
+   "top": [
+    [
+     7,
+     93
+    ],
+    [
+     3,
+     89
+    ],
+    [
+     2,
+     58
+    ],
+    [
+     4,
+     53
+    ]
+   ]
+  },
+  {
+   "probe": "(GR)MHD simulation",
+   "n_hits": 313,
+   "n_linked": 306,
+   "concentration": 0.356,
+   "top": [
+    [
+     2,
+     109
+    ],
+    [
+     5,
+     95
+    ],
+    [
+     3,
+     75
+    ],
+    [
+     1,
+     10
+    ]
+   ]
+  },
+  {
+   "probe": "Bayesian inference",
+   "n_hits": 206,
+   "n_linked": 200,
+   "concentration": 0.24,
+   "top": [
+    [
+     2,
+     48
+    ],
+    [
+     7,
+     46
+    ],
+    [
+     3,
+     28
+    ],
+    [
+     0,
+     24
+    ]
+   ]
+  },
+  {
+   "probe": "polarimetry",
+   "n_hits": 186,
+   "n_linked": 177,
+   "concentration": 0.571,
+   "top": [
+    [
+     3,
+     101
+    ],
+    [
+     5,
+     20
+    ],
+    [
+     1,
+     20
+    ],
+    [
+     6,
+     12
+    ]
+   ]
+  },
+  {
+   "probe": "time-resolved spectroscopy",
+   "n_hits": 176,
+   "n_linked": 175,
+   "concentration": 0.623,
+   "top": [
+    [
+     3,
+     109
+    ],
+    [
+     1,
+     14
+    ],
+    [
+     0,
+     11
+    ],
+    [
+     4,
+     11
+    ]
+   ]
+  },
+  {
+   "probe": "spectral lag",
+   "n_hits": 159,
+   "n_linked": 155,
+   "concentration": 0.419,
+   "top": [
+    [
+     3,
+     65
+    ],
+    [
+     8,
+     27
+    ],
+    [
+     7,
+     24
+    ],
+    [
+     2,
+     13
+    ]
+   ]
+  },
+  {
+   "probe": "Band function",
+   "n_hits": 141,
+   "n_linked": 141,
+   "concentration": 0.674,
+   "top": [
+    [
+     3,
+     95
+    ],
+    [
+     4,
+     19
+    ],
+    [
+     1,
+     12
+    ],
+    [
+     7,
+     10
+    ]
+   ]
+  },
+  {
+   "probe": "particle-in-cell",
+   "n_hits": 133,
+   "n_linked": 129,
+   "concentration": 0.876,
+   "top": [
+    [
+     3,
+     113
+    ],
+    [
+     4,
+     9
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     1,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "power spectrum/Fourier",
+   "n_hits": 133,
+   "n_linked": 121,
+   "concentration": 0.355,
+   "top": [
+    [
+     3,
+     43
+    ],
+    [
+     0,
+     26
+    ],
+    [
+     2,
+     10
+    ],
+    [
+     9,
+     8
+    ]
+   ]
+  },
+  {
+   "probe": "MCMC",
+   "n_hits": 119,
+   "n_linked": 117,
+   "concentration": 0.487,
+   "top": [
+    [
+     7,
+     57
+    ],
+    [
+     2,
+     17
+    ],
+    [
+     1,
+     16
+    ],
+    [
+     3,
+     11
+    ]
+   ]
+  },
+  {
+   "probe": "population synthesis",
+   "n_hits": 113,
+   "n_linked": 113,
+   "concentration": 0.504,
+   "top": [
+    [
+     2,
+     57
+    ],
+    [
+     6,
+     30
+    ],
+    [
+     5,
+     7
+    ],
+    [
+     1,
+     6
+    ]
+   ]
+  },
+  {
+   "probe": "machine learning",
+   "n_hits": 114,
+   "n_linked": 99,
+   "concentration": 0.374,
+   "top": [
+    [
+     2,
+     37
+    ],
+    [
+     7,
+     17
+    ],
+    [
+     4,
+     16
+    ],
+    [
+     0,
+     10
+    ]
+   ]
+  },
+  {
+   "probe": "radiative transfer",
+   "n_hits": 93,
+   "n_linked": 89,
+   "concentration": 0.337,
+   "top": [
+    [
+     3,
+     30
+    ],
+    [
+     6,
+     18
+    ],
+    [
+     2,
+     16
+    ],
+    [
+     0,
+     8
+    ]
+   ]
+  },
+  {
+   "probe": "XSPEC/spectral fitting",
+   "n_hits": 86,
+   "n_linked": 85,
+   "concentration": 0.329,
+   "top": [
+    [
+     3,
+     28
+    ],
+    [
+     1,
+     18
+    ],
+    [
+     0,
+     11
+    ],
+    [
+     7,
+     7
+    ]
+   ]
+  },
+  {
+   "probe": "photometric redshift",
+   "n_hits": 72,
+   "n_linked": 68,
+   "concentration": 0.529,
+   "top": [
+    [
+     6,
+     36
+    ],
+    [
+     2,
+     14
+    ],
+    [
+     1,
+     8
+    ],
+    [
+     0,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "variability timescale",
+   "n_hits": 63,
+   "n_linked": 61,
+   "concentration": 0.344,
+   "top": [
+    [
+     3,
+     21
+    ],
+    [
+     2,
+     10
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     4,
+     8
+    ]
+   ]
+  },
+  {
+   "probe": "cross-correlation",
+   "n_hits": 66,
+   "n_linked": 60,
+   "concentration": 0.25,
+   "top": [
+    [
+     3,
+     15
+    ],
+    [
+     2,
+     11
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     1,
+     5
+    ]
+   ]
+  },
+  {
+   "probe": "maximum likelihood",
+   "n_hits": 61,
+   "n_linked": 54,
+   "concentration": 0.296,
+   "top": [
+    [
+     0,
+     16
+    ],
+    [
+     4,
+     10
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     7,
+     6
+    ]
+   ]
+  },
+  {
+   "probe": "KS test",
+   "n_hits": 52,
+   "n_linked": 52,
+   "concentration": 0.25,
+   "top": [
+    [
+     6,
+     13
+    ],
+    [
+     0,
+     11
+    ],
+    [
+     3,
+     11
+    ],
+    [
+     4,
+     8
+    ]
+   ]
+  },
+  {
+   "probe": "VLBI",
+   "n_hits": 51,
+   "n_linked": 50,
+   "concentration": 0.34,
+   "top": [
+    [
+     1,
+     17
+    ],
+    [
+     2,
+     15
+    ],
+    [
+     5,
+     13
+    ],
+    [
+     4,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "neural networks",
+   "n_hits": 59,
+   "n_linked": 46,
+   "concentration": 0.261,
+   "top": [
+    [
+     7,
+     12
+    ],
+    [
+     2,
+     9
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     0,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "Gaussian process",
+   "n_hits": 32,
+   "n_linked": 32,
+   "concentration": 0.656,
+   "top": [
+    [
+     7,
+     21
+    ],
+    [
+     2,
+     5
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     3,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "wavelet",
+   "n_hits": 36,
+   "n_linked": 29,
+   "concentration": 0.517,
+   "top": [
+    [
+     3,
+     15
+    ],
+    [
+     0,
+     4
+    ],
+    [
+     8,
+     3
+    ],
+    [
+     2,
+     3
+    ]
+   ]
+  },
+  {
+   "probe": "stacking",
+   "n_hits": 31,
+   "n_linked": 29,
+   "concentration": 0.655,
+   "top": [
+    [
+     4,
+     19
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     2,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "logN-logS",
+   "n_hits": 31,
+   "n_linked": 28,
+   "concentration": 0.643,
+   "top": [
+    [
+     0,
+     18
+    ],
+    [
+     1,
+     7
+    ],
+    [
+     5,
+     1
+    ],
+    [
+     7,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "matched filter",
+   "n_hits": 25,
+   "n_linked": 24,
+   "concentration": 0.375,
+   "top": [
+    [
+     2,
+     9
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     4,
+     4
+    ],
+    [
+     1,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "V/Vmax",
+   "n_hits": 23,
+   "n_linked": 23,
+   "concentration": 0.957,
+   "top": [
+    [
+     0,
+     22
+    ],
+    [
+     1,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "N-body",
+   "n_hits": 19,
+   "n_linked": 17,
+   "concentration": 0.706,
+   "top": [
+    [
+     6,
+     12
+    ],
+    [
+     11,
+     2
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     5,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "PCA",
+   "n_hits": 25,
+   "n_linked": 16,
+   "concentration": 0.375,
+   "top": [
+    [
+     1,
+     6
+    ],
+    [
+     7,
+     3
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     3,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "random forest/SVM",
+   "n_hits": 24,
+   "n_linked": 15,
+   "concentration": 0.333,
+   "top": [
+    [
+     0,
+     5
+    ],
+    [
+     6,
+     4
+    ],
+    [
+     7,
+     4
+    ],
+    [
+     2,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "bootstrap",
+   "n_hits": 11,
+   "n_linked": 10,
+   "concentration": 0.6,
+   "top": [
+    [
+     0,
+     6
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     3,
+     1
+    ],
+    [
+     4,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "template fitting",
+   "n_hits": 1,
+   "n_linked": 1,
+   "concentration": 1.0,
+   "top": [
+    [
+     6,
+     1
+    ]
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "probe": "synchrotron",
+   "n_hits": 1288,
+   "n_linked": 1267,
+   "concentration": 0.328,
+   "top": [
+    [
+     3,
+     415
+    ],
+    [
+     1,
+     295
+    ],
+    [
+     4,
+     276
+    ],
+    [
+     2,
+     94
+    ]
+   ]
+  },
+  {
+   "probe": "Lorentz factor",
+   "n_hits": 951,
+   "n_linked": 938,
+   "concentration": 0.346,
+   "top": [
+    [
+     3,
+     325
+    ],
+    [
+     1,
+     236
+    ],
+    [
+     4,
+     153
+    ],
+    [
+     2,
+     85
+    ]
+   ]
+  },
+  {
+   "probe": "fireball",
+   "n_hits": 797,
+   "n_linked": 774,
+   "concentration": 0.422,
+   "top": [
+    [
+     1,
+     327
+    ],
+    [
+     3,
+     169
+    ],
+    [
+     4,
+     90
+    ],
+    [
+     5,
+     57
+    ]
+   ]
+  },
+  {
+   "probe": "magnetar engine",
+   "n_hits": 678,
+   "n_linked": 666,
+   "concentration": 0.381,
+   "top": [
+    [
+     2,
+     254
+    ],
+    [
+     5,
+     150
+    ],
+    [
+     0,
+     96
+    ],
+    [
+     1,
+     68
+    ]
+   ]
+  },
+  {
+   "probe": "kilonova",
+   "n_hits": 470,
+   "n_linked": 466,
+   "concentration": 0.91,
+   "top": [
+    [
+     2,
+     424
+    ],
+    [
+     5,
+     13
+    ],
+    [
+     3,
+     8
+    ],
+    [
+     6,
+     7
+    ]
+   ]
+  },
+  {
+   "probe": "accretion disk/torus",
+   "n_hits": 474,
+   "n_linked": 458,
+   "concentration": 0.465,
+   "top": [
+    [
+     5,
+     213
+    ],
+    [
+     2,
+     131
+    ],
+    [
+     3,
+     30
+    ],
+    [
+     0,
+     29
+    ]
+   ]
+  },
+  {
+   "probe": "photosphere",
+   "n_hits": 445,
+   "n_linked": 437,
+   "concentration": 0.611,
+   "top": [
+    [
+     3,
+     267
+    ],
+    [
+     5,
+     74
+    ],
+    [
+     4,
+     32
+    ],
+    [
+     2,
+     23
+    ]
+   ]
+  },
+  {
+   "probe": "internal shocks",
+   "n_hits": 407,
+   "n_linked": 400,
+   "concentration": 0.458,
+   "top": [
+    [
+     3,
+     183
+    ],
+    [
+     4,
+     92
+    ],
+    [
+     1,
+     82
+    ],
+    [
+     5,
+     16
+    ]
+   ]
+  },
+  {
+   "probe": "plateau",
+   "n_hits": 403,
+   "n_linked": 396,
+   "concentration": 0.326,
+   "top": [
+    [
+     1,
+     129
+    ],
+    [
+     2,
+     106
+    ],
+    [
+     7,
+     64
+    ],
+    [
+     5,
+     49
+    ]
+   ]
+  },
+  {
+   "probe": "inverse Compton/SSC",
+   "n_hits": 395,
+   "n_linked": 387,
+   "concentration": 0.468,
+   "top": [
+    [
+     4,
+     181
+    ],
+    [
+     3,
+     90
+    ],
+    [
+     1,
+     61
+    ],
+    [
+     2,
+     18
+    ]
+   ]
+  },
+  {
+   "probe": "collapsar",
+   "n_hits": 387,
+   "n_linked": 382,
+   "concentration": 0.5,
+   "top": [
+    [
+     5,
+     191
+    ],
+    [
+     6,
+     66
+    ],
+    [
+     2,
+     53
+    ],
+    [
+     1,
+     23
+    ]
+   ]
+  },
+  {
+   "probe": "NS equation of state",
+   "n_hits": 345,
+   "n_linked": 334,
+   "concentration": 0.563,
+   "top": [
+    [
+     2,
+     188
+    ],
+    [
+     7,
+     66
+    ],
+    [
+     5,
+     35
+    ],
+    [
+     0,
+     12
+    ]
+   ]
+  },
+  {
+   "probe": "reverse shock",
+   "n_hits": 333,
+   "n_linked": 327,
+   "concentration": 0.639,
+   "top": [
+    [
+     1,
+     209
+    ],
+    [
+     3,
+     48
+    ],
+    [
+     4,
+     37
+    ],
+    [
+     2,
+     19
+    ]
+   ]
+  },
+  {
+   "probe": "external shock",
+   "n_hits": 322,
+   "n_linked": 317,
+   "concentration": 0.401,
+   "top": [
+    [
+     1,
+     127
+    ],
+    [
+     3,
+     65
+    ],
+    [
+     4,
+     64
+    ],
+    [
+     2,
+     26
+    ]
+   ]
+  },
+  {
+   "probe": "turbulence",
+   "n_hits": 282,
+   "n_linked": 274,
+   "concentration": 0.54,
+   "top": [
+    [
+     3,
+     148
+    ],
+    [
+     4,
+     35
+    ],
+    [
+     5,
+     29
+    ],
+    [
+     2,
+     26
+    ]
+   ]
+  },
+  {
+   "probe": "structured jet",
+   "n_hits": 271,
+   "n_linked": 268,
+   "concentration": 0.388,
+   "top": [
+    [
+     2,
+     104
+    ],
+    [
+     1,
+     74
+    ],
+    [
+     3,
+     37
+    ],
+    [
+     4,
+     25
+    ]
+   ]
+  },
+  {
+   "probe": "jet break",
+   "n_hits": 266,
+   "n_linked": 265,
+   "concentration": 0.532,
+   "top": [
+    [
+     1,
+     141
+    ],
+    [
+     2,
+     36
+    ],
+    [
+     3,
+     26
+    ],
+    [
+     5,
+     25
+    ]
+   ]
+  },
+  {
+   "probe": "precursor",
+   "n_hits": 236,
+   "n_linked": 232,
+   "concentration": 0.302,
+   "top": [
+    [
+     2,
+     70
+    ],
+    [
+     3,
+     55
+    ],
+    [
+     1,
+     33
+    ],
+    [
+     5,
+     30
+    ]
+   ]
+  },
+  {
+   "probe": "X-ray flares",
+   "n_hits": 235,
+   "n_linked": 229,
+   "concentration": 0.485,
+   "top": [
+    [
+     1,
+     111
+    ],
+    [
+     5,
+     36
+    ],
+    [
+     2,
+     22
+    ],
+    [
+     3,
+     21
+    ]
+   ]
+  },
+  {
+   "probe": "magnetic reconnection",
+   "n_hits": 212,
+   "n_linked": 203,
+   "concentration": 0.635,
+   "top": [
+    [
+     3,
+     129
+    ],
+    [
+     2,
+     17
+    ],
+    [
+     0,
+     16
+    ],
+    [
+     4,
+     15
+    ]
+   ]
+  },
+  {
+   "probe": "r-process",
+   "n_hits": 207,
+   "n_linked": 203,
+   "concentration": 0.759,
+   "top": [
+    [
+     2,
+     154
+    ],
+    [
+     5,
+     40
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     13,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "nucleosynthesis",
+   "n_hits": 212,
+   "n_linked": 202,
+   "concentration": 0.406,
+   "top": [
+    [
+     5,
+     82
+    ],
+    [
+     2,
+     79
+    ],
+    [
+     4,
+     10
+    ],
+    [
+     6,
+     8
+    ]
+   ]
+  },
+  {
+   "probe": "compactness/pair production",
+   "n_hits": 201,
+   "n_linked": 195,
+   "concentration": 0.349,
+   "top": [
+    [
+     4,
+     68
+    ],
+    [
+     0,
+     38
+    ],
+    [
+     3,
+     38
+    ],
+    [
+     2,
+     23
+    ]
+   ]
+  },
+  {
+   "probe": "Poynting flux",
+   "n_hits": 203,
+   "n_linked": 195,
+   "concentration": 0.492,
+   "top": [
+    [
+     3,
+     96
+    ],
+    [
+     2,
+     35
+    ],
+    [
+     5,
+     29
+    ],
+    [
+     1,
+     20
+    ]
+   ]
+  },
+  {
+   "probe": "hadronic/photopion",
+   "n_hits": 188,
+   "n_linked": 186,
+   "concentration": 0.694,
+   "top": [
+    [
+     4,
+     129
+    ],
+    [
+     13,
+     24
+    ],
+    [
+     3,
+     11
+    ],
+    [
+     2,
+     6
+    ]
+   ]
+  },
+  {
+   "probe": "Lorentz invariance",
+   "n_hits": 188,
+   "n_linked": 184,
+   "concentration": 0.783,
+   "top": [
+    [
+     8,
+     144
+    ],
+    [
+     4,
+     27
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "cocoon",
+   "n_hits": 176,
+   "n_linked": 176,
+   "concentration": 0.449,
+   "top": [
+    [
+     2,
+     79
+    ],
+    [
+     5,
+     58
+    ],
+    [
+     3,
+     17
+    ],
+    [
+     1,
+     11
+    ]
+   ]
+  },
+  {
+   "probe": "tidal disruption",
+   "n_hits": 172,
+   "n_linked": 168,
+   "concentration": 0.429,
+   "top": [
+    [
+     5,
+     72
+    ],
+    [
+     2,
+     56
+    ],
+    [
+     4,
+     14
+    ],
+    [
+     1,
+     14
+    ]
+   ]
+  },
+  {
+   "probe": "extended emission",
+   "n_hits": 170,
+   "n_linked": 167,
+   "concentration": 0.599,
+   "top": [
+    [
+     2,
+     100
+    ],
+    [
+     4,
+     17
+    ],
+    [
+     1,
+     11
+    ],
+    [
+     7,
+     11
+    ]
+   ]
+  },
+  {
+   "probe": "Blandford-Znajek",
+   "n_hits": 158,
+   "n_linked": 157,
+   "concentration": 0.529,
+   "top": [
+    [
+     5,
+     83
+    ],
+    [
+     1,
+     36
+    ],
+    [
+     2,
+     26
+    ],
+    [
+     3,
+     9
+    ]
+   ]
+  },
+  {
+   "probe": "standard candle",
+   "n_hits": 152,
+   "n_linked": 142,
+   "concentration": 0.563,
+   "top": [
+    [
+     7,
+     80
+    ],
+    [
+     0,
+     36
+    ],
+    [
+     3,
+     9
+    ],
+    [
+     1,
+     8
+    ]
+   ]
+  },
+  {
+   "probe": "gravitational lensing",
+   "n_hits": 145,
+   "n_linked": 133,
+   "concentration": 0.556,
+   "top": [
+    [
+     0,
+     74
+    ],
+    [
+     2,
+     17
+    ],
+    [
+     7,
+     17
+    ],
+    [
+     6,
+     13
+    ]
+   ]
+  },
+  {
+   "probe": "quantum gravity",
+   "n_hits": 137,
+   "n_linked": 126,
+   "concentration": 0.802,
+   "top": [
+    [
+     8,
+     101
+    ],
+    [
+     4,
+     6
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     0,
+     4
+    ]
+   ]
+  },
+  {
+   "probe": "shock breakout",
+   "n_hits": 107,
+   "n_linked": 106,
+   "concentration": 0.604,
+   "top": [
+    [
+     5,
+     64
+    ],
+    [
+     2,
+     21
+    ],
+    [
+     3,
+     7
+    ],
+    [
+     4,
+     6
+    ]
+   ]
+  },
+  {
+   "probe": "quark/strange star",
+   "n_hits": 107,
+   "n_linked": 104,
+   "concentration": 0.49,
+   "top": [
+    [
+     13,
+     51
+    ],
+    [
+     2,
+     24
+    ],
+    [
+     1,
+     10
+    ],
+    [
+     0,
+     8
+    ]
+   ]
+  },
+  {
+   "probe": "fallback",
+   "n_hits": 99,
+   "n_linked": 98,
+   "concentration": 0.439,
+   "top": [
+    [
+     5,
+     43
+    ],
+    [
+     2,
+     31
+    ],
+    [
+     1,
+     8
+    ],
+    [
+     10,
+     5
+    ]
+   ]
+  },
+  {
+   "probe": "Hubble constant",
+   "n_hits": 94,
+   "n_linked": 93,
+   "concentration": 0.559,
+   "top": [
+    [
+     7,
+     52
+    ],
+    [
+     2,
+     30
+    ],
+    [
+     0,
+     7
+    ],
+    [
+     1,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "baryon loading",
+   "n_hits": 87,
+   "n_linked": 86,
+   "concentration": 0.279,
+   "top": [
+    [
+     4,
+     24
+    ],
+    [
+     10,
+     18
+    ],
+    [
+     3,
+     17
+    ],
+    [
+     1,
+     10
+    ]
+   ]
+  },
+  {
+   "probe": "Fermi acceleration",
+   "n_hits": 85,
+   "n_linked": 82,
+   "concentration": 0.537,
+   "top": [
+    [
+     3,
+     44
+    ],
+    [
+     4,
+     30
+    ],
+    [
+     1,
+     5
+    ],
+    [
+     2,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "axions",
+   "n_hits": 74,
+   "n_linked": 71,
+   "concentration": 0.577,
+   "top": [
+    [
+     4,
+     41
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     13,
+     5
+    ]
+   ]
+  },
+  {
+   "probe": "orphan afterglow",
+   "n_hits": 63,
+   "n_linked": 63,
+   "concentration": 0.587,
+   "top": [
+    [
+     1,
+     37
+    ],
+    [
+     2,
+     15
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     5,
+     2
+    ]
+   ]
+  },
+  {
+   "probe": "choked jet",
+   "n_hits": 35,
+   "n_linked": 35,
+   "concentration": 0.4,
+   "top": [
+    [
+     5,
+     14
+    ],
+    [
+     4,
+     12
+    ],
+    [
+     2,
+     8
+    ],
+    [
+     1,
+     1
+    ]
+   ]
+  },
+  {
+   "probe": "ICMART",
+   "n_hits": 16,
+   "n_linked": 16,
+   "concentration": 0.688,
+   "top": [
+    [
+     3,
+     11
+    ],
+    [
+     4,
+     5
+    ]
+   ]
+  }
+ ],
+ "community_facility_dominance": {
+  "C0": {
+   "facility": "BATSE",
+   "share": 0.201
+  },
+  "C1": {
+   "facility": "Swift",
+   "share": 0.269
+  },
+  "C2": {
+   "facility": "LIGO/Virgo",
+   "share": 0.183
+  },
+  "C3": {
+   "facility": "Fermi",
+   "share": 0.183
+  },
+  "C4": {
+   "facility": "Fermi",
+   "share": 0.23
+  },
+  "C5": {
+   "facility": "Swift",
+   "share": 0.11
+  },
+  "C6": {
+   "facility": "Swift",
+   "share": 0.242
+  },
+  "C7": {
+   "facility": "Swift",
+   "share": 0.225
+  },
+  "C8": {
+   "facility": "Fermi",
+   "share": 0.14
+  },
+  "C9": {
+   "facility": "Fermi",
+   "share": 0.405
+  },
+  "C10": {
+   "facility": "Swift",
+   "share": 0.16
+  },
+  "C11": {
+   "facility": "Fermi",
+   "share": 0.205
+  },
+  "C12": {
+   "facility": "Fermi",
+   "share": 0.049
+  },
+  "C13": {
+   "facility": "BATSE",
+   "share": 0.025
+  }
+ },
+ "facilities_summary": {
+  "n_probes": 124,
+  "n_over_30": 61,
+  "median_concentration": 0.525,
+  "max_concentration": 0.976
+ },
+ "methods_summary": {
+  "n_probes": 33,
+  "n_over_30": 23,
+  "median_concentration": 0.355,
+  "max_concentration": 0.876
+ },
+ "theory_summary": {
+  "n_probes": 43,
+  "n_over_30": 42,
+  "median_concentration": 0.496,
+  "max_concentration": 0.91
+ }
+}

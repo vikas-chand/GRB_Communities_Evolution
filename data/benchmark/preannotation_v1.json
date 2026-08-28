@@ -1,0 +1,1959 @@
+{
+ "n_items": 120,
+ "n_agree": 95,
+ "n_disagree": 25,
+ "n_incomplete": 0,
+ "tally": {
+  "wrong_type": 11,
+  "drifted": 15,
+  "supported": 69,
+  "unsupported": 25
+ },
+ "annotations": {
+  "assu_pre-1997_000": {
+   "strict": {
+    "id": "assu_pre-1997_000",
+    "verdict": "wrong_type",
+    "note": "\"The results of the search... show that LVD is a neutrino observatory able to detect neutrinos... in all our Galaxy\" \u2014 stated as a demonstrated result, not an assumption."
+   },
+   "reader": {
+    "id": "assu_pre-1997_000",
+    "verdict": "wrong_type",
+    "note": "The abstract presents this as a demonstrated result \u2014 'The results of the search for supernovae neutrinos show that LVD is a neutrino observatory able to detect neutrinos... in all our Galaxy' \u2014 not as an assumption."
+   },
+   "final": {
+    "verdict": "wrong_type",
+    "source": "agreement"
+   }
+  },
+  "assu_pre-1997_001": {
+   "strict": {
+    "id": "assu_pre-1997_001",
+    "verdict": "drifted",
+    "note": "Abstract only says the technique \"takes the angular position errors into account\"; that the 3B errors are correctly characterized is an added adequacy claim."
+   },
+   "reader": {
+    "id": "assu_pre-1997_001",
+    "verdict": "supported",
+    "note": "'We develop an analysis technique that takes the angular position errors into account' \u2014 using the 3B catalog errors in the analysis carries the implicit assumption that they are correctly characterized."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "adjudicated",
+    "note": "'We develop an analysis technique that takes the angular position errors into account' \u2014 quantitatively using the 3B catalog errors entails assuming they are correctly characterized, the minimal implicit assumption with nothing added."
+   }
+  },
+  "assu_pre-1997_002": {
+   "strict": {
+    "id": "assu_pre-1997_002",
+    "verdict": "drifted",
+    "note": "Abstract says \"X-ray characteristics favor a spin-powered system\"; accretion-powered models and a general distinguishing capability are never mentioned."
+   },
+   "reader": {
+    "id": "assu_pre-1997_002",
+    "verdict": "supported",
+    "note": "'The observed X-ray characteristics favor a spin-powered system for SGR1806-20' \u2014 the inference rests on the implicit assumption that persistent X-ray properties discriminate between the models."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "adjudicated",
+    "note": "The abstract says only 'the observed X-ray characteristics favor a spin-powered system'; the specific accretion-powered alternative and a general discriminating capability of persistent emission are added scope."
+   }
+  },
+  "assu_pre-1997_003": {
+   "strict": {
+    "id": "assu_pre-1997_003",
+    "verdict": "drifted",
+    "note": "Abstract says non-detection \"suggests a very soft spectrum\"; the contrast \"rather than absorption\" is added and the hedge is strengthened to \"implies\"."
+   },
+   "reader": {
+    "id": "assu_pre-1997_003",
+    "verdict": "drifted",
+    "note": "Abstract says non-detection 'suggests a very soft spectrum' but never mentions or excludes absorption; the added 'rather than absorption' contrast strengthens the inference beyond the text."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "agreement"
+   }
+  },
+  "assu_pre-1997_004": {
+   "strict": {
+    "id": "assu_pre-1997_004",
+    "verdict": "supported",
+    "note": "\"The isotropic distribution... as observed with BATSE strongly suggests that the bursts are at cosmological distances\", and the analysis proceeds on that premise."
+   },
+   "reader": {
+    "id": "assu_pre-1997_004",
+    "verdict": "supported",
+    "note": "'The isotropic distribution of gamma-ray bursts... strongly suggests that the bursts are at cosmological distances', which the analysis then takes as its working premise."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "assu_1997-2008_005": {
+   "strict": {
+    "id": "assu_1997-2008_005",
+    "verdict": "unsupported",
+    "note": "Abstract describes a GRB observing program but says nothing about slew speed, afterglows, or the adequacy of response time."
+   },
+   "reader": {
+    "id": "assu_1997-2008_005",
+    "verdict": "unsupported",
+    "note": "The abstract only says a GRB observing program has been established; nothing about slew speed, response time, or afterglow observation capability."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "assu_1997-2008_006": {
+   "strict": {
+    "id": "assu_1997-2008_006",
+    "verdict": "drifted",
+    "note": "Abstract only reports \"We have used a two-dimensional atmospheric model\"; the adequacy claim (\"adequately capture the relevant processes\") is added."
+   },
+   "reader": {
+    "id": "assu_1997-2008_006",
+    "verdict": "supported",
+    "note": "'We have used a two-dimensional atmospheric model to investigate the effects' \u2014 relying on the 2D model for all quantitative conclusions implicitly assumes it captures the relevant processes."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "adjudicated",
+    "note": "'We have used a two-dimensional atmospheric model to investigate the effects' \u2014 drawing all quantitative conclusions from the 2D model entails the adequacy assumption, stated with no added specifics."
+   }
+  },
+  "assu_1997-2008_007": {
+   "strict": {
+    "id": "assu_1997-2008_007",
+    "verdict": "supported",
+    "note": "\"The outflow is composed of discrete shells with different speeds\", with the \"Lorentz factor ratio of the two shells\" a model parameter \u2014 exact-meaning paraphrase of the scenario's premise."
+   },
+   "reader": {
+    "id": "assu_1997-2008_007",
+    "verdict": "supported",
+    "note": "'The outflow is composed of discrete shells with different speeds' \u2014 Lorentz factors is the standard relativistic-outflow paraphrase, and the abstract itself uses 'Lorentz factor ratio of the two shells'."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "assu_1997-2008_008": {
+   "strict": {
+    "id": "assu_1997-2008_008",
+    "verdict": "supported",
+    "note": "\"discuss the roles various timescales, radii and the optical thickness of the wind play in determining this wide range of behaviors\" \u2014 direct paraphrase."
+   },
+   "reader": {
+    "id": "assu_1997-2008_008",
+    "verdict": "supported",
+    "note": "'discuss the roles various timescales, radii and the optical thickness of the wind play in determining this wide range of behaviors' matches directly."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "assu_1997-2008_009": {
+   "strict": {
+    "id": "assu_1997-2008_009",
+    "verdict": "wrong_type",
+    "note": "\"We show here that the x-ray, ultraviolet/optical and radio afterglows... have to be attributed to different physical processes\" \u2014 presented as a demonstrated result, not an assumption."
+   },
+   "reader": {
+    "id": "assu_1997-2008_009",
+    "verdict": "wrong_type",
+    "note": "'We show here that the x-ray, ultraviolet/optical and radio afterglows... have to be attributed to different physical processes' \u2014 this is the paper's demonstrated claim, not an assumption."
+   },
+   "final": {
+    "verdict": "wrong_type",
+    "source": "agreement"
+   }
+  },
+  "assu_2009-2017_010": {
+   "strict": {
+    "id": "assu_2009-2017_010",
+    "verdict": "supported",
+    "note": "The abstract explicitly conditions its argument on non-atmospheric origin: \"we argue that if these events are neutrino-induced, then...\" while noting \"an atmospheric origin... cannot be ruled out\"."
+   },
+   "reader": {
+    "id": "assu_2009-2017_010",
+    "verdict": "supported",
+    "note": "The abstract explicitly conditions the whole argument on this premise: 'if these events are neutrino-induced, then...' while noting an atmospheric origin cannot be ruled out \u2014 a genuine stated assumption."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "assu_2009-2017_011": {
+   "strict": {
+    "id": "assu_2009-2017_011",
+    "verdict": "drifted",
+    "note": "Abstract uses \"chemical evolution models of galaxies of different morphological types\", but the causal clause \"due to their star formation histories\" is added."
+   },
+   "reader": {
+    "id": "assu_2009-2017_011",
+    "verdict": "supported",
+    "note": "'chemical evolution models of galaxies of different morphological types' \u2014 per-type models entail the assumption of distinct evolution tracks; the star-formation-history rationale is standard paraphrase of what such models encode."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "adjudicated",
+    "note": "Per-type 'chemical evolution models of galaxies of different morphological types' entails distinct tracks, but the causal clause 'due to their star formation histories' is added \u2014 the abstract never mentions star formation histories."
+   }
+  },
+  "assu_2009-2017_012": {
+   "strict": {
+    "id": "assu_2009-2017_012",
+    "verdict": "drifted",
+    "note": "The \">300\u00b0 smooth rotation\" is in the abstract, but the association with \"a large-scale ordered helical magnetic field\" is an added mechanism never stated."
+   },
+   "reader": {
+    "id": "assu_2009-2017_012",
+    "verdict": "unsupported",
+    "note": "The abstract reports the >300-degree polarization angle rotation but says nothing about a helical or ordered magnetic field structure."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "adjudicated",
+    "note": "The abstract reports the polarization angle 'rotated smoothly over more than 300 degrees' but contains no mention of a helical or ordered magnetic field \u2014 the substantive assertion is absent, not shifted."
+   }
+  },
+  "assu_2009-2017_013": {
+   "strict": {
+    "id": "assu_2009-2017_013",
+    "verdict": "drifted",
+    "note": "\"High apogee orbit\" appears only as a launch parameter; the claimed benefits (minimized background, long uninterrupted observations) are added rationale."
+   },
+   "reader": {
+    "id": "assu_2009-2017_013",
+    "verdict": "unsupported",
+    "note": "The abstract gives the high-apogee orbit parameters but never states the rationale of minimized background or long uninterrupted observations."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "adjudicated",
+    "note": "The 'high apogee orbit' appears only as launch parameters (apogee ~300000 km, perigee ~500 km); the claimed benefits of minimized background and long uninterrupted observations appear nowhere in the abstract."
+   }
+  },
+  "assu_2009-2017_014": {
+   "strict": {
+    "id": "assu_2009-2017_014",
+    "verdict": "wrong_type",
+    "note": "\"The anticorrelation... suggests that the edges are produced by the nuclear burning ashes that have been transported upwards by convection\" \u2014 an inferred result/interpretation, not an assumption."
+   },
+   "reader": {
+    "id": "assu_2009-2017_014",
+    "verdict": "wrong_type",
+    "note": "'The anticorrelation... suggests that the edges are produced by the nuclear burning ashes that have been transported upwards by convection' \u2014 this is the paper's inferred result, not an assumption it relies on."
+   },
+   "final": {
+    "verdict": "wrong_type",
+    "source": "agreement"
+   }
+  },
+  "assu_2018-2026_015": {
+   "strict": {
+    "id": "assu_2018-2026_015",
+    "verdict": "drifted",
+    "note": "GRB sightlines at z > 2 are used as calibration data, but the abstract never asserts they are \"representative samples\" of high-redshift ISM conditions."
+   },
+   "reader": {
+    "id": "assu_2018-2026_015",
+    "verdict": "supported",
+    "note": "Calibrating a universal [C II]-to-metal-mass conversion 'in addition to gamma-ray burst sightlines at z > 2' implicitly assumes those sightlines representatively sample high-z ISM conditions."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "adjudicated",
+    "note": "Calibrating a universal [C II]-to-metal-mass conversion partly on 'gamma-ray burst sightlines at z > 2' entails assuming those sightlines representatively sample high-z ISM conditions \u2014 the minimal implicit assumption of the calibration."
+   }
+  },
+  "assu_2018-2026_016": {
+   "strict": {
+    "id": "assu_2018-2026_016",
+    "verdict": "drifted",
+    "note": "Abstract says \u00b14\u2033 precision \"is required to accurately localize\" the images; recasting the requirement as \"is adequate\" shifts necessity to sufficiency."
+   },
+   "reader": {
+    "id": "assu_2018-2026_016",
+    "verdict": "supported",
+    "note": "'measures the pointing of STIX relative to the Sun with a precision of \u00b14\u2033, which is required to accurately localize the reconstructed X-ray images on the Sun'."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "adjudicated",
+    "note": "'a precision of +/-4 arcsec, which is required to accurately localize the reconstructed X-ray images' presents SAS as delivering the precision localization needs; 'adequate' is contextual paraphrase, not a misleading shift."
+   }
+  },
+  "assu_2018-2026_017": {
+   "strict": {
+    "id": "assu_2018-2026_017",
+    "verdict": "wrong_type",
+    "note": "\"Given the sign of the lag, we interpret this as possible evidence of Comptonization from external seed photons\" \u2014 an interpretive conclusion, not an assumption (and its \"possible\" hedge is dropped)."
+   },
+   "reader": {
+    "id": "assu_2018-2026_017",
+    "verdict": "wrong_type",
+    "note": "'we interpret this as possible evidence of Comptonization from external seed photons' is the paper's hedged interpretive claim/speculation, not an assumption of the analysis."
+   },
+   "final": {
+    "verdict": "wrong_type",
+    "source": "agreement"
+   }
+  },
+  "assu_2018-2026_018": {
+   "strict": {
+    "id": "assu_2018-2026_018",
+    "verdict": "unsupported",
+    "note": "The abstract describes the automated AOM system's architecture but never makes any claim about replacing human decision-making."
+   },
+   "reader": {
+    "id": "assu_2018-2026_018",
+    "verdict": "drifted",
+    "note": "The abstract describes an automatic observation management system for follow-up, but 'can replace human decision-making' is a broader claim of full human replacement the abstract never makes."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "adjudicated",
+    "note": "The automated follow-up content is present ('dynamic scheduling, automatic broadcasting... completely meeting the requirements') but 'can replace human decision-making' strengthens it into a human-replacement claim the abstract never makes."
+   }
+  },
+  "assu_2018-2026_019": {
+   "strict": {
+    "id": "assu_2018-2026_019",
+    "verdict": "unsupported",
+    "note": "The abstract never mentions the corona or its geometric stability; nothing about a stability condition for comparing bursts over the 3 yr campaign."
+   },
+   "reader": {
+    "id": "assu_2018-2026_019",
+    "verdict": "unsupported",
+    "note": "The abstract describes the 3-yr NICER burst campaign and spectral analysis but says nothing about corona geometry or its stability across the monitoring period."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "clai_pre-1997_020": {
+   "strict": {
+    "id": "clai_pre-1997_020",
+    "verdict": "supported",
+    "note": "Abstract: \"I present the arguments for dark halo matter to consist of stellar remnants, the most innocuous form of which is a population of primordial massive white dwarfs.\""
+   },
+   "reader": {
+    "id": "clai_pre-1997_020",
+    "verdict": "supported",
+    "note": "Abstract: \"arguments for dark halo matter to consist of stellar remnants, the most innocuous form of which is a population of primordial massive white dwarfs\" \u2014 'most conservatively' is a fair paraphrase of 'most innocuous'."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_pre-1997_021": {
+   "strict": {
+    "id": "clai_pre-1997_021",
+    "verdict": "supported",
+    "note": "Abstract states verbatim: \"Time-variable radio emission after the initial gamma-ray burst is a prediction of all fireball models.\""
+   },
+   "reader": {
+    "id": "clai_pre-1997_021",
+    "verdict": "supported",
+    "note": "Near-verbatim: \"Time-variable radio emission after the initial gamma-ray burst is a prediction of all fireball models\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_pre-1997_022": {
+   "strict": {
+    "id": "clai_pre-1997_022",
+    "verdict": "supported",
+    "note": "Abstract: \"I find that the post-1B data are consistent with the repeating model inferred from the 1B data, after taking into account the lower fraction of bursts with well-determined positions.\""
+   },
+   "reader": {
+    "id": "clai_pre-1997_022",
+    "verdict": "supported",
+    "note": "Verbatim: \"the post-1B data are consistent with the repeating model inferred from the 1B data, after taking into account the lower fraction of bursts with well-determined positions\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_pre-1997_023": {
+   "strict": {
+    "id": "clai_pre-1997_023",
+    "verdict": "supported",
+    "note": "Abstract: \"The flux is far too large to come from the neutron star directly but could accord with radiation from a heated accretion disk and/or the heated side of the companion star.\""
+   },
+   "reader": {
+    "id": "clai_pre-1997_023",
+    "verdict": "supported",
+    "note": "Abstract: \"far too large to come from the neutron star directly but could accord with radiation from a heated accretion disk and/or the heated side of the companion star\" \u2014 'irradiated' matches 'heated'."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_pre-1997_024": {
+   "strict": {
+    "id": "clai_pre-1997_024",
+    "verdict": "supported",
+    "note": "Abstract states verbatim: \"COMPTEL imaging and BATSE/Ulysses triangulation constrain the source location of GB 920622 to a ring sector 1.1 arcmin wide and 2 degrees long.\""
+   },
+   "reader": {
+    "id": "clai_pre-1997_024",
+    "verdict": "supported",
+    "note": "Verbatim: \"COMPTEL imaging and BATSE/Ulysses triangulation constrain the source location of GB 920622 to a ring sector 1.1 arcmin wide and 2 degrees long\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_1997-2008_025": {
+   "strict": {
+    "id": "clai_1997-2008_025",
+    "verdict": "supported",
+    "note": "Abstract: \"This class of burst would have a strong correlation with star formation, and occur close to the host galaxy.\""
+   },
+   "reader": {
+    "id": "clai_1997-2008_025",
+    "verdict": "supported",
+    "note": "Verbatim: \"This class of burst would have a strong correlation with star formation, and occur close to the host galaxy\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_1997-2008_026": {
+   "strict": {
+    "id": "clai_1997-2008_026",
+    "verdict": "drifted",
+    "note": "Abstract hedges with \"We envision the outflows in this case to initially consist of...\" \u2014 the modeling-assumption framing is dropped and the statement asserted as fact."
+   },
+   "reader": {
+    "id": "clai_1997-2008_026",
+    "verdict": "wrong_type",
+    "note": "The abstract frames this as a model assumption \u2014 \"We envision the outflows in this case to initially consist of a hot and optically thick mixture...\" \u2014 not an asserted claim."
+   },
+   "final": {
+    "verdict": "wrong_type",
+    "source": "adjudicated",
+    "note": "'We envision the outflows in this case to initially consist of...' frames this as a modeling assumption, not an asserted claim \u2014 the content is present but under the wrong entity type."
+   }
+  },
+  "clai_1997-2008_027": {
+   "strict": {
+    "id": "clai_1997-2008_027",
+    "verdict": "unsupported",
+    "note": "The abstract only says \"I review some of the highlights of the Rome Workshop\" and never mentions the internal-external shock fireball model or its status."
+   },
+   "reader": {
+    "id": "clai_1997-2008_027",
+    "verdict": "unsupported",
+    "note": "The abstract only says the author reviews workshop highlights; it never mentions the internal-external shock fireball model or its status as leading framework."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "clai_1997-2008_028": {
+   "strict": {
+    "id": "clai_1997-2008_028",
+    "verdict": "supported",
+    "note": "Abstract: \"Most classical and recurrent novae instead emit hard X-rays (in the ROSAT band) in the first months after the outburst.\""
+   },
+   "reader": {
+    "id": "clai_1997-2008_028",
+    "verdict": "supported",
+    "note": "Verbatim: \"Most classical and recurrent novae instead emit hard X-rays (in the ROSAT band) in the first months after the outburst\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_1997-2008_029": {
+   "strict": {
+    "id": "clai_1997-2008_029",
+    "verdict": "supported",
+    "note": "Abstract: \"We report the detection of four large optical bursts from the transient X-ray burster XTE J2123-058.\""
+   },
+   "reader": {
+    "id": "clai_1997-2008_029",
+    "verdict": "supported",
+    "note": "Verbatim: \"We report the detection of four large optical bursts from the transient X-ray burster XTE J2123-058\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_2009-2017_030": {
+   "strict": {
+    "id": "clai_2009-2017_030",
+    "verdict": "supported",
+    "note": "Abstract: pulse profile \"is consistent with being stable on timescales of days to decades.\""
+   },
+   "reader": {
+    "id": "clai_2009-2017_030",
+    "verdict": "supported",
+    "note": "Abstract: pulse profile \"is consistent with being stable on timescales of days to decades\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_2009-2017_031": {
+   "strict": {
+    "id": "clai_2009-2017_031",
+    "verdict": "supported",
+    "note": "Abstract: \"the observed bolometric flux exceeded the Eddington value in 3 per cent of the spectra.\""
+   },
+   "reader": {
+    "id": "clai_2009-2017_031",
+    "verdict": "supported",
+    "note": "Verbatim: \"the observed bolometric flux exceeded the Eddington value in 3 per cent of the spectra\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_2009-2017_032": {
+   "strict": {
+    "id": "clai_2009-2017_032",
+    "verdict": "supported",
+    "note": "Abstract: \"combined short gamma-ray burst and gravitational wave observations not only improve progenitor distance and inclination angle estimates\" \u2014 the single-messenger baseline is the plain reading of \"combined... improve\"."
+   },
+   "reader": {
+    "id": "clai_2009-2017_032",
+    "verdict": "supported",
+    "note": "Abstract: \"combined short gamma-ray burst and gravitational wave observations not only improve progenitor distance and inclination angle estimates\" \u2014 the single-messenger comparison is the plain reading of 'combined ... improve'."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_2009-2017_033": {
+   "strict": {
+    "id": "clai_2009-2017_033",
+    "verdict": "supported",
+    "note": "Abstract opens verbatim: \"Black holes generate collimated, relativistic jets.\""
+   },
+   "reader": {
+    "id": "clai_2009-2017_033",
+    "verdict": "supported",
+    "note": "Verbatim opening sentence: \"Black holes generate collimated, relativistic jets\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_2009-2017_034": {
+   "strict": {
+    "id": "clai_2009-2017_034",
+    "verdict": "supported",
+    "note": "Abstract: the preferred forward-shock model \"supposes a wind external medium and a microphysics parameter e_e that first varies as n^-xi\" to yield plateaus following the observed correlations, studied as an alternative to the energy-injection scenario that \"leads to an efficiency crisis\"."
+   },
+   "reader": {
+    "id": "clai_2009-2017_034",
+    "verdict": "supported",
+    "note": "Abstract: the preferred forward-shock model \"supposes a wind external medium and a microphysics parameter e_e that first varies as n^-xi\" to reproduce the observed plateau correlations, proposed as an alternative to the energy-injection efficiency crisis."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_2018-2026_035": {
+   "strict": {
+    "id": "clai_2018-2026_035",
+    "verdict": "supported",
+    "note": "Abstract: \"chaotic debris streams from the multiple stripping episodes can collide with a period roughly the same as the orbital period of the star.\""
+   },
+   "reader": {
+    "id": "clai_2018-2026_035",
+    "verdict": "supported",
+    "note": "Verbatim: \"chaotic debris streams from the multiple stripping episodes can collide with a period roughly the same as the orbital period of the star\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_2018-2026_036": {
+   "strict": {
+    "id": "clai_2018-2026_036",
+    "verdict": "supported",
+    "note": "Abstract: such systems \"are not expected to produce bright gamma-ray emission, but should appear as X-ray, optical, and radio transients that resemble a delayed GRB afterglow signal.\""
+   },
+   "reader": {
+    "id": "clai_2018-2026_036",
+    "verdict": "supported",
+    "note": "Abstract: such systems \"are not expected to produce bright gamma-ray emission, but should appear as X-ray, optical, and radio transients that resemble a delayed GRB afterglow signal\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_2018-2026_037": {
+   "strict": {
+    "id": "clai_2018-2026_037",
+    "verdict": "supported",
+    "note": "Abstract: \"we present the result for the Crab pulsar and find the well-known ~33 Hz pulsations whenever our instrument pointed to the Crab.\""
+   },
+   "reader": {
+    "id": "clai_2018-2026_037",
+    "verdict": "supported",
+    "note": "Abstract: \"we present the result for the Crab pulsar and find the well-known ~33 Hz pulsations whenever our instrument pointed to the Crab\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_2018-2026_038": {
+   "strict": {
+    "id": "clai_2018-2026_038",
+    "verdict": "supported",
+    "note": "Abstract: \"the time-integrated spectrum from the expanding fireball deviates significantly from the instantaneous emission and is capable of explaining the observed broad spectral width of GRBs.\""
+   },
+   "reader": {
+    "id": "clai_2018-2026_038",
+    "verdict": "supported",
+    "note": "Near-verbatim: \"the time-integrated spectrum from the expanding fireball deviates significantly from the instantaneous emission and is capable of explaining the observed broad spectral width of GRBs\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "clai_2018-2026_039": {
+   "strict": {
+    "id": "clai_2018-2026_039",
+    "verdict": "supported",
+    "note": "Abstract: \"our AKARI-FIS-based new intrinsic hydrogen column densities are usually higher or similar compared to the values calculated based, e.g., on the low-resolution Leiden/Argentine/Bonn survey data.\""
+   },
+   "reader": {
+    "id": "clai_2018-2026_039",
+    "verdict": "supported",
+    "note": "Verbatim: \"our AKARI-FIS-based new intrinsic hydrogen column densities are usually higher or similar compared to the values calculated based ... on the low-resolution Leiden/Argentine/Bonn survey data\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_pre-1997_040": {
+   "strict": {
+    "id": "meth_pre-1997_040",
+    "verdict": "supported",
+    "note": "Abstract: EGRET \"has ... observed the entire sky\" and detected sources including \"gamma ray bursts\" \u2014 the method is exactly EGRET high-energy gamma-ray observation."
+   },
+   "reader": {
+    "id": "meth_pre-1997_040",
+    "verdict": "supported",
+    "note": "Abstract describes EGRET observations: \"The Energetic Gamma Ray Experiment Telescope (EGRET)... has observed the entire sky... and has detected... gamma ray bursts.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_pre-1997_041": {
+   "strict": {
+    "id": "meth_pre-1997_041",
+    "verdict": "drifted",
+    "note": "Abstract states \"a conceptual design ... based on lobster-eye wide-field telescopes\" and \"Detailed simulations\", but \"ray-tracing\" is an added specification never stated."
+   },
+   "reader": {
+    "id": "meth_pre-1997_041",
+    "verdict": "supported",
+    "note": "\"We set forth a conceptual design... based on lobster-eye wide-field telescopes\" and \"Detailed simulations show that cross-talk from the cruciform lobster images...\" \u2014 ray-tracing is the standard reading of such optics simulations."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "adjudicated",
+    "note": "The abstract states a 'conceptual design... based on lobster-eye wide-field telescopes' and 'detailed simulations', but 'ray-tracing' is an added technique specification the text never states."
+   }
+  },
+  "meth_pre-1997_042": {
+   "strict": {
+    "id": "meth_pre-1997_042",
+    "verdict": "supported",
+    "note": "Abstract: \"We have obtained fully general relativistic equilibrium configurations of black hole-neutron torus systems\" \u2014 near-verbatim match."
+   },
+   "reader": {
+    "id": "meth_pre-1997_042",
+    "verdict": "supported",
+    "note": "Nearly verbatim: \"We have obtained fully general relativistic equilibrium configurations of black hole-neutron torus systems.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_pre-1997_043": {
+   "strict": {
+    "id": "meth_pre-1997_043",
+    "verdict": "supported",
+    "note": "Abstract: \"Modeling results reported here show that precipitating auroral electrons ... will produce bremsstrahlung X rays\" \u2014 auroral electron precipitation modeling is stated."
+   },
+   "reader": {
+    "id": "meth_pre-1997_043",
+    "verdict": "supported",
+    "note": "\"Modeling results reported here show that precipitating auroral electrons... will produce bremsstrahlung X rays\" \u2014 auroral electron precipitation modeling is the paper's method."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_pre-1997_044": {
+   "strict": {
+    "id": "meth_pre-1997_044",
+    "verdict": "supported",
+    "note": "Abstract opens: \"We report the CaII K observations of a major umbral solar flare\" \u2014 exact match."
+   },
+   "reader": {
+    "id": "meth_pre-1997_044",
+    "verdict": "supported",
+    "note": "Opens with \"We report the CaII K observations of a major umbral solar flare.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_1997-2008_045": {
+   "strict": {
+    "id": "meth_1997-2008_045",
+    "verdict": "supported",
+    "note": "Abstract: \"we generalize our atmospheric computations to include a broad range of peak photon energies and investigate the effect of burst duration\" \u2014 near-verbatim."
+   },
+   "reader": {
+    "id": "meth_1997-2008_045",
+    "verdict": "supported",
+    "note": "\"Here, we generalize our atmospheric computations to include a broad range of peak photon energies and investigate the effect of burst duration.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_1997-2008_046": {
+   "strict": {
+    "id": "meth_1997-2008_046",
+    "verdict": "supported",
+    "note": "Abstract: \"Averaged Power Density Spectra (PDSs) of two classes of long gamma-ray bursts ... are investigated\" \u2014 exact match."
+   },
+   "reader": {
+    "id": "meth_1997-2008_046",
+    "verdict": "supported",
+    "note": "\"Averaged Power Density Spectra (PDSs) of two classes of long gamma-ray bursts... are investigated.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_1997-2008_047": {
+   "strict": {
+    "id": "meth_1997-2008_047",
+    "verdict": "supported",
+    "note": "Abstract proposes using \"the Landolt Selected Areas (SAs) as convenient photometric fields to calibrate magnitudes and colors\" via interleaved \"CCD images\" \u2014 stated."
+   },
+   "reader": {
+    "id": "meth_1997-2008_047",
+    "verdict": "supported",
+    "note": "\"We propose to use the Landolt Selected Areas (SAs) as convenient photometric fields to calibrate magnitudes and colors\" interleaved with CCD images."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_1997-2008_048": {
+   "strict": {
+    "id": "meth_1997-2008_048",
+    "verdict": "supported",
+    "note": "Abstract compares GRB fluxes to instrument limits: \"peak photon number fluxes below the detection thresholds of BATSE and HETE 2, and even below the detection threshold of Swift\"."
+   },
+   "reader": {
+    "id": "meth_1997-2008_048",
+    "verdict": "supported",
+    "note": "The paper establishes detectability by comparing peak photon fluxes to \"the detection thresholds of BATSE and HETE 2, and even... Swift.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_1997-2008_049": {
+   "strict": {
+    "id": "meth_1997-2008_049",
+    "verdict": "wrong_type",
+    "note": "The abstract only states an expectation about the future \u2014 \"future experiments, e.g., the Gamma-Ray Large Area Space Telescope, are expected to have better sensitivity\" \u2014 an outlook/speculation, not a method performed in the paper."
+   },
+   "reader": {
+    "id": "meth_1997-2008_049",
+    "verdict": "supported",
+    "note": "\"future experiments, e.g., the Gamma-Ray Large Area Space Telescope, are expected to have better sensitivity\" for the yearly solar occultation of 3C 279."
+   },
+   "final": {
+    "verdict": "wrong_type",
+    "source": "adjudicated",
+    "note": "'future experiments, e.g., the Gamma-Ray Large Area Space Telescope, are expected to have better sensitivity' is a forward-looking outlook, not a method performed in the paper."
+   }
+  },
+  "meth_2009-2017_050": {
+   "strict": {
+    "id": "meth_2009-2017_050",
+    "verdict": "drifted",
+    "note": "Abstract says \"We compare the observed spatial offsets ... with their predicted distributions, assuming that they originate in double neutron star binaries that form from field stars\"; \"population synthesis\" is an added method specification not stated."
+   },
+   "reader": {
+    "id": "meth_2009-2017_050",
+    "verdict": "supported",
+    "note": "\"We compare the observed spatial offsets of short gamma-ray bursts... with their predicted distributions, assuming that they originate in double neutron star binaries that form from field stars\" \u2014 standard-terminology paraphrase as DNS population synthesis."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "adjudicated",
+    "note": "The comparison of observed offsets 'with their predicted distributions, assuming that they originate in double neutron star binaries that form from field stars' is stated, but 'population synthesis' is an added technique label the abstract never uses."
+   }
+  },
+  "meth_2009-2017_051": {
+   "strict": {
+    "id": "meth_2009-2017_051",
+    "verdict": "supported",
+    "note": "Abstract: \"we classify the early X-ray emission of SGRBs into two types\", distinguished by their light-curve decay behavior \u2014 stated."
+   },
+   "reader": {
+    "id": "meth_2009-2017_051",
+    "verdict": "supported",
+    "note": "\"we classify the early X-ray emission of SGRBs into two types\" from time-resolved analyses of Swift-XRT light curves/spectra."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_2009-2017_052": {
+   "strict": {
+    "id": "meth_2009-2017_052",
+    "verdict": "supported",
+    "note": "Abstract: \"by using cosmological N-body/hydrodynamical simulations\" \u2014 verbatim."
+   },
+   "reader": {
+    "id": "meth_2009-2017_052",
+    "verdict": "supported",
+    "note": "Verbatim: \"by using cosmological N-body/hydrodynamical simulations.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_2009-2017_053": {
+   "strict": {
+    "id": "meth_2009-2017_053",
+    "verdict": "supported",
+    "note": "Abstract: the data \"allows a spectral variability study of our sample through the hardness ratio\" \u2014 exact match."
+   },
+   "reader": {
+    "id": "meth_2009-2017_053",
+    "verdict": "supported",
+    "note": "\"The good time resolution provided by the PICsIT data allows a spectral variability study of our sample through the hardness ratio.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_2009-2017_054": {
+   "strict": {
+    "id": "meth_2009-2017_054",
+    "verdict": "supported",
+    "note": "Abstract invokes \"photo-hadronic interactions\" and derives neutrino non-detection constraints \"in the specific scenarios of an internal shock (IS) model, a baryonic photospheric (BPH) model, and a magnetic photospheric (MPH) model\"."
+   },
+   "reader": {
+    "id": "meth_2009-2017_054",
+    "verdict": "supported",
+    "note": "Photo-hadronic interactions are invoked and neutrino constraints are computed \"in the specific scenarios of an internal shock (IS) model, a baryonic photospheric (BPH) model, and a magnetic photospheric (MPH) model.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_2018-2026_055": {
+   "strict": {
+    "id": "meth_2018-2026_055",
+    "verdict": "supported",
+    "note": "Abstract: \"in the frame of the beyond-mean-field complex Excited Vampir variational model\" \u2014 verbatim."
+   },
+   "reader": {
+    "id": "meth_2018-2026_055",
+    "verdict": "supported",
+    "note": "\"explored in the frame of the beyond-mean-field complex Excited Vampir variational model.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_2018-2026_056": {
+   "strict": {
+    "id": "meth_2018-2026_056",
+    "verdict": "supported",
+    "note": "Abstract uses \"the time lag between gravitational waves and gamma rays\" and the \"nearly coincident detection of the GW and EM signals\" to limit anomalous time delay \u2014 a GW/EM arrival-time-difference analysis is stated."
+   },
+   "reader": {
+    "id": "meth_2018-2026_056",
+    "verdict": "supported",
+    "note": "The GW-EM arrival-time difference (\"short gamma-ray burst within \u0394t \u223c2 s after the GW arrival\") is used to test GW speed and Shapiro delay."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_2018-2026_057": {
+   "strict": {
+    "id": "meth_2018-2026_057",
+    "verdict": "supported",
+    "note": "Abstract constrains \"allowed kilonova properties\", rules out \"any kilonova brighter than AT2017gfo\", and bounds wind-ejecta masses \u2014 comparison of limits/counterpart against kilonova emission models is stated."
+   },
+   "reader": {
+    "id": "meth_2018-2026_057",
+    "verdict": "supported",
+    "note": "Kilonova constraints derive from comparing counterpart limits to model light curves: \"we rule out any kilonova brighter than AT2017gfo\" and infer wind-ejecta mass ranges."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "meth_2018-2026_058": {
+   "strict": {
+    "id": "meth_2018-2026_058",
+    "verdict": "drifted",
+    "note": "Abstract says \"We perform three-dimensional simulations of mixing and fallback\" but never characterizes them as \"hydrodynamic\" \u2014 an added specifier."
+   },
+   "reader": {
+    "id": "meth_2018-2026_058",
+    "verdict": "supported",
+    "note": "\"We perform three-dimensional simulations of mixing and fallback for selected non-rotating supernova models.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "adjudicated",
+    "note": "'We perform three-dimensional simulations of mixing and fallback' \u2014 mixing and fallback are fluid processes, so 'hydrodynamic' is entailed rewording that misleads no reader."
+   }
+  },
+  "meth_2018-2026_059": {
+   "strict": {
+    "id": "meth_2018-2026_059",
+    "verdict": "supported",
+    "note": "Abstract: \"Based on the measured burst fluence and the average recurrence time ... we deduce that the source is accreting almost pure helium (X \u2264 0.1) fuel\" \u2014 fuel composition inference is stated."
+   },
+   "reader": {
+    "id": "meth_2018-2026_059",
+    "verdict": "supported",
+    "note": "\"Based on the measured burst fluence and the average recurrence time... we deduce that the source is accreting almost pure helium (X \u2264 0.1) fuel.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "open_pre-1997_060": {
+   "strict": {
+    "id": "open_pre-1997_060",
+    "verdict": "unsupported",
+    "note": "Abstract discusses GRB lensing to measure Omega_compact but contains nothing about FRBs or complementing FRB lensing searches."
+   },
+   "reader": {
+    "id": "open_pre-1997_060",
+    "verdict": "unsupported",
+    "note": "The 1992 abstract discusses GRB lensing constraints on Omega_compact but never mentions FRBs or complementing FRB lensing searches."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "open_pre-1997_061": {
+   "strict": {
+    "id": "open_pre-1997_061",
+    "verdict": "drifted",
+    "note": "Abstract discusses pair production attenuation and required beaming as a calculation, not 'pair cascades' nor any open question about their role in the spectrum."
+   },
+   "reader": {
+    "id": "open_pre-1997_061",
+    "verdict": "unsupported",
+    "note": "The abstract computes beaming needed for MeV photons to escape pair-production attenuation but poses no question about pair cascades shaping the emergent spectrum."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "adjudicated",
+    "note": "The abstract calculates 'the amount of beaming required to allow high-energy photons to escape' pair-production attenuation; it mentions no pair cascades and poses no open question about shaping the emergent spectrum."
+   }
+  },
+  "open_pre-1997_062": {
+   "strict": {
+    "id": "open_pre-1997_062",
+    "verdict": "wrong_type",
+    "note": "Measuring soft X-ray spectra to determine burst distances is stated as the mission's objective/method, not posed as an open question about reliability."
+   },
+   "reader": {
+    "id": "open_pre-1997_062",
+    "verdict": "wrong_type",
+    "note": "Soft X-ray spectral measurement to 'determine burst distances' appears as the mission's stated objective/method, not as an open question about reliability."
+   },
+   "final": {
+    "verdict": "wrong_type",
+    "source": "agreement"
+   }
+  },
+  "open_pre-1997_063": {
+   "strict": {
+    "id": "open_pre-1997_063",
+    "verdict": "supported",
+    "note": "Abstract states 'the question on the association of GRS 1915+105 with the SGRs must remain open' for the 1992 BATSE SGRs."
+   },
+   "reader": {
+    "id": "open_pre-1997_063",
+    "verdict": "supported",
+    "note": "The abstract explicitly says 'the question on the association of GRS 1915+105 with the SGRs must remain open' for the 1992 BATSE SGRs."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "open_pre-1997_064": {
+   "strict": {
+    "id": "open_pre-1997_064",
+    "verdict": "drifted",
+    "note": "Abstract says 'Further observations are required to confirm the result' but at energies >=110 TeV, not the item's '>10 TeV' threshold."
+   },
+   "reader": {
+    "id": "open_pre-1997_064",
+    "verdict": "supported",
+    "note": "'Further observations are required to confirm the result' \u2014 the ~110 TeV excess at 2% chance probability leaves Cen A's VHE emission unconfirmed."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "adjudicated",
+    "note": "The open confirmation question is real ('Further observations are required to confirm the result'), but the abstract's excess is at energies >=110 TeV, and recasting it as '>10 TeV' widens the energy scope by an order of magnitude."
+   }
+  },
+  "open_1997-2008_065": {
+   "strict": {
+    "id": "open_1997-2008_065",
+    "verdict": "unsupported",
+    "note": "Abstract reports the >10^51 erg threshold as a finding; it never asks what determines that threshold."
+   },
+   "reader": {
+    "id": "open_1997-2008_065",
+    "verdict": "unsupported",
+    "note": "The abstract reports the >10^51 erg threshold as a finding but never asks what physically determines that jet energy threshold."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "open_1997-2008_066": {
+   "strict": {
+    "id": "open_1997-2008_066",
+    "verdict": "wrong_type",
+    "note": "The failure of the standard jet scenario is a stated result, and the abstract itself supplies the answer (dense medium, two breaks), so no open question is posed."
+   },
+   "reader": {
+    "id": "open_1997-2008_066",
+    "verdict": "wrong_type",
+    "note": "The failure of the standard jet scenario is stated as a result and the abstract supplies an answer (mildly collimated fireball in dense medium), not an open question."
+   },
+   "final": {
+    "verdict": "wrong_type",
+    "source": "agreement"
+   }
+  },
+  "open_1997-2008_067": {
+   "strict": {
+    "id": "open_1997-2008_067",
+    "verdict": "unsupported",
+    "note": "The merging-time distribution is used as a population-synthesis input; no question about its 'true distribution' appears in the abstract."
+   },
+   "reader": {
+    "id": "open_1997-2008_067",
+    "verdict": "unsupported",
+    "note": "The abstract adopts merging-time distributions from population synthesis; it never poses the true merger-timescale distribution as an open question."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "open_1997-2008_069": {
+   "strict": {
+    "id": "open_1997-2008_069",
+    "verdict": "unsupported",
+    "note": "Abstract presents steady-state reprocessing models; time-dependent models are never mentioned or questioned."
+   },
+   "reader": {
+    "id": "open_1997-2008_069",
+    "verdict": "unsupported",
+    "note": "The abstract describes steady-state reprocessing models only and never raises time-dependent reprocessing models as a question."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "open_1997-2008_068": {
+   "strict": {
+    "id": "open_1997-2008_068",
+    "verdict": "drifted",
+    "note": "Abstract hedges the counterpart ('is thought to be... If so') but says nothing about spectroscopic identification."
+   },
+   "reader": {
+    "id": "open_1997-2008_068",
+    "verdict": "supported",
+    "note": "'is thought to be the quiescent counterpart... If so' \u2014 the hedged conditional marks confirmation of the counterpart as unresolved."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "adjudicated",
+    "note": "The hedged 'is thought to be the quiescent counterpart... If so' does leave confirmation open, but 'spectroscopic identification' appears nowhere in the abstract and adds a specific observational program the text never mentions."
+   }
+  },
+  "open_2009-2017_070": {
+   "strict": {
+    "id": "open_2009-2017_070",
+    "verdict": "unsupported",
+    "note": "Abstract never mentions short GRBs; the sample and discussion concern Swift GRBs with plateaus generally."
+   },
+   "reader": {
+    "id": "open_2009-2017_070",
+    "verdict": "unsupported",
+    "note": "The plateau luminosity-duration abstract never mentions short GRBs or whether the anticorrelation extends to them."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "open_2009-2017_071": {
+   "strict": {
+    "id": "open_2009-2017_071",
+    "verdict": "unsupported",
+    "note": "Host is characterized as underluminous and irregular with mass and redshift; metallicity is never mentioned."
+   },
+   "reader": {
+    "id": "open_2009-2017_071",
+    "verdict": "unsupported",
+    "note": "The host is characterized as an underluminous irregular galaxy of ~5e9 Msun; metallicity and its consistency with progenitor scenarios are never mentioned."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "open_2009-2017_072": {
+   "strict": {
+    "id": "open_2009-2017_072",
+    "verdict": "supported",
+    "note": "Abstract states 'Such large proton luminosities are a challenge for the hadronic models', i.e. whether they are achievable is left open."
+   },
+   "reader": {
+    "id": "open_2009-2017_072",
+    "verdict": "supported",
+    "note": "'Such large proton luminosities are a challenge for the hadronic models' \u2014 the abstract leaves achievability of >1e55 erg/s open."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "open_2009-2017_073": {
+   "strict": {
+    "id": "open_2009-2017_073",
+    "verdict": "unsupported",
+    "note": "Abstract varies perturbation rest-mass density and Mach number; 'variable perturbation rates' and their evolution are not discussed."
+   },
+   "reader": {
+    "id": "open_2009-2017_073",
+    "verdict": "unsupported",
+    "note": "The abstract varies perturbation density and Mach number but never poses instability evolution under variable perturbation rates as a question."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "open_2009-2017_074": {
+   "strict": {
+    "id": "open_2009-2017_074",
+    "verdict": "wrong_type",
+    "note": "SKA extracting 'a large fraction of the absorption information' is a stated prediction/estimate, not an open question, and 'individual filament signatures' adds specificity."
+   },
+   "reader": {
+    "id": "open_2009-2017_074",
+    "verdict": "wrong_type",
+    "note": "'the SKA would extract a large fraction of the absorption information' is stated as a predictive result of the simulation, not as an open question about SKA detection."
+   },
+   "final": {
+    "verdict": "wrong_type",
+    "source": "agreement"
+   }
+  },
+  "open_2018-2026_075": {
+   "strict": {
+    "id": "open_2018-2026_075",
+    "verdict": "supported",
+    "note": "Abstract frames 'whether the process for non-thermal prompt emission is magnetic reconnection or internal shocks' as the question and concludes it remains either, depending on initial radius."
+   },
+   "reader": {
+    "id": "open_2018-2026_075",
+    "verdict": "supported",
+    "note": "The abstract poses whether prompt emission is magnetic reconnection or internal shocks as 'an important question' and ends with both still allowed depending on initial radius."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "open_2018-2026_076": {
+   "strict": {
+    "id": "open_2018-2026_076",
+    "verdict": "unsupported",
+    "note": "Abstract reports a metallicity preference consistent with models but never asks what physical mechanism connects metallicity to jet formation."
+   },
+   "reader": {
+    "id": "open_2018-2026_076",
+    "verdict": "unsupported",
+    "note": "The abstract reports a metallicity preference (12+log(O/H)<8.6) but never asks what physical mechanism links metallicity to jet formation, nor mentions angular momentum transport, winds, or binaries."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "open_2018-2026_077": {
+   "strict": {
+    "id": "open_2018-2026_077",
+    "verdict": "drifted",
+    "note": "Abstract's hedge that EM observations 'may strengthen the case for an astrophysical origin' is reframed as a quantitative 'how much boost' question."
+   },
+   "reader": {
+    "id": "open_2018-2026_077",
+    "verdict": "supported",
+    "note": "'in the case of weaker candidates, [EM observations] may strengthen the case for an astrophysical origin' \u2014 the extent of that strengthening is the unresolved motivation of the search."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "adjudicated",
+    "note": "The abstract's qualitative hedge that EM observations 'may strengthen the case for an astrophysical origin' is reframed as a quantitative 'how much can... boost GW candidate significance' question the abstract never poses."
+   }
+  },
+  "open_2018-2026_078": {
+   "strict": {
+    "id": "open_2018-2026_078",
+    "verdict": "unsupported",
+    "note": "Abstract reports CNN classification accuracy >90% but says nothing about which spectral features the CNN uses."
+   },
+   "reader": {
+    "id": "open_2018-2026_078",
+    "verdict": "unsupported",
+    "note": "The abstract reports >90% CNN classification accuracy but says nothing about which spectral features the network uses."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "open_2018-2026_079": {
+   "strict": {
+    "id": "open_2018-2026_079",
+    "verdict": "unsupported",
+    "note": "Abstract concludes the single-parameter explanation from the studied AGNs; it never raises extension to a larger CL AGN sample as a question."
+   },
+   "reader": {
+    "id": "open_2018-2026_079",
+    "verdict": "unsupported",
+    "note": "The abstract concludes a single variable parameter can explain the behavior but never raises testing this on a larger CL AGN sample."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "resu_pre-1997_080": {
+   "strict": {
+    "id": "resu_pre-1997_080",
+    "verdict": "supported",
+    "note": "Abstract states \"short durations (~15 s)\" for the bursts."
+   },
+   "reader": {
+    "id": "resu_pre-1997_080",
+    "verdict": "supported",
+    "note": "Abstract states the bursts have \"short durations (~15 s)\"."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_pre-1997_081": {
+   "strict": {
+    "id": "resu_pre-1997_081",
+    "verdict": "supported",
+    "note": "\"Radio observations of GRS 1124-68 began on January 17... the flux density was ~150 mJy at 4.7 GHz and already decreasing.\""
+   },
+   "reader": {
+    "id": "resu_pre-1997_081",
+    "verdict": "supported",
+    "note": "\"Radio observations of GRS 1124-68 began on January 17... the flux density was ~150 mJy at 4.7 GHz and already decreasing.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_pre-1997_082": {
+   "strict": {
+    "id": "resu_pre-1997_082",
+    "verdict": "supported",
+    "note": "\"Cosmological models provide a good fit over a range of parameter space that is physically reasonable\" for BATSE and PVO peak-flux distributions."
+   },
+   "reader": {
+    "id": "resu_pre-1997_082",
+    "verdict": "supported",
+    "note": "\"Cosmological models provide a good fit over a range of parameter space that is physically reasonable\" for the BATSE and PVO peak-flux distributions."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_pre-1997_083": {
+   "strict": {
+    "id": "resu_pre-1997_083",
+    "verdict": "supported",
+    "note": "\"For GB870303 and GB880205... determinations are made of the magnetic field, plasma temperature, column density, angle between the magnetic field and the line of sight.\""
+   },
+   "reader": {
+    "id": "resu_pre-1997_083",
+    "verdict": "supported",
+    "note": "\"For GB870303 and GB880205 bursts... determinations are made of the magnetic field, plasma temperature, column density, angle between the magnetic field and the line of sight.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_pre-1997_084": {
+   "strict": {
+    "id": "resu_pre-1997_084",
+    "verdict": "supported",
+    "note": "Near-verbatim: \"The X-ray activity appeared a few hundred days after the onset of the optical outburst.\""
+   },
+   "reader": {
+    "id": "resu_pre-1997_084",
+    "verdict": "supported",
+    "note": "Verbatim: \"The X-ray activity appeared a few hundred days after the onset of the optical outburst.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_1997-2008_085": {
+   "strict": {
+    "id": "resu_1997-2008_085",
+    "verdict": "supported",
+    "note": "\"The precision of the star's photometry, conducted on the microphotometre and after the input of photonegativ into computer, was compared.\""
+   },
+   "reader": {
+    "id": "resu_1997-2008_085",
+    "verdict": "supported",
+    "note": "\"The precision of the star's photometry, conducted on the microphotometre and after the input of photonegativ into computer, was compared\" \u2014 the DTVS-vs-microdensitometer comparison."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_1997-2008_086": {
+   "strict": {
+    "id": "resu_1997-2008_086",
+    "verdict": "supported",
+    "note": "Verbatim: \"it makes reasonable predictions about the gross properties of the fallback.\""
+   },
+   "reader": {
+    "id": "resu_1997-2008_086",
+    "verdict": "supported",
+    "note": "Verbatim: \"it makes reasonable predictions about the gross properties of the fallback.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_1997-2008_087": {
+   "strict": {
+    "id": "resu_1997-2008_087",
+    "verdict": "supported",
+    "note": "\"This model naturally explains... the hard-to-soft spectral evolution patterns.\""
+   },
+   "reader": {
+    "id": "resu_1997-2008_087",
+    "verdict": "supported",
+    "note": "\"This model naturally explains... the hard-to-soft spectral evolution patterns.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_1997-2008_088": {
+   "strict": {
+    "id": "resu_1997-2008_088",
+    "verdict": "supported",
+    "note": "\"We use the limits on gamma-ray line emission... obtained with the SPI spectrometer on the INTEGRAL satellite to set new constraints\" on sterile neutrino mass/mixing."
+   },
+   "reader": {
+    "id": "resu_1997-2008_088",
+    "verdict": "supported",
+    "note": "Abstract uses \"limits on gamma-ray line emission... obtained with the SPI spectrometer on the INTEGRAL satellite to set new constraints\" that strongly restrict sterile neutrino dark matter."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_1997-2008_089": {
+   "strict": {
+    "id": "resu_1997-2008_089",
+    "verdict": "supported",
+    "note": "\"The correlation between pulse width and time is consistent with the effects of internal shocks at ever-increasing collision radii, but could also arise from delayed activity by the central source.\""
+   },
+   "reader": {
+    "id": "resu_1997-2008_089",
+    "verdict": "supported",
+    "note": "\"The correlation between pulse width and time is consistent with the effects of internal shocks at ever-increasing collision radii, but could also arise from delayed activity by the central source.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_2009-2017_090": {
+   "strict": {
+    "id": "resu_2009-2017_090",
+    "verdict": "supported",
+    "note": "\"Five sources are detected in the immediate vicinity of the most precise X-ray localisation\" (Chandra error circle) and \"For 4 of them, we do not detect variability.\""
+   },
+   "reader": {
+    "id": "resu_2009-2017_090",
+    "verdict": "supported",
+    "note": "\"Five sources are detected in the immediate vicinity of the most precise X-ray localisation... For 4 of them, we do not detect variability.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_2009-2017_091": {
+   "strict": {
+    "id": "resu_2009-2017_091",
+    "verdict": "supported",
+    "note": "\"the detections of >~10 GeV photons in this burst\" (GRB 080916C)."
+   },
+   "reader": {
+    "id": "resu_2009-2017_091",
+    "verdict": "supported",
+    "note": "Abstract cites \"the detections of >~10 GeV photons in this burst\" (GRB 080916C)."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_2009-2017_092": {
+   "strict": {
+    "id": "resu_2009-2017_092",
+    "verdict": "supported",
+    "note": "Verbatim: \"iron nuclei can reach similar energies in AGN jets of more moderate luminosity.\""
+   },
+   "reader": {
+    "id": "resu_2009-2017_092",
+    "verdict": "supported",
+    "note": "Verbatim: \"iron nuclei can reach similar energies in AGN jets of more moderate luminosity.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_2009-2017_093": {
+   "strict": {
+    "id": "resu_2009-2017_093",
+    "verdict": "drifted",
+    "note": "Abstract restricts the finding to the envelope's outer part when it \"rotates uniformly almost at the mass shedding limit\"; the extraction widens this to the whole envelope of generic \"rapidly rotating progenitors.\""
+   },
+   "reader": {
+    "id": "resu_2009-2017_093",
+    "verdict": "supported",
+    "note": "\"if the envelope rotates uniformly almost at the mass shedding limit, its outer part eventually stops contracting when the centrifugal force becomes large enough.\""
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "adjudicated",
+    "note": "The abstract restricts the effect to 'its outer part' of an envelope rotating 'uniformly almost at the mass shedding limit'; the extraction widens it to whole-envelope contraction in generic 'rapidly rotating progenitors'."
+   }
+  },
+  "resu_2009-2017_094": {
+   "strict": {
+    "id": "resu_2009-2017_094",
+    "verdict": "supported",
+    "note": "\"The remaining 12 per cent that are not jet breaks\" matches the terse extraction exactly."
+   },
+   "reader": {
+    "id": "resu_2009-2017_094",
+    "verdict": "supported",
+    "note": "Terse but exact: \"The remaining 12 per cent that are not jet breaks.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_2018-2026_095": {
+   "strict": {
+    "id": "resu_2018-2026_095",
+    "verdict": "unsupported",
+    "note": "The review abstract notes an increased number of LAT detections but never states a fraction of bright GRBs, an onset delay, or extended duration."
+   },
+   "reader": {
+    "id": "resu_2018-2026_095",
+    "verdict": "unsupported",
+    "note": "Abstract only says the number of GRBs detected at 0.1-100 GeV \"has seen a rapid increase\"; it never states a significant fraction of bright LAT GRBs, an onset delay, or extended duration."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "resu_2018-2026_096": {
+   "strict": {
+    "id": "resu_2018-2026_096",
+    "verdict": "supported",
+    "note": "Abstract identifies \"a hot (T \u2248 10-15 MK) bright rim around a quickly expanding cavity,\" though the extracted fragment carries no value itself."
+   },
+   "reader": {
+    "id": "resu_2018-2026_096",
+    "verdict": "supported",
+    "note": "Abstract reports \"a hot (T \u2248 10-15 MK) bright rim around a quickly expanding cavity,\" i.e., the hot cavity rim temperature (item text is fragmentary but matches this measurement)."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_2018-2026_097": {
+   "strict": {
+    "id": "resu_2018-2026_097",
+    "verdict": "supported",
+    "note": "\"we detect two intervening systems at z = 1.581 and z = 1.444.\""
+   },
+   "reader": {
+    "id": "resu_2018-2026_097",
+    "verdict": "supported",
+    "note": "\"we detect two intervening systems at z = 1.581 and z = 1.444.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_2018-2026_098": {
+   "strict": {
+    "id": "resu_2018-2026_098",
+    "verdict": "supported",
+    "note": "\"exhibits an unusually steep rise ~100 s after the initial trigger.\""
+   },
+   "reader": {
+    "id": "resu_2018-2026_098",
+    "verdict": "supported",
+    "note": "\"The light curve of the optical emission exhibits an unusually steep rise ~100 s after the initial trigger.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "resu_2018-2026_099": {
+   "strict": {
+    "id": "resu_2018-2026_099",
+    "verdict": "unsupported",
+    "note": "The abstract discusses Shapiro-delay-based falsification of TeVeS/MOND extensions but never states a speed equality or the ~10^-15 figure."
+   },
+   "reader": {
+    "id": "resu_2018-2026_099",
+    "verdict": "drifted",
+    "note": "Abstract says only \"near-simultaneous\" GW/GRB arrival constraining Shapiro delays; the quantitative speed-equality figure of ~10^-15 appears nowhere and strengthens the stated result."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "adjudicated",
+    "note": "The abstract argues Shapiro-delay-based falsification of TeVeS from 'near-simultaneous' GW/GRB arrival but never states a GW/EM speed equality or the ~10^-15 figure \u2014 that number comes from outside the abstract entirely."
+   }
+  },
+  "spec_pre-1997_100": {
+   "strict": {
+    "id": "spec_pre-1997_100",
+    "verdict": "unsupported",
+    "note": "Abstract says only 'All proposed models for their origin must be considered speculative' and never mentions neutron stars, black holes, or exotic objects."
+   },
+   "reader": {
+    "id": "spec_pre-1997_100",
+    "verdict": "drifted",
+    "note": "Abstract says only \"All proposed models for their origin must be considered speculative\" \u2014 it never enumerates neutron stars, black holes, or exotic objects, and \"speculative\" is recast as \"all viable candidates\"."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "adjudicated",
+    "note": "The abstract says only 'All proposed models for their origin must be considered speculative' \u2014 the enumeration of neutron stars, black holes, and exotic objects is absent, and 'speculative' is inverted into 'all viable candidates'."
+   }
+  },
+  "spec_pre-1997_101": {
+   "strict": {
+    "id": "spec_pre-1997_101",
+    "verdict": "supported",
+    "note": "'The fact that type II bursts occur in both systems may bring us closer to an understanding of the mechanism(s?)' with the two field strengths contrasted earlier in the abstract."
+   },
+   "reader": {
+    "id": "spec_pre-1997_101",
+    "verdict": "supported",
+    "note": "\"The fact that type II bursts occur in both systems may bring us closer to an understanding of the mechanism(s?)\", with the two systems' differing magnetic field strengths laid out in the abstract."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "spec_pre-1997_102": {
+   "strict": {
+    "id": "spec_pre-1997_102",
+    "verdict": "unsupported",
+    "note": "The abstract reports cyclotron line detections and never discusses cosmological distances or any need to reinterpret the features."
+   },
+   "reader": {
+    "id": "spec_pre-1997_102",
+    "verdict": "unsupported",
+    "note": "The abstract treats z as gravitational redshift and never discusses cosmological distances or any reinterpretation of the cyclotron features."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "spec_pre-1997_103": {
+   "strict": {
+    "id": "spec_pre-1997_103",
+    "verdict": "wrong_type",
+    "note": "'This does not rule out galactic halo models but it poses an additional severe constraint' is an asserted finding of the paper, not a speculation (and 'even if distance arguments are satisfied' is added)."
+   },
+   "reader": {
+    "id": "spec_pre-1997_103",
+    "verdict": "supported",
+    "note": "\"This does not rule out galactic halo models but it poses an additional severe constraint on all such sources.\""
+   },
+   "final": {
+    "verdict": "wrong_type",
+    "source": "adjudicated",
+    "note": "'This does not rule out galactic halo models but it poses an additional severe constraint' is an asserted conclusion of the paper's calculation, not a speculation, and 'even if distance arguments are satisfied' is added besides."
+   }
+  },
+  "spec_pre-1997_104": {
+   "strict": {
+    "id": "spec_pre-1997_104",
+    "verdict": "unsupported",
+    "note": "The abstract never mentions magnetic activity or an analogy to flares on other cool stars; it only weighs evidence that Mira flares are real."
+   },
+   "reader": {
+    "id": "spec_pre-1997_104",
+    "verdict": "unsupported",
+    "note": "The abstract never mentions magnetic activity or an analogy to flares on other cool stars \u2014 it only weighs the reality of the flare reports."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "spec_1997-2008_105": {
+   "strict": {
+    "id": "spec_1997-2008_105",
+    "verdict": "unsupported",
+    "note": "The abstract's three models are energy injection, patchy shell, and clumpy medium; no reverse shock or evolving extinction appears anywhere."
+   },
+   "reader": {
+    "id": "spec_1997-2008_105",
+    "verdict": "unsupported",
+    "note": "The abstract says \"None of the models can account for the modest color variations\" and never mentions a reverse shock component or evolving extinction."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "spec_1997-2008_106": {
+   "strict": {
+    "id": "spec_1997-2008_106",
+    "verdict": "drifted",
+    "note": "Abstract says ejecta 'may have complicated structures'; the extraction adds 'generally' and 'multi-component', strengthening and specifying beyond the stated hint."
+   },
+   "reader": {
+    "id": "spec_1997-2008_106",
+    "verdict": "supported",
+    "note": "\"It strongly hints that gamma-ray burst ejecta may have complicated structures\", via the two-component jet model."
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "adjudicated",
+    "note": "'It strongly hints that gamma-ray burst ejecta may have complicated structures' is already generic about GRB ejecta, keeps the 'may' hedge, and 'multi-component' fairly reflects the abstract's own two-component jet explanation."
+   }
+  },
+  "spec_1997-2008_107": {
+   "strict": {
+    "id": "spec_1997-2008_107",
+    "verdict": "supported",
+    "note": "Near-verbatim: 'If such a delayed emission, with the characteristics of the early afterglow, is detected, it can be used to prove the internal shock scenario as producing the GRB.'"
+   },
+   "reader": {
+    "id": "spec_1997-2008_107",
+    "verdict": "supported",
+    "note": "Near-verbatim: \"If such a delayed emission... is detected, it can be used to prove the internal shock scenario as producing the GRB.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "spec_1997-2008_108": {
+   "strict": {
+    "id": "spec_1997-2008_108",
+    "verdict": "wrong_type",
+    "note": "'We also discuss the luminosity function and the redshift dependence of the intrinsic luminosity (luminosity evolution)' is a topic statement, not a speculative proposition."
+   },
+   "reader": {
+    "id": "spec_1997-2008_108",
+    "verdict": "wrong_type",
+    "note": "The abstract does say \"We also discuss the luminosity function and the redshift dependence of the intrinsic luminosity (luminosity evolution)\", but this is a topic announcement, not a speculation."
+   },
+   "final": {
+    "verdict": "wrong_type",
+    "source": "agreement"
+   }
+  },
+  "spec_1997-2008_109": {
+   "strict": {
+    "id": "spec_1997-2008_109",
+    "verdict": "drifted",
+    "note": "Abstract says the correlation 'suggests that' the thermal component becomes more dominant at larger redshifts; the extraction drops the hedge and states it as fact."
+   },
+   "reader": {
+    "id": "spec_1997-2008_109",
+    "verdict": "supported",
+    "note": "\"The correlation between the spectral index \u03b1 and the redshift suggests that the thermal emission component becomes more dominant at larger redshifts.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "adjudicated",
+    "note": "The statement is verbatim from 'suggests that the thermal emission component becomes more dominant at larger redshifts', and filing it under speculations preserves the 'suggests' hedge structurally."
+   }
+  },
+  "spec_2009-2017_110": {
+   "strict": {
+    "id": "spec_2009-2017_110",
+    "verdict": "drifted",
+    "note": "'They predicted a*>0.5 for 80% of the SXT sources' is a cited prediction; the extraction recasts it as a future confirmation and adds 'confirming GRB/hypernova origin', which the abstract does not state."
+   },
+   "reader": {
+    "id": "spec_2009-2017_110",
+    "verdict": "drifted",
+    "note": "The abstract reports Lee et al.'s prior prediction \"a* > 0.5 for 80% of the SXT sources\"; recasting it as a forecast that future measurements \"will show\" this and thereby \"confirm\" GRB/hypernova origin strengthens and reframes it."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "agreement"
+   }
+  },
+  "spec_2009-2017_111": {
+   "strict": {
+    "id": "spec_2009-2017_111",
+    "verdict": "unsupported",
+    "note": "The abstract concludes only that 'a downward positron beam produced both the continuum and the line photons' for this one event; nothing about other thundercloud events globally."
+   },
+   "reader": {
+    "id": "spec_2009-2017_111",
+    "verdict": "unsupported",
+    "note": "The abstract concludes only that \"a downward positron beam produced both the continuum and the line photons\" for this one event; no generalization to other thundercloud events globally."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "spec_2009-2017_112": {
+   "strict": {
+    "id": "spec_2009-2017_112",
+    "verdict": "drifted",
+    "note": "Abstract hedges 'This result could constrain the population of massive white dwarfs... in binary systems'; the extraction drops 'could' and reframes it as the fraction of classical novae hosted on such WDs."
+   },
+   "reader": {
+    "id": "spec_2009-2017_112",
+    "verdict": "drifted",
+    "note": "Abstract hedges \"This result could constrain the population of massive white dwarfs\"; the extraction drops the hedge to \"constrains\" and recasts the target as the fraction of classical novae."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "agreement"
+   }
+  },
+  "spec_2009-2017_113": {
+   "strict": {
+    "id": "spec_2009-2017_113",
+    "verdict": "drifted",
+    "note": "The thick-shell definition ('still influenced by the original ejecta') is present, but the conditional and the claimed constraints on plateau-break timing, Lorentz factor, and total energy are added."
+   },
+   "reader": {
+    "id": "spec_2009-2017_113",
+    "verdict": "drifted",
+    "note": "The thick-shell definition (\"still influenced by the original ejecta\") is in the abstract, but the added implications \u2014 constraining the ejecta Lorentz factor and total energy at the plateau break \u2014 are not."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "agreement"
+   }
+  },
+  "spec_2009-2017_114": {
+   "strict": {
+    "id": "spec_2009-2017_114",
+    "verdict": "drifted",
+    "note": "Abstract says 'Ostensibly the compact synchrotron jet could... account for ~100 per cent of the X-ray flux at low luminosities in the hard state'; the extraction drops the hard-state scope qualifier."
+   },
+   "reader": {
+    "id": "spec_2009-2017_114",
+    "verdict": "supported",
+    "note": "Verbatim: \"Ostensibly the compact synchrotron jet could therefore account for ~100 per cent of the X-ray flux at low luminosities in the hard state.\""
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "adjudicated",
+    "note": "The abstract's 'Ostensibly the compact synchrotron jet could... account for ~100 per cent of the X-ray flux at low luminosities in the hard state' is scoped to the hard state, and dropping that qualifier broadens a claim the abstract itself confines (it contrasts hard-state rise vs decline)."
+   }
+  },
+  "spec_2018-2026_115": {
+   "strict": {
+    "id": "spec_2018-2026_115",
+    "verdict": "unsupported",
+    "note": "The abstract presents the nu-bhlight numerical scheme and a sample disk calculation; it says nothing about winds dominating ejecta mass or r-process yield versus dynamical ejecta."
+   },
+   "reader": {
+    "id": "spec_2018-2026_115",
+    "verdict": "unsupported",
+    "note": "The abstract presents the \u03bd bhlight numerical scheme and a sample disk calculation; it never compares neutrino-driven wind ejecta mass or r-process yield to dynamical ejecta."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "spec_2018-2026_116": {
+   "strict": {
+    "id": "spec_2018-2026_116",
+    "verdict": "drifted",
+    "note": "Abstract calls it 'one of the nearest and also most energetic GRBs observed to date' (extraction strengthens to 'the most energetic') and never mentions detector saturation correction."
+   },
+   "reader": {
+    "id": "spec_2018-2026_116",
+    "verdict": "drifted",
+    "note": "Abstract says \"one of the nearest and also most energetic GRBs observed to date\" with E_iso > 5e54 erg; \"may be the most energetic ever\" strengthens this, and detector-saturation correction is never mentioned."
+   },
+   "final": {
+    "verdict": "drifted",
+    "source": "agreement"
+   }
+  },
+  "spec_2018-2026_117": {
+   "strict": {
+    "id": "spec_2018-2026_117",
+    "verdict": "unsupported",
+    "note": "The abstract discusses jets making the macronova brighter and bluer; it contains nothing about probing jet launch time or energy in future GW+EM events."
+   },
+   "reader": {
+    "id": "spec_2018-2026_117",
+    "verdict": "unsupported",
+    "note": "The abstract says the jet-punched hole makes the macronova brighter and bluer; it never proposes the interaction as a probe of jet launch time and energy in future GW+EM events."
+   },
+   "final": {
+    "verdict": "unsupported",
+    "source": "agreement"
+   }
+  },
+  "spec_2018-2026_118": {
+   "strict": {
+    "id": "spec_2018-2026_118",
+    "verdict": "supported",
+    "note": "'Due to resonant Ly-alpha absorption from the residual neutral hydrogen inside the ionized bubble, it may be challenging to find the starting point of the damping wing for... gamma-ray bursts. However, for bright sources like quasars, it is hopeful...'"
+   },
+   "reader": {
+    "id": "spec_2018-2026_118",
+    "verdict": "supported",
+    "note": "\"Due to resonant Ly \u03b1 absorption from the residual neutral hydrogen inside the ionized bubble, it may be challenging to find the starting point of the damping wing for faint sources like... gamma-ray bursts. However, for bright sources like quasars, it is hopeful to measure the entire damping wing.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  },
+  "spec_2018-2026_119": {
+   "strict": {
+    "id": "spec_2018-2026_119",
+    "verdict": "supported",
+    "note": "Verbatim: 'These results may have important implications on the local formation rate of SGRBs and the binary neutron star merger rate.'"
+   },
+   "reader": {
+    "id": "spec_2018-2026_119",
+    "verdict": "supported",
+    "note": "Verbatim: \"These results may have important implications on the local formation rate of SGRBs and the binary neutron star merger rate.\""
+   },
+   "final": {
+    "verdict": "supported",
+    "source": "agreement"
+   }
+  }
+ }
+}

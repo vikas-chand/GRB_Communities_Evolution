@@ -1,0 +1,35 @@
+{
+ "note": "strict Guimera-Amaral R5/R6/R7 at z>=2.5 with P<0.30 / 0.30-0.75 / >=0.75; two-class split at P=0.62; full precision",
+ "displayed_stable": {
+  "R5_provincial": 42,
+  "R6_connector": 129,
+  "R7_kinless": 24,
+  "two_class_connector": 66,
+  "two_class_provincial": 129,
+  "peripheral": 7367
+ },
+ "all_stable": {
+  "R5_provincial": 43,
+  "R6_connector": 129,
+  "R7_kinless": 24,
+  "two_class_connector": 66,
+  "two_class_provincial": 130,
+  "peripheral": 7494
+ },
+ "displayed_linked": {
+  "R5_provincial": 49,
+  "R6_connector": 235,
+  "R7_kinless": 48,
+  "two_class_connector": 126,
+  "two_class_provincial": 206,
+  "peripheral": 13313
+ },
+ "all_linked": {
+  "R5_provincial": 50,
+  "R6_connector": 235,
+  "R7_kinless": 48,
+  "two_class_connector": 126,
+  "two_class_provincial": 207,
+  "peripheral": 13467
+ }
+}

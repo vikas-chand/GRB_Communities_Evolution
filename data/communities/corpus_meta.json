@@ -1,0 +1,7 @@
+{
+ "query_year_min": 1970,
+ "query_year_max": 2026,
+ "gamma": 1.0,
+ "n_core": 15650,
+ "n_cited": 126108
+}

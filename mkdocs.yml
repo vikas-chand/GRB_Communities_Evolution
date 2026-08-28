@@ -1,0 +1,16 @@
+site_name: GRB Citation Network Communities
+site_description: >
+  Full methods, data, and validation documentation for "Community Structure
+  of the Gamma-Ray Burst Citation Network".
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Data: data.md
+  - Methods: methods.md
+  - Products: products.md
+  - Reproduction: reproduction.md
+  - Validation: validation.md
+markdown_extensions:
+  - tables
+  - admonition

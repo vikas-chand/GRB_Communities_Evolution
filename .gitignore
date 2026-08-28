@@ -1,0 +1,12 @@
+data/raw/*.jsonl
+*.aux
+*.log
+*.out
+*.pyc
+__pycache__/
+.DS_Store
+paper/versions/
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
+.ipynb_checkpoints/

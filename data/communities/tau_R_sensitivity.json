@@ -1,0 +1,42 @@
+{
+ "tau": [
+  {
+   "tau": 0.4,
+   "ari_vs_canonical": 0.8981060540708211,
+   "n30": 15,
+   "converged": true,
+   "rounds": 4
+  },
+  {
+   "tau": 0.5,
+   "ari_vs_canonical": 0.9084139048835753,
+   "n30": 15,
+   "converged": true,
+   "rounds": 3
+  },
+  {
+   "tau": 0.6,
+   "ari_vs_canonical": 0.945820364090726,
+   "n30": 16,
+   "converged": true,
+   "rounds": 3
+  },
+  {
+   "tau": 0.7,
+   "ari_vs_canonical": 0.8814014164817572,
+   "n30": 20,
+   "converged": true,
+   "rounds": 3
+  }
+ ],
+ "R": [
+  {
+   "R": 60,
+   "ari_vs_R30_canonical": 0.9705173232761318,
+   "n30": 14,
+   "converged": true,
+   "rounds": 3,
+   "note": "seeds nested with canonical R=30"
+  }
+ ]
+}

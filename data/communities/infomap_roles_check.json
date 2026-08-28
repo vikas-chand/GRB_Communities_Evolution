@@ -1,0 +1,29 @@
+{
+ "note": "P and z depend on the partition; PageRank, betweenness, and null-adjusted influence do not.",
+ "spearman_P": 0.887,
+ "spearman_z": 0.859,
+ "n_papers": 13800,
+ "headline": {
+  "1993ApJ...405..273W": {
+   "label": "Woosley 1993 (collapsar)",
+   "P_canonical": 0.833,
+   "P_infomap": 0.886,
+   "z_canonical": 11.19,
+   "z_infomap": 10.89
+  },
+  "2017PhRvL.119p1101A": {
+   "label": "GW170817 GW detection",
+   "P_canonical": 0.409,
+   "P_infomap": 0.52,
+   "z_canonical": 12.46,
+   "z_infomap": 10.99
+  },
+  "1991ApJ...373..277K": {
+   "label": "Krolik & Pier 1991",
+   "P_canonical": 0.748,
+   "P_infomap": 0.801,
+   "z_canonical": 1.83,
+   "z_infomap": 1.51
+  }
+ }
+}

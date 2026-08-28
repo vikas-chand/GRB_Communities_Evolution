@@ -1,0 +1,1100 @@
+[
+ {
+  "cut": 1980,
+  "n_papers": 147,
+  "n_edges": 529,
+  "modularity": 0.3722542443744841,
+  "communities": []
+ },
+ {
+  "cut": 1990,
+  "n_papers": 660,
+  "n_edges": 4522,
+  "modularity": 0.4333483108087623,
+  "communities": [
+   {
+    "size": 132,
+    "terms": [
+     "cosmic",
+     "vela",
+     "x-ray",
+     "event",
+     "energy",
+     "spectrum",
+     "stars",
+     "events"
+    ],
+    "parent": null,
+    "jaccard": 0.0
+   },
+   {
+    "size": 128,
+    "terms": [
+     "spectra",
+     "annihilation",
+     "magnetic",
+     "cyclotron",
+     "neutron",
+     "lines",
+     "field",
+     "thermal"
+    ],
+    "parent": null,
+    "jaccard": 0.0
+   },
+   {
+    "size": 94,
+    "terms": [
+     "optical",
+     "error",
+     "flashes",
+     "plates",
+     "flash",
+     "bursters",
+     "images",
+     "reprocessing"
+    ],
+    "parent": null,
+    "jaccard": 0.0
+   },
+   {
+    "size": 76,
+    "terms": [
+     "distribution",
+     "konus",
+     "venera",
+     "galactic",
+     "n-log",
+     "events",
+     "balloon",
+     "cosmic"
+    ],
+    "parent": null,
+    "jaccard": 0.0
+   },
+   {
+    "size": 73,
+    "terms": [
+     "march",
+     "event",
+     "neutron",
+     "star",
+     "recurrent",
+     "venera",
+     "spacecraft",
+     "lines"
+    ],
+    "parent": null,
+    "jaccard": 0.0
+   },
+   {
+    "size": 64,
+    "terms": [
+     "neutron",
+     "stars",
+     "thermonuclear",
+     "star",
+     "comets",
+     "comet",
+     "surface",
+     "accretion"
+    ],
+    "parent": null,
+    "jaccard": 0.0
+   }
+  ]
+ },
+ {
+  "cut": 1997,
+  "n_papers": 1621,
+  "n_edges": 14409,
+  "modularity": 0.4687922264791968,
+  "communities": [
+   {
+    "size": 324,
+    "terms": [
+     "cosmic",
+     "neutron",
+     "x-ray",
+     "venera",
+     "event",
+     "energy",
+     "events",
+     "stars"
+    ],
+    "parent": 0,
+    "jaccard": 0.3179190751445087
+   },
+   {
+    "size": 295,
+    "terms": [
+     "batse",
+     "distribution",
+     "cosmological",
+     "halo",
+     "galactic",
+     "dilation",
+     "luminosity",
+     "experiment"
+    ],
+    "parent": 3,
+    "jaccard": 0.02203856749311295
+   },
+   {
+    "size": 255,
+    "terms": [
+     "magnetic",
+     "cyclotron",
+     "spectra",
+     "neutron",
+     "annihilation",
+     "lines",
+     "field",
+     "line"
+    ],
+    "parent": 1,
+    "jaccard": 0.3927272727272727
+   },
+   {
+    "size": 224,
+    "terms": [
+     "cosmological",
+     "neutron",
+     "energy",
+     "neutrino",
+     "fireball",
+     "radio",
+     "cosmic",
+     "star"
+    ],
+    "parent": 0,
+    "jaccard": 0.0084985835694051
+   },
+   {
+    "size": 167,
+    "terms": [
+     "optical",
+     "error",
+     "plates",
+     "boxes",
+     "plate",
+     "images",
+     "objects",
+     "flashes"
+    ],
+    "parent": 2,
+    "jaccard": 0.49142857142857144
+   },
+   {
+    "size": 127,
+    "terms": [
+     "comptel",
+     "batse",
+     "egret",
+     "spectral",
+     "energy",
+     "compton",
+     "spectra",
+     "observatory"
+    ],
+    "parent": 1,
+    "jaccard": 0.02
+   },
+   {
+    "size": 94,
+    "terms": [
+     "soft",
+     "repeaters",
+     "sgrs",
+     "neutron",
+     "repeater",
+     "march",
+     "comets",
+     "stars"
+    ],
+    "parent": 5,
+    "jaccard": 0.0821917808219178
+   },
+   {
+    "size": 50,
+    "terms": [
+     "solar",
+     "flares",
+     "flare",
+     "sigma",
+     "hard",
+     "acceleration",
+     "x-ray",
+     "ulysses"
+    ],
+    "parent": 1,
+    "jaccard": 0.005649717514124294
+   },
+   {
+    "size": 43,
+    "terms": [
+     "cygnus",
+     "hercules",
+     "showers",
+     "pulsar",
+     "pulsed",
+     "period",
+     "crab",
+     "muon"
+    ],
+    "parent": null,
+    "jaccard": 0.0
+   }
+  ]
+ },
+ {
+  "cut": 2004,
+  "n_papers": 3707,
+  "n_edges": 52331,
+  "modularity": 0.46141877937715703,
+  "communities": [
+   {
+    "size": 896,
+    "terms": [
+     "neutron",
+     "spectra",
+     "stars",
+     "x-ray",
+     "magnetic",
+     "optical",
+     "error",
+     "star"
+    ],
+    "parent": 0,
+    "jaccard": 0.34806629834254144
+   },
+   {
+    "size": 613,
+    "terms": [
+     "batse",
+     "distribution",
+     "cosmological",
+     "galactic",
+     "halo",
+     "catalog",
+     "experiment",
+     "luminosity"
+    ],
+    "parent": 1,
+    "jaccard": 0.42992125984251967
+   },
+   {
+    "size": 562,
+    "terms": [
+     "afterglow",
+     "optical",
+     "afterglows",
+     "radio",
+     "light",
+     "shock",
+     "fireball",
+     "polarization"
+    ],
+    "parent": 3,
+    "jaccard": 0.04105960264900662
+   },
+   {
+    "size": 542,
+    "terms": [
+     "x-ray",
+     "supernova",
+     "afterglow",
+     "host",
+     "optical",
+     "galaxy",
+     "galaxies",
+     "line"
+    ],
+    "parent": 3,
+    "jaccard": 0.00130718954248366
+   },
+   {
+    "size": 513,
+    "terms": [
+     "black",
+     "neutron",
+     "hole",
+     "energy",
+     "star",
+     "relativistic",
+     "fireball",
+     "mass"
+    ],
+    "parent": 3,
+    "jaccard": 0.15698587127158556
+   },
+   {
+    "size": 320,
+    "terms": [
+     "energy",
+     "neutrino",
+     "cosmic",
+     "neutrinos",
+     "energies",
+     "high-energy",
+     "photons",
+     "protons"
+    ],
+    "parent": 8,
+    "jaccard": 0.134375
+   },
+   {
+    "size": 194,
+    "terms": [
+     "spectral",
+     "comptel",
+     "batse",
+     "spectra",
+     "pulses",
+     "energy",
+     "pulse",
+     "spectrum"
+    ],
+    "parent": 5,
+    "jaccard": 0.25390625
+   }
+  ]
+ },
+ {
+  "cut": 2010,
+  "n_papers": 6479,
+  "n_edges": 117281,
+  "modularity": 0.455316008944443,
+  "communities": [
+   {
+    "size": 1551,
+    "terms": [
+     "batse",
+     "neutron",
+     "distribution",
+     "galactic",
+     "stars",
+     "spectra",
+     "x-ray",
+     "cosmological"
+    ],
+    "parent": 0,
+    "jaccard": 0.5685897435897436
+   },
+   {
+    "size": 861,
+    "terms": [
+     "energy",
+     "neutrino",
+     "neutrinos",
+     "cosmic",
+     "shock",
+     "shocks",
+     "high-energy",
+     "magnetic"
+    ],
+    "parent": 5,
+    "jaccard": 0.24185068349106204
+   },
+   {
+    "size": 825,
+    "terms": [
+     "afterglow",
+     "optical",
+     "afterglows",
+     "x-ray",
+     "radio",
+     "host",
+     "galaxy",
+     "light"
+    ],
+    "parent": 2,
+    "jaccard": 0.4095528455284553
+   },
+   {
+    "size": 814,
+    "terms": [
+     "black",
+     "hole",
+     "accretion",
+     "disk",
+     "neutrino",
+     "energy",
+     "magnetic",
+     "neutron"
+    ],
+    "parent": 4,
+    "jaccard": 0.44711014176663033
+   },
+   {
+    "size": 620,
+    "terms": [
+     "host",
+     "galaxies",
+     "supernova",
+     "galaxy",
+     "stars",
+     "star",
+     "type",
+     "supernovae"
+    ],
+    "parent": 3,
+    "jaccard": 0.134765625
+   },
+   {
+    "size": 582,
+    "terms": [
+     "optical",
+     "x-ray",
+     "afterglow",
+     "swift",
+     "light",
+     "early",
+     "decay",
+     "prompt"
+    ],
+    "parent": 2,
+    "jaccard": 0.06220984215413185
+   },
+   {
+    "size": 544,
+    "terms": [
+     "peak",
+     "energy",
+     "correlation",
+     "relation",
+     "pulses",
+     "spectral",
+     "redshift",
+     "luminosity"
+    ],
+    "parent": 6,
+    "jaccard": 0.09658246656760773
+   },
+   {
+    "size": 326,
+    "terms": [
+     "short",
+     "neutron",
+     "star",
+     "galaxies",
+     "host",
+     "galaxy",
+     "binaries",
+     "binary"
+    ],
+    "parent": 1,
+    "jaccard": 0.034140969162995596
+   },
+   {
+    "size": 174,
+    "terms": [
+     "polarization",
+     "quantum",
+     "gravity",
+     "violation",
+     "lorentz",
+     "field",
+     "dispersion",
+     "magnetic"
+    ],
+    "parent": 2,
+    "jaccard": 0.05747126436781609
+   },
+   {
+    "size": 57,
+    "terms": [
+     "dark",
+     "matter",
+     "annihilation",
+     "galactic",
+     "positron",
+     "center",
+     "bulge",
+     "positrons"
+    ],
+    "parent": 5,
+    "jaccard": 0.03287671232876712
+   },
+   {
+    "size": 42,
+    "terms": [
+     "cygnus",
+     "hercules",
+     "showers",
+     "pulsar",
+     "pulsed",
+     "period",
+     "crab",
+     "flux"
+    ],
+    "parent": 5,
+    "jaccard": 0.12422360248447205
+   }
+  ]
+ },
+ {
+  "cut": 2016,
+  "n_papers": 9092,
+  "n_edges": 198101,
+  "modularity": 0.47129635322574914,
+  "communities": [
+   {
+    "size": 1812,
+    "terms": [
+     "batse",
+     "neutron",
+     "distribution",
+     "galactic",
+     "x-ray",
+     "stars",
+     "energy",
+     "spectra"
+    ],
+    "parent": 0,
+    "jaccard": 0.8307022318998367
+   },
+   {
+    "size": 1607,
+    "terms": [
+     "energy",
+     "neutrino",
+     "magnetic",
+     "shock",
+     "relativistic",
+     "neutrinos",
+     "acceleration",
+     "shocks"
+    ],
+    "parent": 1,
+    "jaccard": 0.42576545349508954
+   },
+   {
+    "size": 1160,
+    "terms": [
+     "afterglow",
+     "optical",
+     "afterglows",
+     "x-ray",
+     "radio",
+     "light",
+     "energy",
+     "fireball"
+    ],
+    "parent": 2,
+    "jaccard": 0.6217320261437909
+   },
+   {
+    "size": 940,
+    "terms": [
+     "short",
+     "neutron",
+     "black",
+     "star",
+     "hole",
+     "gravitational",
+     "accretion",
+     "merger"
+    ],
+    "parent": 7,
+    "jaccard": 0.2723618090452261
+   },
+   {
+    "size": 859,
+    "terms": [
+     "stars",
+     "supernova",
+     "supernovae",
+     "type",
+     "massive",
+     "explosion",
+     "black",
+     "star"
+    ],
+    "parent": 4,
+    "jaccard": 0.27941176470588236
+   },
+   {
+    "size": 774,
+    "terms": [
+     "x-ray",
+     "optical",
+     "afterglow",
+     "swift",
+     "light",
+     "prompt",
+     "flares",
+     "shock"
+    ],
+    "parent": 5,
+    "jaccard": 0.5066666666666667
+   },
+   {
+    "size": 720,
+    "terms": [
+     "galaxies",
+     "host",
+     "galaxy",
+     "dust",
+     "redshift",
+     "formation",
+     "extinction",
+     "metallicity"
+    ],
+    "parent": 4,
+    "jaccard": 0.2593984962406015
+   },
+   {
+    "size": 659,
+    "terms": [
+     "peak",
+     "correlation",
+     "pulses",
+     "energy",
+     "relation",
+     "pulse",
+     "luminosity",
+     "spectral"
+    ],
+    "parent": 6,
+    "jaccard": 0.4833538840937115
+   },
+   {
+    "size": 240,
+    "terms": [
+     "polarization",
+     "quantum",
+     "violation",
+     "lorentz",
+     "photons",
+     "gravity",
+     "invariance",
+     "dispersion"
+    ],
+    "parent": 8,
+    "jaccard": 0.5220588235294118
+   },
+   {
+    "size": 81,
+    "terms": [
+     "fireshell",
+     "p-grb",
+     "episode",
+     "black",
+     "embh",
+     "short",
+     "collapse",
+     "disguised"
+    ],
+    "parent": 3,
+    "jaccard": 0.044340723453908985
+   },
+   {
+    "size": 54,
+    "terms": [
+     "life",
+     "earth",
+     "ozone",
+     "chondrules",
+     "atmospheric",
+     "effects",
+     "biosphere",
+     "depletion"
+    ],
+    "parent": 1,
+    "jaccard": 0.0362400906002265
+   },
+   {
+    "size": 43,
+    "terms": [
+     "dark",
+     "matter",
+     "annihilation",
+     "center",
+     "galactic",
+     "annihilations",
+     "hess",
+     "neutralino"
+    ],
+    "parent": 9,
+    "jaccard": 0.42857142857142855
+   },
+   {
+    "size": 40,
+    "terms": [
+     "cygnus",
+     "hercules",
+     "pulsar",
+     "showers",
+     "pulsed",
+     "period",
+     "crab",
+     "flux"
+    ],
+    "parent": 10,
+    "jaccard": 0.9523809523809523
+   }
+  ]
+ },
+ {
+  "cut": 2020,
+  "n_papers": 10822,
+  "n_edges": 261438,
+  "modularity": 0.4744753072826769,
+  "communities": [
+   {
+    "size": 1851,
+    "terms": [
+     "batse",
+     "neutron",
+     "distribution",
+     "x-ray",
+     "stars",
+     "galactic",
+     "energy",
+     "spectra"
+    ],
+    "parent": 0,
+    "jaccard": 0.8472012102874432
+   },
+   {
+    "size": 1581,
+    "terms": [
+     "energy",
+     "spectral",
+     "magnetic",
+     "synchrotron",
+     "shock",
+     "relativistic",
+     "shocks",
+     "radiation"
+    ],
+    "parent": 1,
+    "jaccard": 0.4890238206445586
+   },
+   {
+    "size": 1564,
+    "terms": [
+     "afterglow",
+     "optical",
+     "x-ray",
+     "afterglows",
+     "light",
+     "shock",
+     "radio",
+     "decay"
+    ],
+    "parent": 5,
+    "jaccard": 0.40167865707434053
+   },
+   {
+    "size": 1388,
+    "terms": [
+     "black",
+     "supernova",
+     "accretion",
+     "supernovae",
+     "hole",
+     "star",
+     "disk",
+     "x-ray"
+    ],
+    "parent": 4,
+    "jaccard": 0.44315992292870904
+   },
+   {
+    "size": 1324,
+    "terms": [
+     "short",
+     "neutron",
+     "merger",
+     "star",
+     "binary",
+     "mergers",
+     "gravitational",
+     "radio"
+    ],
+    "parent": 3,
+    "jaccard": 0.4053382991930478
+   },
+   {
+    "size": 933,
+    "terms": [
+     "host",
+     "galaxies",
+     "galaxy",
+     "dust",
+     "metallicity",
+     "extinction",
+     "hosts",
+     "formation"
+    ],
+    "parent": 6,
+    "jaccard": 0.5535714285714286
+   },
+   {
+    "size": 849,
+    "terms": [
+     "peak",
+     "redshift",
+     "correlation",
+     "luminosity",
+     "energy",
+     "relation",
+     "dark",
+     "cosmological"
+    ],
+    "parent": 7,
+    "jaccard": 0.4430622009569378
+   },
+   {
+    "size": 583,
+    "terms": [
+     "neutrino",
+     "neutrinos",
+     "cosmic",
+     "icecube",
+     "energy",
+     "flux",
+     "high-energy",
+     "acceleration"
+    ],
+    "parent": 1,
+    "jaccard": 0.2464428002276608
+   },
+   {
+    "size": 400,
+    "terms": [
+     "polarization",
+     "quantum",
+     "violation",
+     "lorentz",
+     "photons",
+     "invariance",
+     "energy",
+     "gravity"
+    ],
+    "parent": 8,
+    "jaccard": 0.5880893300248139
+   },
+   {
+    "size": 109,
+    "terms": [
+     "fireshell",
+     "collapse",
+     "black",
+     "embh",
+     "p-grb",
+     "hole",
+     "short",
+     "episode"
+    ],
+    "parent": 9,
+    "jaccard": 0.7431192660550459
+   },
+   {
+    "size": 108,
+    "terms": [
+     "dark",
+     "matter",
+     "annihilation",
+     "galactic",
+     "center",
+     "gamma-",
+     "positrons",
+     "annihilations"
+    ],
+    "parent": 11,
+    "jaccard": 0.39814814814814814
+   },
+   {
+    "size": 50,
+    "terms": [
+     "tgfs",
+     "lightning",
+     "terrestrial",
+     "flashes",
+     "discharges",
+     "leader",
+     "fermi",
+     "pulses"
+    ],
+    "parent": null,
+    "jaccard": 0.0
+   }
+  ]
+ },
+ {
+  "cut": 2026,
+  "n_papers": 13802,
+  "n_edges": 378844,
+  "modularity": 0.46401650666644306,
+  "communities": [
+   {
+    "size": 2458,
+    "terms": [
+     "batse",
+     "x-ray",
+     "distribution",
+     "neutron",
+     "energy",
+     "events",
+     "solar",
+     "galactic"
+    ],
+    "parent": 0,
+    "jaccard": 0.678613167121153
+   },
+   {
+    "size": 2127,
+    "terms": [
+     "afterglow",
+     "optical",
+     "x-ray",
+     "afterglows",
+     "light",
+     "shock",
+     "radio",
+     "energy"
+    ],
+    "parent": 2,
+    "jaccard": 0.7040627885503232
+   },
+   {
+    "size": 1993,
+    "terms": [
+     "neutron",
+     "merger",
+     "short",
+     "star",
+     "mergers",
+     "binary",
+     "gravitational",
+     "black"
+    ],
+    "parent": 4,
+    "jaccard": 0.5565462224307837
+   },
+   {
+    "size": 1962,
+    "terms": [
+     "neutrino",
+     "energy",
+     "neutrinos",
+     "photons",
+     "high-energy",
+     "cosmic",
+     "shock",
+     "magnetic"
+    ],
+    "parent": 7,
+    "jaccard": 0.23784046692607003
+   },
+   {
+    "size": 1387,
+    "terms": [
+     "polarization",
+     "spectral",
+     "magnetic",
+     "energy",
+     "pulses",
+     "synchrotron",
+     "prompt",
+     "pulse"
+    ],
+    "parent": 1,
+    "jaccard": 0.3639705882352941
+   },
+   {
+    "size": 1384,
+    "terms": [
+     "black",
+     "accretion",
+     "supernova",
+     "supernovae",
+     "hole",
+     "disk",
+     "explosion",
+     "jets"
+    ],
+    "parent": 3,
+    "jaccard": 0.6201052016364699
+   },
+   {
+    "size": 1242,
+    "terms": [
+     "host",
+     "galaxies",
+     "galaxy",
+     "metallicity",
+     "formation",
+     "dust",
+     "redshift",
+     "stars"
+    ],
+    "parent": 5,
+    "jaccard": 0.707221350078493
+   },
+   {
+    "size": 716,
+    "terms": [
+     "correlation",
+     "cosmological",
+     "dark",
+     "relation",
+     "redshift",
+     "energy",
+     "peak",
+     "hubble"
+    ],
+    "parent": 6,
+    "jaccard": 0.4279197080291971
+   },
+   {
+    "size": 158,
+    "terms": [
+     "quark",
+     "matter",
+     "dark",
+     "strange",
+     "stars",
+     "annihilation",
+     "star",
+     "galactic"
+    ],
+    "parent": 10,
+    "jaccard": 0.3641025641025641
+   },
+   {
+    "size": 151,
+    "terms": [
+     "fireshell",
+     "collapse",
+     "black",
+     "bdhne",
+     "binary-driven",
+     "hole",
+     "bdhn",
+     "companion"
+    ],
+    "parent": 9,
+    "jaccard": 0.6993464052287581
+   },
+   {
+    "size": 84,
+    "terms": [
+     "life",
+     "earth",
+     "ozone",
+     "solar",
+     "effects",
+     "atmospheric",
+     "atmosphere",
+     "radiation"
+    ],
+    "parent": 7,
+    "jaccard": 0.09523809523809523
+   }
+  ]
+ }
+]

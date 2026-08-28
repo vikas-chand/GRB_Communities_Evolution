@@ -1,0 +1,1042 @@
+{
+ "baseline_median_P": 0.38,
+ "baseline_n": 7690,
+ "concept_role_profiles": [
+  {
+   "cls": "method",
+   "probe": "spectral lag",
+   "n_stable": 31,
+   "median_P": 0.681
+  },
+  {
+   "cls": "theory",
+   "probe": "baryon loading",
+   "n_stable": 32,
+   "median_P": 0.647
+  },
+  {
+   "cls": "method",
+   "probe": "time-resolved spectroscopy",
+   "n_stable": 42,
+   "median_P": 0.637
+  },
+  {
+   "cls": "method",
+   "probe": "XSPEC/spectral fitting",
+   "n_stable": 33,
+   "median_P": 0.575
+  },
+  {
+   "cls": "theory",
+   "probe": "plateau",
+   "n_stable": 280,
+   "median_P": 0.572
+  },
+  {
+   "cls": "theory",
+   "probe": "extended emission",
+   "n_stable": 101,
+   "median_P": 0.572
+  },
+  {
+   "cls": "theory",
+   "probe": "orphan afterglow",
+   "n_stable": 54,
+   "median_P": 0.571
+  },
+  {
+   "cls": "theory",
+   "probe": "external shock",
+   "n_stable": 156,
+   "median_P": 0.567
+  },
+  {
+   "cls": "theory",
+   "probe": "Lorentz factor",
+   "n_stable": 384,
+   "median_P": 0.565
+  },
+  {
+   "cls": "theory",
+   "probe": "X-ray flares",
+   "n_stable": 136,
+   "median_P": 0.556
+  },
+  {
+   "cls": "theory",
+   "probe": "internal shocks",
+   "n_stable": 108,
+   "median_P": 0.554
+  },
+  {
+   "cls": "theory",
+   "probe": "shock breakout",
+   "n_stable": 78,
+   "median_P": 0.554
+  },
+  {
+   "cls": "theory",
+   "probe": "collapsar",
+   "n_stable": 243,
+   "median_P": 0.554
+  },
+  {
+   "cls": "method",
+   "probe": "photometric redshift",
+   "n_stable": 55,
+   "median_P": 0.552
+  },
+  {
+   "cls": "theory",
+   "probe": "jet break",
+   "n_stable": 199,
+   "median_P": 0.552
+  },
+  {
+   "cls": "method",
+   "probe": "machine learning",
+   "n_stable": 54,
+   "median_P": 0.551
+  },
+  {
+   "cls": "theory",
+   "probe": "inverse Compton/SSC",
+   "n_stable": 92,
+   "median_P": 0.54
+  },
+  {
+   "cls": "theory",
+   "probe": "reverse shock",
+   "n_stable": 220,
+   "median_P": 0.534
+  },
+  {
+   "cls": "theory",
+   "probe": "structured jet",
+   "n_stable": 180,
+   "median_P": 0.531
+  },
+  {
+   "cls": "theory",
+   "probe": "fireball",
+   "n_stable": 379,
+   "median_P": 0.525
+  },
+  {
+   "cls": "theory",
+   "probe": "Poynting flux",
+   "n_stable": 71,
+   "median_P": 0.524
+  },
+  {
+   "cls": "theory",
+   "probe": "fallback",
+   "n_stable": 58,
+   "median_P": 0.513
+  },
+  {
+   "cls": "theory",
+   "probe": "Blandford-Znajek",
+   "n_stable": 79,
+   "median_P": 0.501
+  },
+  {
+   "cls": "theory",
+   "probe": "tidal disruption",
+   "n_stable": 111,
+   "median_P": 0.5
+  },
+  {
+   "cls": "theory",
+   "probe": "synchrotron",
+   "n_stable": 506,
+   "median_P": 0.496
+  },
+  {
+   "cls": "theory",
+   "probe": "magnetar engine",
+   "n_stable": 392,
+   "median_P": 0.493
+  },
+  {
+   "cls": "theory",
+   "probe": "cocoon",
+   "n_stable": 138,
+   "median_P": 0.472
+  },
+  {
+   "cls": "theory",
+   "probe": "precursor",
+   "n_stable": 118,
+   "median_P": 0.458
+  },
+  {
+   "cls": "theory",
+   "probe": "standard candle",
+   "n_stable": 117,
+   "median_P": 0.454
+  },
+  {
+   "cls": "theory",
+   "probe": "accretion disk/torus",
+   "n_stable": 248,
+   "median_P": 0.433
+  },
+  {
+   "cls": "method",
+   "probe": "VLBI",
+   "n_stable": 40,
+   "median_P": 0.409
+  },
+  {
+   "cls": "method",
+   "probe": "hydrodynamic simulation",
+   "n_stable": 497,
+   "median_P": 0.403
+  },
+  {
+   "cls": "theory",
+   "probe": "photosphere",
+   "n_stable": 120,
+   "median_P": 0.401
+  },
+  {
+   "cls": "method",
+   "probe": "polarimetry",
+   "n_stable": 62,
+   "median_P": 0.397
+  },
+  {
+   "cls": "method",
+   "probe": "population synthesis",
+   "n_stable": 79,
+   "median_P": 0.394
+  },
+  {
+   "cls": "theory",
+   "probe": "magnetic reconnection",
+   "n_stable": 45,
+   "median_P": 0.377
+  },
+  {
+   "cls": "theory",
+   "probe": "gravitational lensing",
+   "n_stable": 115,
+   "median_P": 0.37
+  },
+  {
+   "cls": "method",
+   "probe": "(GR)MHD simulation",
+   "n_stable": 192,
+   "median_P": 0.369
+  },
+  {
+   "cls": "theory",
+   "probe": "turbulence",
+   "n_stable": 70,
+   "median_P": 0.33
+  },
+  {
+   "cls": "theory",
+   "probe": "compactness/pair production",
+   "n_stable": 67,
+   "median_P": 0.314
+  },
+  {
+   "cls": "theory",
+   "probe": "kilonova",
+   "n_stable": 426,
+   "median_P": 0.298
+  },
+  {
+   "cls": "theory",
+   "probe": "nucleosynthesis",
+   "n_stable": 153,
+   "median_P": 0.29
+  },
+  {
+   "cls": "method",
+   "probe": "Bayesian inference",
+   "n_stable": 123,
+   "median_P": 0.289
+  },
+  {
+   "cls": "method",
+   "probe": "Monte Carlo",
+   "n_stable": 239,
+   "median_P": 0.288
+  },
+  {
+   "cls": "theory",
+   "probe": "r-process",
+   "n_stable": 190,
+   "median_P": 0.28
+  },
+  {
+   "cls": "theory",
+   "probe": "NS equation of state",
+   "n_stable": 283,
+   "median_P": 0.246
+  },
+  {
+   "cls": "method",
+   "probe": "power spectrum/Fourier",
+   "n_stable": 43,
+   "median_P": 0.245
+  },
+  {
+   "cls": "method",
+   "probe": "radiative transfer",
+   "n_stable": 48,
+   "median_P": 0.214
+  },
+  {
+   "cls": "theory",
+   "probe": "Hubble constant",
+   "n_stable": 90,
+   "median_P": 0.209
+  },
+  {
+   "cls": "method",
+   "probe": "MCMC",
+   "n_stable": 89,
+   "median_P": 0.198
+  }
+ ],
+ "community_concept_enrichment": {
+  "C0": [
+   {
+    "cls": "facility",
+    "probe": "PVO",
+    "n": 40,
+    "ratio": 6.3
+   },
+   {
+    "cls": "method",
+    "probe": "V/Vmax",
+    "n": 22,
+    "ratio": 6.1
+   },
+   {
+    "cls": "facility",
+    "probe": "Granat/PHEBUS",
+    "n": 47,
+    "ratio": 5.6
+   },
+   {
+    "cls": "facility",
+    "probe": "Ginga",
+    "n": 41,
+    "ratio": 5.3
+   },
+   {
+    "cls": "facility",
+    "probe": "SMM",
+    "n": 23,
+    "ratio": 5.3
+   },
+   {
+    "cls": "facility",
+    "probe": "Ulysses",
+    "n": 41,
+    "ratio": 5.0
+   },
+   {
+    "cls": "facility",
+    "probe": "Vela",
+    "n": 38,
+    "ratio": 4.9
+   },
+   {
+    "cls": "facility",
+    "probe": "COMPTEL",
+    "n": 35,
+    "ratio": 4.5
+   }
+  ],
+  "C1": [
+   {
+    "cls": "facility",
+    "probe": "TAROT",
+    "n": 23,
+    "ratio": 5.5
+   },
+   {
+    "cls": "facility",
+    "probe": "MASTER",
+    "n": 32,
+    "ratio": 5.4
+   },
+   {
+    "cls": "facility",
+    "probe": "ROTSE",
+    "n": 28,
+    "ratio": 4.5
+   },
+   {
+    "cls": "theory",
+    "probe": "reverse shock",
+    "n": 209,
+    "ratio": 4.1
+   },
+   {
+    "cls": "theory",
+    "probe": "orphan afterglow",
+    "n": 37,
+    "ratio": 3.8
+   },
+   {
+    "cls": "theory",
+    "probe": "jet break",
+    "n": 141,
+    "ratio": 3.4
+   },
+   {
+    "cls": "theory",
+    "probe": "X-ray flares",
+    "n": 111,
+    "ratio": 3.1
+   },
+   {
+    "cls": "facility",
+    "probe": "BeppoSAX",
+    "n": 91,
+    "ratio": 2.8
+   }
+  ],
+  "C2": [
+   {
+    "cls": "theory",
+    "probe": "kilonova",
+    "n": 424,
+    "ratio": 6.2
+   },
+   {
+    "cls": "facility",
+    "probe": "KAGRA",
+    "n": 56,
+    "ratio": 5.7
+   },
+   {
+    "cls": "facility",
+    "probe": "LIGO/Virgo",
+    "n": 366,
+    "ratio": 5.3
+   },
+   {
+    "cls": "facility",
+    "probe": "Einstein Telescope",
+    "n": 41,
+    "ratio": 5.3
+   },
+   {
+    "cls": "theory",
+    "probe": "r-process",
+    "n": 154,
+    "ratio": 5.2
+   },
+   {
+    "cls": "facility",
+    "probe": "Rubin/LSST",
+    "n": 34,
+    "ratio": 4.2
+   },
+   {
+    "cls": "theory",
+    "probe": "extended emission",
+    "n": 100,
+    "ratio": 4.1
+   },
+   {
+    "cls": "theory",
+    "probe": "NS equation of state",
+    "n": 188,
+    "ratio": 3.8
+   }
+  ],
+  "C3": [
+   {
+    "cls": "facility",
+    "probe": "POLAR",
+    "n": 51,
+    "ratio": 7.8
+   },
+   {
+    "cls": "method",
+    "probe": "particle-in-cell",
+    "n": 113,
+    "ratio": 7.1
+   },
+   {
+    "cls": "facility",
+    "probe": "AstroSat/CZTI",
+    "n": 29,
+    "ratio": 6.4
+   },
+   {
+    "cls": "method",
+    "probe": "Band function",
+    "n": 95,
+    "ratio": 5.5
+   },
+   {
+    "cls": "theory",
+    "probe": "magnetic reconnection",
+    "n": 129,
+    "ratio": 5.2
+   },
+   {
+    "cls": "method",
+    "probe": "time-resolved spectroscopy",
+    "n": 109,
+    "ratio": 5.1
+   },
+   {
+    "cls": "theory",
+    "probe": "photosphere",
+    "n": 267,
+    "ratio": 5.0
+   },
+   {
+    "cls": "method",
+    "probe": "polarimetry",
+    "n": 101,
+    "ratio": 4.7
+   }
+  ],
+  "C4": [
+   {
+    "cls": "facility",
+    "probe": "Milagro",
+    "n": 26,
+    "ratio": 8.7
+   },
+   {
+    "cls": "facility",
+    "probe": "AMANDA",
+    "n": 21,
+    "ratio": 8.5
+   },
+   {
+    "cls": "facility",
+    "probe": "IceCube",
+    "n": 201,
+    "ratio": 7.7
+   },
+   {
+    "cls": "facility",
+    "probe": "ANTARES",
+    "n": 26,
+    "ratio": 7.4
+   },
+   {
+    "cls": "facility",
+    "probe": "LHAASO",
+    "n": 56,
+    "ratio": 7.3
+   },
+   {
+    "cls": "facility",
+    "probe": "Pierre Auger",
+    "n": 33,
+    "ratio": 7.2
+   },
+   {
+    "cls": "facility",
+    "probe": "AGILE",
+    "n": 49,
+    "ratio": 6.7
+   },
+   {
+    "cls": "theory",
+    "probe": "hadronic/photopion",
+    "n": 129,
+    "ratio": 6.5
+   }
+  ],
+  "C5": [
+   {
+    "cls": "theory",
+    "probe": "shock breakout",
+    "n": 64,
+    "ratio": 6.0
+   },
+   {
+    "cls": "theory",
+    "probe": "Blandford-Znajek",
+    "n": 83,
+    "ratio": 5.2
+   },
+   {
+    "cls": "theory",
+    "probe": "collapsar",
+    "n": 191,
+    "ratio": 4.9
+   },
+   {
+    "cls": "facility",
+    "probe": "Einstein Probe",
+    "n": 44,
+    "ratio": 4.8
+   },
+   {
+    "cls": "theory",
+    "probe": "accretion disk/torus",
+    "n": 213,
+    "ratio": 4.6
+   },
+   {
+    "cls": "theory",
+    "probe": "fallback",
+    "n": 43,
+    "ratio": 4.3
+   },
+   {
+    "cls": "theory",
+    "probe": "tidal disruption",
+    "n": 72,
+    "ratio": 4.2
+   },
+   {
+    "cls": "theory",
+    "probe": "nucleosynthesis",
+    "n": 82,
+    "ratio": 4.0
+   }
+  ],
+  "C6": [
+   {
+    "cls": "facility",
+    "probe": "Spitzer",
+    "n": 34,
+    "ratio": 8.2
+   },
+   {
+    "cls": "facility",
+    "probe": "VLT",
+    "n": 113,
+    "ratio": 6.9
+   },
+   {
+    "cls": "method",
+    "probe": "photometric redshift",
+    "n": 36,
+    "ratio": 5.8
+   },
+   {
+    "cls": "facility",
+    "probe": "JWST",
+    "n": 24,
+    "ratio": 5.4
+   },
+   {
+    "cls": "facility",
+    "probe": "GROND",
+    "n": 34,
+    "ratio": 5.2
+   },
+   {
+    "cls": "facility",
+    "probe": "Keck",
+    "n": 36,
+    "ratio": 5.0
+   },
+   {
+    "cls": "facility",
+    "probe": "ALMA",
+    "n": 20,
+    "ratio": 4.4
+   },
+   {
+    "cls": "facility",
+    "probe": "SDSS",
+    "n": 26,
+    "ratio": 4.4
+   }
+  ],
+  "C7": [
+   {
+    "cls": "method",
+    "probe": "Gaussian process",
+    "n": 21,
+    "ratio": 11.9
+   },
+   {
+    "cls": "theory",
+    "probe": "standard candle",
+    "n": 80,
+    "ratio": 10.2
+   },
+   {
+    "cls": "theory",
+    "probe": "Hubble constant",
+    "n": 52,
+    "ratio": 10.1
+   },
+   {
+    "cls": "method",
+    "probe": "MCMC",
+    "n": 57,
+    "ratio": 8.8
+   },
+   {
+    "cls": "facility",
+    "probe": "Planck",
+    "n": 33,
+    "ratio": 5.0
+   },
+   {
+    "cls": "facility",
+    "probe": "HETE",
+    "n": 29,
+    "ratio": 4.2
+   },
+   {
+    "cls": "method",
+    "probe": "Bayesian inference",
+    "n": 46,
+    "ratio": 4.2
+   },
+   {
+    "cls": "theory",
+    "probe": "NS equation of state",
+    "n": 66,
+    "ratio": 3.6
+   }
+  ],
+  "C8": [
+   {
+    "cls": "theory",
+    "probe": "quantum gravity",
+    "n": 101,
+    "ratio": 42.4
+   },
+   {
+    "cls": "theory",
+    "probe": "Lorentz invariance",
+    "n": 144,
+    "ratio": 41.4
+   },
+   {
+    "cls": "facility",
+    "probe": "Planck",
+    "n": 22,
+    "ratio": 9.7
+   },
+   {
+    "cls": "method",
+    "probe": "spectral lag",
+    "n": 27,
+    "ratio": 9.2
+   },
+   {
+    "cls": "facility",
+    "probe": "Fermi",
+    "n": 36,
+    "ratio": 1.5
+   }
+  ],
+  "C9": [
+   {
+    "cls": "facility",
+    "probe": "GECAM",
+    "n": 43,
+    "ratio": 44.8
+   },
+   {
+    "cls": "facility",
+    "probe": "Insight-HXMT",
+    "n": 21,
+    "ratio": 27.5
+   },
+   {
+    "cls": "facility",
+    "probe": "Fermi-GBM",
+    "n": 57,
+    "ratio": 6.6
+   },
+   {
+    "cls": "facility",
+    "probe": "Fermi",
+    "n": 90,
+    "ratio": 4.2
+   },
+   {
+    "cls": "method",
+    "probe": "Monte Carlo",
+    "n": 21,
+    "ratio": 2.7
+   },
+   {
+    "cls": "facility",
+    "probe": "Swift",
+    "n": 22,
+    "ratio": 0.7
+   }
+  ],
+  "C10": [
+   {
+    "cls": "facility",
+    "probe": "Swift",
+    "n": 24,
+    "ratio": 1.2
+   }
+  ],
+  "C11": [],
+  "C12": [],
+  "C13": [
+   {
+    "cls": "theory",
+    "probe": "quark/strange star",
+    "n": 51,
+    "ratio": 84.7
+   },
+   {
+    "cls": "theory",
+    "probe": "hadronic/photopion",
+    "n": 24,
+    "ratio": 22.3
+   }
+  ]
+ },
+ "elite_composition": {
+  "C0": {
+   "facility": 5,
+   "method": 1,
+   "theory": 1,
+   "top_bibcodes": [
+    "1973ApJ...182L..85K",
+    "1992Natur.355..143M",
+    "1981Natur.290..378M",
+    "1973ApJ...185L..57W",
+    "1979Natur.282..587M",
+    "1979SvAL....5...87M",
+    "1981Ap&SS..80....3M",
+    "1973ApJ...185L...1C",
+    "1986ApJ...308L..43P",
+    "1981Ap&SS..75...47M"
+   ]
+  },
+  "C1": {
+   "facility": 2,
+   "method": 2,
+   "theory": 6,
+   "top_bibcodes": [
+    "1992MNRAS.258P..41R",
+    "1997Natur.386..686V",
+    "1991AdSpR..11h.281F",
+    "1997ApJ...476..232M",
+    "1993ApJ...418L...5P",
+    "1997Natur.387..783C",
+    "1998ApJ...497L..17S",
+    "1997MNRAS.288L..51W",
+    "1995ApJ...455L.143S",
+    "1997Natur.387..878M"
+   ]
+  },
+  "C2": {
+   "facility": 4,
+   "method": 1,
+   "theory": 7,
+   "top_bibcodes": [
+    "1989Natur.340..126E",
+    "1991AcA....41..257P",
+    "1993ApJ...413L.101K",
+    "1992ApJ...395L..83N",
+    "2005Natur.437..851G",
+    "2005Natur.437..845F",
+    "1992ApJ...400..175B",
+    "1999ApJ...526..152F",
+    "2006ApJ...638..354B",
+    "1992ApJ...397..570M"
+   ]
+  },
+  "C3": {
+   "facility": 1,
+   "method": 0,
+   "theory": 6,
+   "top_bibcodes": [
+    "1986ApJ...308L..47G",
+    "1978MNRAS.183..359C",
+    "1990ApJ...365L..55S",
+    "1983Natur.306..451G",
+    "1993ApJ...405..278M",
+    "1986ApJ...301..213N",
+    "1993ApJ...413..281B",
+    "1994ApJ...432L.107K",
+    "1994ApJ...430L..93R",
+    "1993ApJ...415..181M"
+   ]
+  },
+  "C4": {
+   "facility": 5,
+   "method": 0,
+   "theory": 4,
+   "top_bibcodes": [
+    "1994MNRAS.269L..41M",
+    "1994Natur.372..652H",
+    "1988SSRv...49...69K",
+    "1992A&A...255L..13S",
+    "1995PhRvL..75..386W",
+    "1995ApJ...453..883V",
+    "1994ApJ...422L..63S",
+    "1997PhRvL..78.2292W",
+    "1994ApJ...432L..27K",
+    "2009ApJ...697.1071A"
+   ]
+  },
+  "C5": {
+   "facility": 2,
+   "method": 2,
+   "theory": 7,
+   "top_bibcodes": [
+    "1992ApJ...391..228W",
+    "1993ApJ...405..273W",
+    "1998Natur.395..672I",
+    "1998Natur.395..670G",
+    "1998ApJ...494L..45P",
+    "1999ApJ...524..262M",
+    "1992Natur.357..472U",
+    "1997A&A...319..122R",
+    "1998Natur.395..663K",
+    "1999ApJ...516..788W"
+   ]
+  },
+  "C6": {
+   "facility": 5,
+   "method": 3,
+   "theory": 2,
+   "top_bibcodes": [
+    "1997ApJ...486L..71T",
+    "1998MNRAS.294L..13W",
+    "1998ApJ...507L..25B",
+    "1998ApJ...501..467P",
+    "2000ApJ...537..796W",
+    "1998ApJ...508L..17D",
+    "1998ApJ...493L..27G",
+    "2002AJ....123.1111B",
+    "2000ApJ...536....1L",
+    "1998A&A...339L...1M"
+   ]
+  },
+  "C7": {
+   "facility": 6,
+   "method": 4,
+   "theory": 2,
+   "top_bibcodes": [
+    "2000ApJ...534..248N",
+    "2002A&A...390...81A",
+    "2004ApJ...616..331G",
+    "2001ApJ...552...57R",
+    "1999ApJ...511..550L",
+    "2000ApJ...534..227L",
+    "2001AJ....121.2879B",
+    "2001ApJ...561..171J",
+    "2001ApJ...554L.163I",
+    "2004ApJ...609..935Y"
+   ]
+  },
+  "C8": {
+   "facility": 4,
+   "method": 3,
+   "theory": 10,
+   "top_bibcodes": [
+    "1998Natur.393..763A",
+    "1999PhRvD..59l4021G",
+    "1999PhRvL..82.4964S",
+    "2000ApJ...535..139E",
+    "2006APh....25..402E",
+    "2003A&A...402..409E",
+    "2009Natur.462..331A",
+    "2001PhRvD..64h3007G",
+    "2000PhRvL..84.2318A",
+    "2008PhLB..668..253M"
+   ]
+  },
+  "C9": {
+   "facility": 9,
+   "method": 0,
+   "theory": 1,
+   "top_bibcodes": [
+    "1996GeoRL..23.1017I",
+    "2010JGRA..115.7323B",
+    "2020SCPMA..6349503L",
+    "1997JGR...102.9659N",
+    "2019NIMPA.921....8Z",
+    "2011GeoRL..38.2808B",
+    "2019NIMPA.936..199F",
+    "2019ExA....48...77W",
+    "2003A&A...411L.291M",
+    "2010JGRA..11512307C"
+   ]
+  },
+  "C10": {
+   "facility": 4,
+   "method": 3,
+   "theory": 5,
+   "top_bibcodes": [
+    "1998A&A...338L..87P",
+    "2000A&A...359..855R",
+    "1999A&A...350..334R",
+    "1999A&AS..138..511R",
+    "2001ApJ...555L.113R",
+    "2001ApJ...555L.107R",
+    "2001ApJ...555L.117R",
+    "1998ApJ...497L..21T",
+    "2001A&A...368..377B",
+    "2002ApJ...581L..19R"
+   ]
+  },
+  "C11": {
+   "facility": 4,
+   "method": 2,
+   "theory": 1,
+   "top_bibcodes": [
+    "2002PhRvD..66l3502U",
+    "1994ApJ...430L..21S",
+    "1986PhRvL..56..263S",
+    "2004PhRvL..92j1301B",
+    "2004ApJ...602L..17C",
+    "2004PhRvL..92k1102C",
+    "2004APh....21..267C",
+    "1986PhRvL..56.2128R",
+    "2005PhRvL..94m1301B",
+    "1998PhRvD..57.1962U"
+   ]
+  },
+  "C12": {
+   "facility": 3,
+   "method": 1,
+   "theory": 1,
+   "top_bibcodes": [
+    "1995ApJ...444L..53T",
+    "2002ApJ...566..723S",
+    "2005ApJ...634..509T",
+    "2004IJAsB...3...55M",
+    "2004Icar..171..229S",
+    "2005ApJ...622L.153T",
+    "1999JBIS...52...19A",
+    "2002HeaPh..82..491K",
+    "2005ApJ...628L..21D",
+    "2005GeoRL..3214808M"
+   ]
+  },
+  "C13": {
+   "facility": 1,
+   "method": 0,
+   "theory": 10,
+   "top_bibcodes": [
+    "1991ApJ...375..209H",
+    "1987PhRvL..58.2152A",
+    "1994A&A...286L..17K",
+    "1996PhRvL..77.1210C",
+    "1996ApJ...462L..63M",
+    "2000ApJ...530L..69B",
+    "2003ApJ...586.1250B",
+    "2002A&A...387..725O",
+    "2000A&A...357..543W",
+    "2002A&A...390L..39O"
+   ]
+  }
+ }
+}

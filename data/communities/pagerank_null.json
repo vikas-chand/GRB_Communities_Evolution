@@ -1,0 +1,1236 @@
+{
+ "R": 20,
+ "n_above_all": 1832,
+ "n_above_all_kin50": 319,
+ "top_excess": [
+  {
+   "bibcode": "1995ApJ...446..357K",
+   "year": 1995,
+   "community": 0,
+   "excess": 20.64277130815107,
+   "title": "Search for an Optical Counterpart of the Source of GRB 911001"
+  },
+  {
+   "bibcode": "2015NuPhB.894..733G",
+   "year": 2015,
+   "community": 21,
+   "excess": 11.108724291555347,
+   "title": "Determining the Dirac CP violation phase in the neutrino mixing matrix from sum rules"
+  },
+  {
+   "bibcode": "1983AdSpR...3d.211D",
+   "year": 1983,
+   "community": 0,
+   "excess": 10.377325237229494,
+   "title": "Catalogue of gamma-bursts detected by the Soviet-French experiment ``signe 2M'' (Venera-11"
+  },
+  {
+   "bibcode": "2015NuPhB.892..400P",
+   "year": 2015,
+   "community": 21,
+   "excess": 10.263997091525972,
+   "title": "Predicting the values of the leptonic CP violation phases in theories with discrete flavou"
+  },
+  {
+   "bibcode": "1991AdSpR..11h.281F",
+   "year": 1991,
+   "community": 1,
+   "excess": 8.988220091663012,
+   "title": "The high energy X-ray experiment PDS on board the SAX satellite"
+  },
+  {
+   "bibcode": "1982VA.....26..107H",
+   "year": 1982,
+   "community": 0,
+   "excess": 8.866801595199403,
+   "title": "Gamma ray astronomy"
+  },
+  {
+   "bibcode": "1988AdSpR...8b.653G",
+   "year": 1988,
+   "community": 0,
+   "excess": 7.015626261412483,
+   "title": "On the spatial distribution of gamma-ray burst sources"
+  },
+  {
+   "bibcode": "2002PhRvD..66l3502U",
+   "year": 2002,
+   "community": 11,
+   "excess": 6.3948306183152,
+   "title": "Cosmological dark matter annihilations into \u03b3 rays: A closer look"
+  },
+  {
+   "bibcode": "1975AJ.....80..525W",
+   "year": 1975,
+   "community": 0,
+   "excess": 5.959258112958116,
+   "title": "Do comets play a role in galactic chemistry and gamma -ray bursts?"
+  },
+  {
+   "bibcode": "1996GeoRL..23.1017I",
+   "year": 1996,
+   "community": 9,
+   "excess": 5.893267394264435,
+   "title": "On the association of terrestrial gamma-ray bursts with lightning and implications for spr"
+  },
+  {
+   "bibcode": "2005PhRvL..95u1302D",
+   "year": 2005,
+   "community": 4,
+   "excess": 5.743370591707849,
+   "title": "Looking for Light Pseudoscalar Bosons in the Binary Pulsar System J0737-3039"
+  },
+  {
+   "bibcode": "1982PAZh....8..657G",
+   "year": 1982,
+   "community": 0,
+   "excess": 5.461912781971794,
+   "title": "New activity in the Dorado gamma-ray burst source"
+  },
+  {
+   "bibcode": "2013AdSpR..51..297G",
+   "year": 2013,
+   "community": 4,
+   "excess": 5.340289537556977,
+   "title": "Status of the GAMMA-400 project"
+  },
+  {
+   "bibcode": "2018Sust...10.3052R",
+   "year": 2018,
+   "community": 15,
+   "excess": 5.147326766592946,
+   "title": "Land Use and Land Cover Dynamics and Assessing the Ecosystem Service Values in the Trans-B"
+  },
+  {
+   "bibcode": "2009ExA....24...47B",
+   "year": 2009,
+   "community": 3,
+   "excess": 4.872732618858437,
+   "title": "Ground-based calibration and characterization of the Fermi gamma-ray burst monitor detecto"
+  }
+ ],
+ "top_excess_influential": [
+  {
+   "bibcode": "2009ExA....24...47B",
+   "year": 2009,
+   "community": 3,
+   "kin": 72,
+   "excess": 4.872732618858437,
+   "title": "Ground-based calibration and characterization of the Fermi gamma-ray burst monitor detecto"
+  },
+  {
+   "bibcode": "2017A&A...598A.112D",
+   "year": 2017,
+   "community": 7,
+   "kin": 121,
+   "excess": 4.518183521939762,
+   "title": "Cosmology with gamma-ray bursts. I. The Hubble diagram through the calibrated E<SUB>p,I</S"
+  },
+  {
+   "bibcode": "2017A&A...598A.113D",
+   "year": 2017,
+   "community": 7,
+   "kin": 58,
+   "excess": 3.2693406473750835,
+   "title": "Cosmology with gamma-ray bursts. II. Cosmography challenges and cosmological scenarios for"
+  },
+  {
+   "bibcode": "2009PASJ...61..999M",
+   "year": 2009,
+   "community": 9,
+   "kin": 68,
+   "excess": 3.159195272454488,
+   "title": "The MAXI Mission on the ISS: Science and Instruments for Monitoring All-Sky X-Ray Images"
+  },
+  {
+   "bibcode": "2009A&A...502..995T",
+   "year": 2009,
+   "community": 4,
+   "kin": 76,
+   "excess": 2.9582333428757304,
+   "title": "The AGILE Mission"
+  },
+  {
+   "bibcode": "2006PhRvD..74f3006D",
+   "year": 2006,
+   "community": 2,
+   "kin": 59,
+   "excess": 2.879539982529235,
+   "title": "Short GRB and binary black hole standard sirens as a probe of dark energy"
+  },
+  {
+   "bibcode": "1986ApJ...308L..47G",
+   "year": 1986,
+   "community": 3,
+   "kin": 686,
+   "excess": 2.8753855124098444,
+   "title": "Are gamma-ray bursts optically thick?"
+  },
+  {
+   "bibcode": "2009ApJ...697.1071A",
+   "year": 2009,
+   "community": 4,
+   "kin": 495,
+   "excess": 2.7124371312024462,
+   "title": "The Large Area Telescope on the Fermi Gamma-Ray Space Telescope Mission"
+  },
+  {
+   "bibcode": "2010JCAP...08..020W",
+   "year": 2010,
+   "community": 7,
+   "kin": 79,
+   "excess": 2.5781234092407956,
+   "title": "Observational constraints on cosmological models with the updated long gamma-ray bursts"
+  },
+  {
+   "bibcode": "1984Natur.308..434N",
+   "year": 1984,
+   "community": 0,
+   "kin": 107,
+   "excess": 2.5571761832352466,
+   "title": "Frequency of fast, narrow \u03b3-ray bursts"
+  },
+  {
+   "bibcode": "1990ApJ...365L..55S",
+   "year": 1990,
+   "community": 3,
+   "kin": 277,
+   "excess": 2.5261234397411214,
+   "title": "The Appearance of Cosmic Fireballs"
+  },
+  {
+   "bibcode": "1999ApJ...522..413F",
+   "year": 1999,
+   "community": 5,
+   "kin": 57,
+   "excess": 2.5227194586713213,
+   "title": "Mass Limits For Black Hole Formation"
+  },
+  {
+   "bibcode": "2009ApJ...702..791M",
+   "year": 2009,
+   "community": 3,
+   "kin": 948,
+   "excess": 2.4729705305198513,
+   "title": "The Fermi Gamma-ray Burst Monitor"
+  },
+  {
+   "bibcode": "2015JHEAp...7...73D",
+   "year": 2015,
+   "community": 2,
+   "kin": 78,
+   "excess": 2.4451217983563422,
+   "title": "Short gamma-ray bursts: A review"
+  },
+  {
+   "bibcode": "1990ApJ...348..485P",
+   "year": 1990,
+   "community": 0,
+   "kin": 77,
+   "excess": 2.4216397070184628,
+   "title": "A Test of the Galactic Origin of Gamma-Ray Bursts"
+  }
+ ],
+ "note": "top_excess is ratio-ranked and dominated by low-PageRank papers; use top_excess_influential for claims",
+ "flows": [
+  {
+   "src": 9,
+   "dst": 0,
+   "obs": 184,
+   "null_mean": 86.35,
+   "null_sd": 10.742316715730022,
+   "pct": 0.9761904761904762,
+   "excess": 2.1308627678054433
+  },
+  {
+   "src": 4,
+   "dst": 11,
+   "obs": 39,
+   "null_mean": 27.95,
+   "null_sd": 4.442320398881174,
+   "pct": 0.9761904761904762,
+   "excess": 1.3953488372093024
+  },
+  {
+   "src": 8,
+   "dst": 4,
+   "obs": 433,
+   "null_mean": 326.0,
+   "null_sd": 16.736345573568165,
+   "pct": 0.9761904761904762,
+   "excess": 1.3282208588957056
+  },
+  {
+   "src": 0,
+   "dst": 9,
+   "obs": 65,
+   "null_mean": 53.4,
+   "null_sd": 8.022337236544105,
+   "pct": 0.8809523809523809,
+   "excess": 1.2172284644194757
+  },
+  {
+   "src": 13,
+   "dst": 5,
+   "obs": 149,
+   "null_mean": 133.3,
+   "null_sd": 11.535300511678786,
+   "pct": 0.8333333333333334,
+   "excess": 1.1177794448612153
+  },
+  {
+   "src": 9,
+   "dst": 3,
+   "obs": 360,
+   "null_mean": 323.25,
+   "null_sd": 15.269077799333699,
+   "pct": 0.9761904761904762,
+   "excess": 1.1136890951276102
+  },
+  {
+   "src": 12,
+   "dst": 0,
+   "obs": 40,
+   "null_mean": 36.3,
+   "null_sd": 4.691537734665412,
+   "pct": 0.6904761904761905,
+   "excess": 1.1019283746556474
+  },
+  {
+   "src": 12,
+   "dst": 6,
+   "obs": 116,
+   "null_mean": 107.75,
+   "null_sd": 10.294991117298895,
+   "pct": 0.7857142857142857,
+   "excess": 1.0765661252900232
+  },
+  {
+   "src": 4,
+   "dst": 3,
+   "obs": 4594,
+   "null_mean": 4973.35,
+   "null_sd": 46.41832102000017,
+   "pct": 0.023809523809523808,
+   "excess": 0.9237234459670041
+  },
+  {
+   "src": 3,
+   "dst": 4,
+   "obs": 3628,
+   "null_mean": 3978.15,
+   "null_sd": 65.79175680248927,
+   "pct": 0.023809523809523808,
+   "excess": 0.9119817000364491
+  },
+  {
+   "src": 10,
+   "dst": 5,
+   "obs": 524,
+   "null_mean": 579.95,
+   "null_sd": 20.783280223345525,
+   "pct": 0.023809523809523808,
+   "excess": 0.9035261660487972
+  },
+  {
+   "src": 7,
+   "dst": 0,
+   "obs": 752,
+   "null_mean": 859.7,
+   "null_sd": 21.670013236825916,
+   "pct": 0.023809523809523808,
+   "excess": 0.8747237408398278
+  },
+  {
+   "src": 2,
+   "dst": 13,
+   "obs": 84,
+   "null_mean": 96.15,
+   "null_sd": 9.460583046458996,
+   "pct": 0.11904761904761904,
+   "excess": 0.8736349453978158
+  },
+  {
+   "src": 8,
+   "dst": 3,
+   "obs": 529,
+   "null_mean": 619.5,
+   "null_sd": 25.29301963201039,
+   "pct": 0.023809523809523808,
+   "excess": 0.8539144471347861
+  },
+  {
+   "src": 4,
+   "dst": 8,
+   "obs": 267,
+   "null_mean": 313.95,
+   "null_sd": 19.107658976937685,
+   "pct": 0.023809523809523808,
+   "excess": 0.8504538939321549
+  },
+  {
+   "src": 13,
+   "dst": 2,
+   "obs": 135,
+   "null_mean": 161.05,
+   "null_sd": 9.838030397659034,
+   "pct": 0.023809523809523808,
+   "excess": 0.8382489909965849
+  },
+  {
+   "src": 10,
+   "dst": 3,
+   "obs": 539,
+   "null_mean": 662.3,
+   "null_sd": 29.34746469817327,
+   "pct": 0.023809523809523808,
+   "excess": 0.8138305903669033
+  },
+  {
+   "src": 6,
+   "dst": 5,
+   "obs": 4332,
+   "null_mean": 5430.7,
+   "null_sd": 49.265232749828115,
+   "pct": 0.023809523809523808,
+   "excess": 0.7976872226416485
+  },
+  {
+   "src": 2,
+   "dst": 0,
+   "obs": 2211,
+   "null_mean": 2816.15,
+   "null_sd": 50.96156962797917,
+   "pct": 0.023809523809523808,
+   "excess": 0.7851144292740088
+  },
+  {
+   "src": 13,
+   "dst": 7,
+   "obs": 40,
+   "null_mean": 52.55,
+   "null_sd": 8.055563621693883,
+   "pct": 0.023809523809523808,
+   "excess": 0.7611798287345386
+  },
+  {
+   "src": 4,
+   "dst": 1,
+   "obs": 5645,
+   "null_mean": 7623.2,
+   "null_sd": 85.80246591966187,
+   "pct": 0.023809523809523808,
+   "excess": 0.7405026760415574
+  },
+  {
+   "src": 3,
+   "dst": 0,
+   "obs": 2034,
+   "null_mean": 2773.85,
+   "null_sd": 54.775402662528236,
+   "pct": 0.023809523809523808,
+   "excess": 0.7332768534708077
+  },
+  {
+   "src": 0,
+   "dst": 7,
+   "obs": 406,
+   "null_mean": 568.7,
+   "null_sd": 13.369643541286083,
+   "pct": 0.023809523809523808,
+   "excess": 0.7139089150694566
+  },
+  {
+   "src": 7,
+   "dst": 1,
+   "obs": 3605,
+   "null_mean": 5054.3,
+   "null_sd": 49.5018340968026,
+   "pct": 0.023809523809523808,
+   "excess": 0.7132540608986407
+  },
+  {
+   "src": 13,
+   "dst": 0,
+   "obs": 56,
+   "null_mean": 79.45,
+   "null_sd": 7.857112098367681,
+   "pct": 0.023809523809523808,
+   "excess": 0.7048458149779735
+  },
+  {
+   "src": 3,
+   "dst": 9,
+   "obs": 164,
+   "null_mean": 233.0,
+   "null_sd": 12.777447237016354,
+   "pct": 0.023809523809523808,
+   "excess": 0.703862660944206
+  },
+  {
+   "src": 10,
+   "dst": 0,
+   "obs": 113,
+   "null_mean": 162.2,
+   "null_sd": 13.403063279085043,
+   "pct": 0.023809523809523808,
+   "excess": 0.6966707768187423
+  },
+  {
+   "src": 12,
+   "dst": 4,
+   "obs": 50,
+   "null_mean": 72.8,
+   "null_sd": 8.507581757962779,
+   "pct": 0.023809523809523808,
+   "excess": 0.6868131868131868
+  },
+  {
+   "src": 5,
+   "dst": 6,
+   "obs": 3175,
+   "null_mean": 4649.4,
+   "null_sd": 69.57192416182657,
+   "pct": 0.023809523809523808,
+   "excess": 0.6828838129651138
+  },
+  {
+   "src": 7,
+   "dst": 6,
+   "obs": 1728,
+   "null_mean": 2571.45,
+   "null_sd": 43.8015560886765,
+   "pct": 0.023809523809523808,
+   "excess": 0.6719944000466663
+  },
+  {
+   "src": 6,
+   "dst": 1,
+   "obs": 6367,
+   "null_mean": 9560.3,
+   "null_sd": 59.490025700908355,
+   "pct": 0.023809523809523808,
+   "excess": 0.6659832850433565
+  },
+  {
+   "src": 2,
+   "dst": 5,
+   "obs": 6426,
+   "null_mean": 9669.25,
+   "null_sd": 76.85452765486644,
+   "pct": 0.023809523809523808,
+   "excess": 0.6645810171419707
+  },
+  {
+   "src": 0,
+   "dst": 2,
+   "obs": 1612,
+   "null_mean": 2468.2,
+   "null_sd": 39.05677379082108,
+   "pct": 0.023809523809523808,
+   "excess": 0.6531075277530184
+  },
+  {
+   "src": 13,
+   "dst": 1,
+   "obs": 186,
+   "null_mean": 292.15,
+   "null_sd": 11.617930787772565,
+   "pct": 0.023809523809523808,
+   "excess": 0.6366592503850762
+  },
+  {
+   "src": 5,
+   "dst": 1,
+   "obs": 6248,
+   "null_mean": 9839.75,
+   "null_sd": 85.6405431532224,
+   "pct": 0.023809523809523808,
+   "excess": 0.6349754821006631
+  },
+  {
+   "src": 7,
+   "dst": 3,
+   "obs": 2154,
+   "null_mean": 3397.45,
+   "null_sd": 40.78760776716895,
+   "pct": 0.023809523809523808,
+   "excess": 0.6340049154512943
+  },
+  {
+   "src": 3,
+   "dst": 7,
+   "obs": 1861,
+   "null_mean": 2940.0,
+   "null_sd": 49.67367194209148,
+   "pct": 0.023809523809523808,
+   "excess": 0.6329931972789116
+  },
+  {
+   "src": 1,
+   "dst": 3,
+   "obs": 6261,
+   "null_mean": 9893.1,
+   "null_sd": 63.91433411421227,
+   "pct": 0.023809523809523808,
+   "excess": 0.6328653303817812
+  },
+  {
+   "src": 3,
+   "dst": 1,
+   "obs": 6984,
+   "null_mean": 11087.55,
+   "null_sd": 76.46979107705488,
+   "pct": 0.023809523809523808,
+   "excess": 0.6298956938187427
+  },
+  {
+   "src": 10,
+   "dst": 1,
+   "obs": 583,
+   "null_mean": 935.85,
+   "null_sd": 18.938334834820864,
+   "pct": 0.023809523809523808,
+   "excess": 0.6229630816904418
+  },
+  {
+   "src": 1,
+   "dst": 5,
+   "obs": 5699,
+   "null_mean": 9359.2,
+   "null_sd": 81.48722857633969,
+   "pct": 0.023809523809523808,
+   "excess": 0.6089195657748525
+  },
+  {
+   "src": 0,
+   "dst": 3,
+   "obs": 1556,
+   "null_mean": 2558.85,
+   "null_sd": 32.30654976772878,
+   "pct": 0.023809523809523808,
+   "excess": 0.6080856634816422
+  },
+  {
+   "src": 13,
+   "dst": 3,
+   "obs": 85,
+   "null_mean": 146.1,
+   "null_sd": 9.983670878515895,
+   "pct": 0.023809523809523808,
+   "excess": 0.5817932922655715
+  },
+  {
+   "src": 2,
+   "dst": 1,
+   "obs": 7973,
+   "null_mean": 13872.45,
+   "null_sd": 94.91407471469849,
+   "pct": 0.023809523809523808,
+   "excess": 0.5747362578347732
+  },
+  {
+   "src": 1,
+   "dst": 7,
+   "obs": 2099,
+   "null_mean": 3662.1,
+   "null_sd": 42.76114813091066,
+   "pct": 0.023809523809523808,
+   "excess": 0.573168400644439
+  },
+  {
+   "src": 5,
+   "dst": 2,
+   "obs": 4437,
+   "null_mean": 7972.6,
+   "null_sd": 71.93739968670128,
+   "pct": 0.023809523809523808,
+   "excess": 0.5565311190828588
+  },
+  {
+   "src": 10,
+   "dst": 4,
+   "obs": 192,
+   "null_mean": 349.7,
+   "null_sd": 19.748684166692968,
+   "pct": 0.023809523809523808,
+   "excess": 0.5490420360308836
+  },
+  {
+   "src": 1,
+   "dst": 6,
+   "obs": 4131,
+   "null_mean": 7525.95,
+   "null_sd": 67.73747699371216,
+   "pct": 0.023809523809523808,
+   "excess": 0.5489008032208559
+  },
+  {
+   "src": 9,
+   "dst": 2,
+   "obs": 307,
+   "null_mean": 574.8,
+   "null_sd": 22.08023645945086,
+   "pct": 0.023809523809523808,
+   "excess": 0.5340988169798191
+  },
+  {
+   "src": 10,
+   "dst": 2,
+   "obs": 463,
+   "null_mean": 901.65,
+   "null_sd": 26.764617255662472,
+   "pct": 0.023809523809523808,
+   "excess": 0.5135030222370099
+  },
+  {
+   "src": 5,
+   "dst": 13,
+   "obs": 38,
+   "null_mean": 74.35,
+   "null_sd": 7.36474532378483,
+   "pct": 0.023809523809523808,
+   "excess": 0.5110961667787493
+  },
+  {
+   "src": 7,
+   "dst": 10,
+   "obs": 74,
+   "null_mean": 144.95,
+   "null_sd": 13.426113596860018,
+   "pct": 0.023809523809523808,
+   "excess": 0.510520869265264
+  },
+  {
+   "src": 6,
+   "dst": 7,
+   "obs": 1223,
+   "null_mean": 2395.6,
+   "null_sd": 48.63873267047028,
+   "pct": 0.023809523809523808,
+   "excess": 0.5105192853564869
+  },
+  {
+   "src": 12,
+   "dst": 5,
+   "obs": 59,
+   "null_mean": 115.75,
+   "null_sd": 7.08501012145026,
+   "pct": 0.023809523809523808,
+   "excess": 0.509719222462203
+  },
+  {
+   "src": 8,
+   "dst": 0,
+   "obs": 77,
+   "null_mean": 151.3,
+   "null_sd": 14.000375934802232,
+   "pct": 0.023809523809523808,
+   "excess": 0.5089226701916721
+  },
+  {
+   "src": 9,
+   "dst": 4,
+   "obs": 87,
+   "null_mean": 174.1,
+   "null_sd": 13.009712970659551,
+   "pct": 0.023809523809523808,
+   "excess": 0.49971280873061463
+  },
+  {
+   "src": 12,
+   "dst": 2,
+   "obs": 69,
+   "null_mean": 139.2,
+   "null_sd": 12.322849977945335,
+   "pct": 0.023809523809523808,
+   "excess": 0.4956896551724138
+  },
+  {
+   "src": 4,
+   "dst": 0,
+   "obs": 840,
+   "null_mean": 1752.6,
+   "null_sd": 31.85889944245109,
+   "pct": 0.023809523809523808,
+   "excess": 0.47928791509756935
+  },
+  {
+   "src": 10,
+   "dst": 7,
+   "obs": 120,
+   "null_mean": 255.1,
+   "null_sd": 13.050105867689147,
+   "pct": 0.023809523809523808,
+   "excess": 0.47040376323010585
+  },
+  {
+   "src": 5,
+   "dst": 0,
+   "obs": 895,
+   "null_mean": 1906.2,
+   "null_sd": 28.456060310961046,
+   "pct": 0.023809523809523808,
+   "excess": 0.46952051201342987
+  },
+  {
+   "src": 1,
+   "dst": 4,
+   "obs": 2353,
+   "null_mean": 5021.35,
+   "null_sd": 43.428434779167674,
+   "pct": 0.023809523809523808,
+   "excess": 0.4685990819202007
+  },
+  {
+   "src": 0,
+   "dst": 6,
+   "obs": 487,
+   "null_mean": 1059.95,
+   "null_sd": 31.421539712349187,
+   "pct": 0.023809523809523808,
+   "excess": 0.45945563469975
+  },
+  {
+   "src": 4,
+   "dst": 9,
+   "obs": 68,
+   "null_mean": 150.8,
+   "null_sd": 10.86084226645623,
+   "pct": 0.023809523809523808,
+   "excess": 0.45092838196286467
+  },
+  {
+   "src": 4,
+   "dst": 5,
+   "obs": 1950,
+   "null_mean": 4376.0,
+   "null_sd": 68.64784276136777,
+   "pct": 0.023809523809523808,
+   "excess": 0.44561243144424134
+  },
+  {
+   "src": 1,
+   "dst": 13,
+   "obs": 64,
+   "null_mean": 145.95,
+   "null_sd": 12.124247128009749,
+   "pct": 0.023809523809523808,
+   "excess": 0.43850633778691334
+  },
+  {
+   "src": 5,
+   "dst": 10,
+   "obs": 115,
+   "null_mean": 262.9,
+   "null_sd": 12.883690219972324,
+   "pct": 0.023809523809523808,
+   "excess": 0.43742868010650443
+  },
+  {
+   "src": 8,
+   "dst": 7,
+   "obs": 109,
+   "null_mean": 250.9,
+   "null_sd": 14.418190265297369,
+   "pct": 0.023809523809523808,
+   "excess": 0.43443603029095257
+  },
+  {
+   "src": 1,
+   "dst": 0,
+   "obs": 1831,
+   "null_mean": 4307.5,
+   "null_sd": 52.528187921494016,
+   "pct": 0.023809523809523808,
+   "excess": 0.42507254788160187
+  },
+  {
+   "src": 1,
+   "dst": 2,
+   "obs": 4146,
+   "null_mean": 9769.3,
+   "null_sd": 64.54219346165813,
+   "pct": 0.023809523809523808,
+   "excess": 0.4243906932942995
+  },
+  {
+   "src": 3,
+   "dst": 5,
+   "obs": 2820,
+   "null_mean": 6649.85,
+   "null_sd": 58.503508666709806,
+   "pct": 0.023809523809523808,
+   "excess": 0.4240697158582524
+  },
+  {
+   "src": 5,
+   "dst": 3,
+   "obs": 2508,
+   "null_mean": 6211.75,
+   "null_sd": 73.64843586433562,
+   "pct": 0.023809523809523808,
+   "excess": 0.4037509558498008
+  },
+  {
+   "src": 7,
+   "dst": 5,
+   "obs": 1241,
+   "null_mean": 3076.35,
+   "null_sd": 50.45088805227474,
+   "pct": 0.023809523809523808,
+   "excess": 0.40340013327482244
+  },
+  {
+   "src": 9,
+   "dst": 7,
+   "obs": 52,
+   "null_mean": 129.8,
+   "null_sd": 9.484613578677948,
+   "pct": 0.023809523809523808,
+   "excess": 0.40061633281972264
+  },
+  {
+   "src": 6,
+   "dst": 0,
+   "obs": 605,
+   "null_mean": 1543.8,
+   "null_sd": 30.413985702564364,
+   "pct": 0.023809523809523808,
+   "excess": 0.3918901412100013
+  },
+  {
+   "src": 5,
+   "dst": 7,
+   "obs": 962,
+   "null_mean": 2457.7,
+   "null_sd": 51.04291280254704,
+   "pct": 0.023809523809523808,
+   "excess": 0.39142287504577455
+  },
+  {
+   "src": 3,
+   "dst": 13,
+   "obs": 30,
+   "null_mean": 77.25,
+   "null_sd": 6.077352262812794,
+   "pct": 0.023809523809523808,
+   "excess": 0.3883495145631068
+  },
+  {
+   "src": 7,
+   "dst": 2,
+   "obs": 1721,
+   "null_mean": 4538.5,
+   "null_sd": 56.941798540726055,
+   "pct": 0.023809523809523808,
+   "excess": 0.37920017626969266
+  },
+  {
+   "src": 1,
+   "dst": 9,
+   "obs": 82,
+   "null_mean": 218.65,
+   "null_sd": 14.445086580418598,
+   "pct": 0.023809523809523808,
+   "excess": 0.3750285844957695
+  },
+  {
+   "src": 2,
+   "dst": 9,
+   "obs": 162,
+   "null_mean": 433.3,
+   "null_sd": 14.754481923880121,
+   "pct": 0.023809523809523808,
+   "excess": 0.3738749134548811
+  },
+  {
+   "src": 0,
+   "dst": 5,
+   "obs": 622,
+   "null_mean": 1666.65,
+   "null_sd": 36.564686731728926,
+   "pct": 0.023809523809523808,
+   "excess": 0.3732037320373204
+  },
+  {
+   "src": 2,
+   "dst": 7,
+   "obs": 1577,
+   "null_mean": 4360.85,
+   "null_sd": 26.896047449784376,
+   "pct": 0.023809523809523808,
+   "excess": 0.36162674707912446
+  },
+  {
+   "src": 0,
+   "dst": 1,
+   "obs": 1250,
+   "null_mean": 3576.45,
+   "null_sd": 46.32775114675641,
+   "pct": 0.023809523809523808,
+   "excess": 0.3495085909211649
+  },
+  {
+   "src": 0,
+   "dst": 4,
+   "obs": 397,
+   "null_mean": 1140.6,
+   "null_sd": 25.17810243257548,
+   "pct": 0.023809523809523808,
+   "excess": 0.34806242328598985
+  },
+  {
+   "src": 9,
+   "dst": 1,
+   "obs": 134,
+   "null_mean": 387.4,
+   "null_sd": 11.722223607993044,
+   "pct": 0.023809523809523808,
+   "excess": 0.3458957150232318
+  },
+  {
+   "src": 2,
+   "dst": 6,
+   "obs": 2557,
+   "null_mean": 7447.7,
+   "null_sd": 92.43609456780055,
+   "pct": 0.023809523809523808,
+   "excess": 0.34332747022570725
+  },
+  {
+   "src": 2,
+   "dst": 3,
+   "obs": 3761,
+   "null_mean": 11408.05,
+   "null_sd": 78.56775486968657,
+   "pct": 0.023809523809523808,
+   "excess": 0.3296794807175635
+  },
+  {
+   "src": 3,
+   "dst": 10,
+   "obs": 100,
+   "null_mean": 331.4,
+   "null_sd": 16.89721247643185,
+   "pct": 0.023809523809523808,
+   "excess": 0.30175015087507545
+  },
+  {
+   "src": 6,
+   "dst": 2,
+   "obs": 1929,
+   "null_mean": 6632.95,
+   "null_sd": 57.91325182410417,
+   "pct": 0.023809523809523808,
+   "excess": 0.29082082632915973
+  },
+  {
+   "src": 3,
+   "dst": 2,
+   "obs": 2923,
+   "null_mean": 10169.75,
+   "null_sd": 87.81312394421522,
+   "pct": 0.023809523809523808,
+   "excess": 0.28742102804887043
+  },
+  {
+   "src": 10,
+   "dst": 6,
+   "obs": 144,
+   "null_mean": 511.9,
+   "null_sd": 21.63063130207521,
+   "pct": 0.023809523809523808,
+   "excess": 0.28130494237155695
+  },
+  {
+   "src": 4,
+   "dst": 2,
+   "obs": 1795,
+   "null_mean": 6384.55,
+   "null_sd": 72.26083965308196,
+   "pct": 0.023809523809523808,
+   "excess": 0.28114745753420367
+  },
+  {
+   "src": 12,
+   "dst": 3,
+   "obs": 36,
+   "null_mean": 130.4,
+   "null_sd": 8.210391361913842,
+   "pct": 0.023809523809523808,
+   "excess": 0.2760736196319018
+  },
+  {
+   "src": 9,
+   "dst": 5,
+   "obs": 75,
+   "null_mean": 272.35,
+   "null_sd": 16.374804137036747,
+   "pct": 0.023809523809523808,
+   "excess": 0.2753809436387002
+  },
+  {
+   "src": 5,
+   "dst": 4,
+   "obs": 876,
+   "null_mean": 3248.0,
+   "null_sd": 42.612081311339516,
+   "pct": 0.023809523809523808,
+   "excess": 0.2697044334975369
+  },
+  {
+   "src": 12,
+   "dst": 1,
+   "obs": 55,
+   "null_mean": 210.6,
+   "null_sd": 12.675712374873703,
+   "pct": 0.023809523809523808,
+   "excess": 0.26115859449192785
+  },
+  {
+   "src": 4,
+   "dst": 6,
+   "obs": 955,
+   "null_mean": 3738.3,
+   "null_sd": 54.09942114682053,
+   "pct": 0.023809523809523808,
+   "excess": 0.2554637134526389
+  },
+  {
+   "src": 2,
+   "dst": 4,
+   "obs": 1476,
+   "null_mean": 5843.8,
+   "null_sd": 62.46144073704487,
+   "pct": 0.023809523809523808,
+   "excess": 0.2525753790341901
+  },
+  {
+   "src": 3,
+   "dst": 8,
+   "obs": 113,
+   "null_mean": 465.25,
+   "null_sd": 23.712921194550187,
+   "pct": 0.023809523809523808,
+   "excess": 0.24288017195056422
+  },
+  {
+   "src": 5,
+   "dst": 9,
+   "obs": 45,
+   "null_mean": 190.05,
+   "null_sd": 11.953748586245148,
+   "pct": 0.023809523809523808,
+   "excess": 0.2367797947908445
+  },
+  {
+   "src": 4,
+   "dst": 7,
+   "obs": 445,
+   "null_mean": 2009.4,
+   "null_sd": 36.98136088128152,
+   "pct": 0.023809523809523808,
+   "excess": 0.2214591420324475
+  },
+  {
+   "src": 7,
+   "dst": 4,
+   "obs": 362,
+   "null_mean": 1844.35,
+   "null_sd": 40.56998501614866,
+   "pct": 0.023809523809523808,
+   "excess": 0.19627511047252422
+  },
+  {
+   "src": 8,
+   "dst": 2,
+   "obs": 180,
+   "null_mean": 975.65,
+   "null_sd": 26.733135362612995,
+   "pct": 0.023809523809523808,
+   "excess": 0.18449238968892534
+  },
+  {
+   "src": 1,
+   "dst": 10,
+   "obs": 68,
+   "null_mean": 401.25,
+   "null_sd": 14.374227668039476,
+   "pct": 0.023809523809523808,
+   "excess": 0.16947040498442367
+  },
+  {
+   "src": 8,
+   "dst": 6,
+   "obs": 66,
+   "null_mean": 404.5,
+   "null_sd": 19.89578109205964,
+   "pct": 0.023809523809523808,
+   "excess": 0.1631644004944376
+  },
+  {
+   "src": 2,
+   "dst": 10,
+   "obs": 83,
+   "null_mean": 532.95,
+   "null_sd": 17.539354246049683,
+   "pct": 0.023809523809523808,
+   "excess": 0.15573693592269441
+  },
+  {
+   "src": 6,
+   "dst": 3,
+   "obs": 783,
+   "null_mean": 5794.6,
+   "null_sd": 56.119609106940416,
+   "pct": 0.023809523809523808,
+   "excess": 0.135125806785628
+  },
+  {
+   "src": 8,
+   "dst": 1,
+   "obs": 107,
+   "null_mean": 814.15,
+   "null_sd": 24.858070806289984,
+   "pct": 0.023809523809523808,
+   "excess": 0.13142541300743107
+  },
+  {
+   "src": 3,
+   "dst": 6,
+   "obs": 698,
+   "null_mean": 5510.9,
+   "null_sd": 75.76202353769543,
+   "pct": 0.023809523809523808,
+   "excess": 0.12665807762797365
+  },
+  {
+   "src": 6,
+   "dst": 4,
+   "obs": 363,
+   "null_mean": 3179.05,
+   "null_sd": 35.37241714580504,
+   "pct": 0.023809523809523808,
+   "excess": 0.11418505528381119
+  },
+  {
+   "src": 2,
+   "dst": 8,
+   "obs": 83,
+   "null_mean": 807.15,
+   "null_sd": 19.831593613806174,
+   "pct": 0.023809523809523808,
+   "excess": 0.10283094839868674
+  },
+  {
+   "src": 1,
+   "dst": 8,
+   "obs": 38,
+   "null_mean": 490.75,
+   "null_sd": 21.506119080269617,
+   "pct": 0.023809523809523808,
+   "excess": 0.07743250127356088
+  }
+ ]
+}

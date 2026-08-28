@@ -1,0 +1,75 @@
+{
+ "baseline": {
+  "q": 0.46551391123916147,
+  "nodes": 13801,
+  "edges": 380362,
+  "communities": 12
+ },
+ "ablations": [
+  {
+   "label": "homonym screen",
+   "dropped": 159,
+   "nodes": 13727,
+   "edges": 380298,
+   "q": 0.4630111517804878,
+   "communities": 11,
+   "ari": 0.7101857184435729,
+   "nmi": 0.7608989310985088,
+   "min_survival": 0.6829549826856484,
+   "min_survival_size": 2599,
+   "all_survive_50": true
+  },
+  {
+   "label": "keyword-only",
+   "dropped": 1055,
+   "nodes": 12931,
+   "edges": 363737,
+   "q": 0.45820254689217843,
+   "communities": 10,
+   "ari": 0.6211575275782603,
+   "nmi": 0.7070723228616825,
+   "min_survival": 0.314410480349345,
+   "min_survival_size": 229,
+   "all_survive_50": false
+  },
+  {
+   "label": "no reference list",
+   "dropped": 1679,
+   "nodes": 13453,
+   "edges": 378487,
+   "q": 0.4639924044145411,
+   "communities": 10,
+   "ari": 0.6788826671093925,
+   "nmi": 0.7564591169010083,
+   "min_survival": 0.4279475982532751,
+   "min_survival_size": 229,
+   "all_survive_50": false
+  },
+  {
+   "label": "non-refereed",
+   "dropped": 1305,
+   "nodes": 13245,
+   "edges": 374925,
+   "q": 0.4649126544937349,
+   "communities": 13,
+   "ari": 0.7875849844253553,
+   "nmi": 0.8150170187022072,
+   "min_survival": 0.44541484716157204,
+   "min_survival_size": 229,
+   "all_survive_50": false
+  },
+  {
+   "label": "keyword-only + homonym",
+   "dropped": 1198,
+   "nodes": 12866,
+   "edges": 363682,
+   "q": 0.4586429523247877,
+   "communities": 10,
+   "ari": 0.8064031970228857,
+   "nmi": 0.8164707537894791,
+   "min_survival": 0.2925764192139738,
+   "min_survival_size": 229,
+   "all_survive_50": false
+  }
+ ]
+}

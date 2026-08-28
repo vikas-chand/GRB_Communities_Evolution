@@ -1,0 +1,54 @@
+{
+ "static_q": 0.46494592179141125,
+ "static_communities": 10,
+ "sweep": [
+  {
+   "layer_years": 1,
+   "L": 54,
+   "q_temporal": 0.4290618445950298,
+   "omega_temporal": 7816.488882357265,
+   "omega_static": 6115.45099187468,
+   "omega_ratio": 1.278154120234579,
+   "n_communities": 13,
+   "nmi_vs_static": 0.575666704326431,
+   "ari_vs_static": 0.4653819185260228,
+   "q_static_of_temporal_partition": 0.4465044829373305
+  },
+  {
+   "layer_years": 2,
+   "L": 27,
+   "q_temporal": 0.429585965900581,
+   "omega_temporal": 7666.816166654441,
+   "omega_static": 6115.45099187468,
+   "omega_ratio": 1.253679602181587,
+   "n_communities": 11,
+   "nmi_vs_static": 0.555139233649823,
+   "ari_vs_static": 0.4227421043163894,
+   "q_static_of_temporal_partition": 0.4460026351835288
+  },
+  {
+   "layer_years": 5,
+   "L": 11,
+   "q_temporal": 0.43274879826359847,
+   "omega_temporal": 7316.964499816783,
+   "omega_static": 6115.45099187468,
+   "omega_ratio": 1.1964717744510585,
+   "n_communities": 13,
+   "nmi_vs_static": 0.644291007333397,
+   "ari_vs_static": 0.5681823079137465,
+   "q_static_of_temporal_partition": 0.45073549155980336
+  },
+  {
+   "layer_years": 10,
+   "L": 6,
+   "q_temporal": 0.43963323096177714,
+   "omega_temporal": 7485.157895508171,
+   "omega_static": 6115.45099187468,
+   "omega_ratio": 1.2239747984986484,
+   "n_communities": 13,
+   "nmi_vs_static": 0.5954328162228688,
+   "ari_vs_static": 0.48620433353147485,
+   "q_static_of_temporal_partition": 0.45414950933103654
+  }
+ ]
+}

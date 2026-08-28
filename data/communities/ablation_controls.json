@@ -1,0 +1,113 @@
+{
+ "baseline": {
+  "q": 0.46447911241614476,
+  "nodes": 13801,
+  "communities": 15,
+  "total_groups": 66,
+  "covered": 13631
+ },
+ "R": 20,
+ "K": 3,
+ "rows": [
+  {
+   "label": "no reference list",
+   "removed": 1679,
+   "in_graph": 339,
+   "delta_V": 348,
+   "q": 0.4626926912119497,
+   "communities": 14,
+   "ari": 0.9167452606836176,
+   "nmi": 0.9171467736849042,
+   "shared": 13453,
+   "control_ari": [
+    0.8703502714441874,
+    0.8648698072080017,
+    0.7667964770149719
+   ],
+   "control_mean": 0.8340055185557204,
+   "control_sd": 0.04757660714174957,
+   "z": 1.7390845438259765,
+   "verdict": "indistinguishable from random deletion"
+  },
+  {
+   "label": "not refereed",
+   "removed": 1305,
+   "in_graph": 550,
+   "delta_V": 556,
+   "q": 0.4624562814152031,
+   "communities": 15,
+   "ari": 0.9112770478927067,
+   "nmi": 0.9138194524803875,
+   "shared": 13245,
+   "control_ari": [
+    0.8217707861448125,
+    0.9142879156639301,
+    0.8604607759825341
+   ],
+   "control_mean": 0.8655064925970922,
+   "control_sd": 0.03793810095168283,
+   "z": 1.2064535163187764,
+   "verdict": "indistinguishable from random deletion"
+  },
+  {
+   "label": "keyword-only",
+   "removed": 1055,
+   "in_graph": 838,
+   "delta_V": 870,
+   "q": 0.4557169354308093,
+   "communities": 13,
+   "ari": 0.8405073814121897,
+   "nmi": 0.8607810097621235,
+   "shared": 12931,
+   "control_ari": [
+    0.8327806690695665,
+    0.924948248213334,
+    0.8278056410235971
+   ],
+   "control_mean": 0.8618448527688325,
+   "control_sd": 0.0446670394025497,
+   "z": -0.4777005962796087,
+   "verdict": "indistinguishable from random deletion"
+  },
+  {
+   "label": "homonym",
+   "removed": 159,
+   "in_graph": 61,
+   "delta_V": 74,
+   "q": 0.463290204214171,
+   "communities": 15,
+   "ari": 0.8288810856696479,
+   "nmi": 0.8688391498374768,
+   "shared": 13727,
+   "control_ari": [
+    0.8301072392002513,
+    0.907764546733826,
+    0.7667760954183744
+   ],
+   "control_mean": 0.834882627117484,
+   "control_sd": 0.05765725799008252,
+   "z": -0.10408995600984625,
+   "verdict": "indistinguishable from random deletion"
+  },
+  {
+   "label": "keyword-only + homonym",
+   "removed": 1198,
+   "in_graph": 892,
+   "delta_V": 935,
+   "q": 0.45695965640629416,
+   "communities": 14,
+   "ari": 0.8043995781155069,
+   "nmi": 0.847924591722066,
+   "shared": 12866,
+   "control_ari": [
+    0.7984757168834058,
+    0.8240099934701149,
+    0.8305053917399785
+   ],
+   "control_mean": 0.817663700697833,
+   "control_sd": 0.013824654108224655,
+   "z": -0.9594542097393193,
+   "verdict": "indistinguishable from random deletion"
+  }
+ ]
+}

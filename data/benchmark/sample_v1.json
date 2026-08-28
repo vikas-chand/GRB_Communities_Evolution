@@ -1,0 +1,1082 @@
+[
+ {
+  "id": "assu_pre-1997_000",
+  "bibcode": "1995NCimC..18..629A",
+  "entity_type": "assumptions",
+  "era": "pre-1997",
+  "text": "LVD sensitivity is adequate to detect neutrinos from Galactic supernovae",
+  "title": "The LVD experiment at Gran Sasso.",
+  "abstract": "The Large-Volume Detector (LVD) in the Gran Sasso underground Laboratory is a multipurpose detector consisting of a large volume of liquid scintillator interleaved with limited streamer tubes. The authors discuss some results on cosmic neutrinos and cosmic-ray muons obtained with the first of the five towers of LVD (operational since June 1992) and part of the second tower (operational since June 1994). The results of the search for supernovae neutrinos show that LVD is a neutrino observatory able to detect neutrinos of different flavours from gravitational stellar collapses in all our Galaxy, over a wide range of burst durations. Indeed, the carbon-based liquid-scintillator target gives a unique possibility to directly detect neutral- and charged-currents neutrino interactions with a very good signature. This characteristic of LVD allows the authors to make an indirect estimate of the neutrino rest mass and of neutrino oscillations from supernovae in our Galaxy. No evidence for burst candidates has been found in the data recorded from June 1992 to March 1995. The authors present the results of a time coincidence analysis between low-energy signals, eventually due to neutrinos of different flavours, and \u03b3-ray bursts (GRBs) detected by the BATSE experiment. This search covers the period from June 1993 to March 1995, during which 41 GRBs have been selected from the BATSE data. Since no excess of events in LVD has been found, upper limits on the neutrino fluxes are reported for (v<SUB>e</SUB>, p), and for neutral- and charged-currents neutrino interactions of different flavours with the C-nuclei of the scintillator. The muon intensity as a function of slant depth is presented."
+ },
+ {
+  "id": "assu_pre-1997_001",
+  "bibcode": "1996ApJ...468..214T",
+  "entity_type": "assumptions",
+  "era": "pre-1997",
+  "text": "Angular position errors are correctly characterized in the BATSE 3B catalog",
+  "title": "The Angular Power Spectrum of BATSE 3B Gamma-Ray Bursts",
+  "abstract": "We compute the angular power spectrum C_l_ from the BATSE 3B catalog of 1122 gamma-ray bursts and find no evidence for clustering on any scale. These constraints bridge the entire range from small scales (which probe source clustering and burst repetition) to the largest scales (which constrain possible anisotropies from the Galactic halo or from nearby cosmological large-scale structures). We develop an analysis technique that takes the angular position errors into account. For specific clustering or repetition models, strong upper limits can be obtained down to scales l ~ 30, corresponding to a couple of degrees on the sky. The minimum-variance burst weighting that we employ is visualized graphically as an all-sky map in which each burst is smeared out by an amount corresponding to its position uncertainty. We also present separate bandpass-filtered sky maps for the quadrupole term and for the multipole ranges l = 3-10 and l = 11-30, so that the fluctuations on different angular scales can be inspected separately for visual features such as localized \"hot spots\" or structures aligned with the Galactic plane. These filtered maps reveal no apparent deviations from isotropy."
+ },
+ {
+  "id": "assu_pre-1997_002",
+  "bibcode": "1995Ap&SS.231...57M",
+  "entity_type": "assumptions",
+  "era": "pre-1997",
+  "text": "SGR persistent X-ray emission can distinguish between accretion-powered and spin-powered models",
+  "title": "ASCA Observations of Two SGRs: SGR 1806-20 and SGR 0526-66",
+  "abstract": "ASCA has observed two Soft Gamma-ray burst Repeaters (SGRs) among three known. This is a short report of the two SGRs, 1806\u201320 and 0526\u201366(N49). The observed X-ray characteristics favor a spin-powered system for SGR1806-20 and no ASCA detection of the hard X-ray component from SGR0526\u201366 suggests a very soft spectrum of the ROSAT HRI X-ray point source."
+ },
+ {
+  "id": "assu_pre-1997_003",
+  "bibcode": "1995Ap&SS.231...57M",
+  "entity_type": "assumptions",
+  "era": "pre-1997",
+  "text": "Non-detection of hard X-ray component implies intrinsically soft spectrum rather than absorption",
+  "title": "ASCA Observations of Two SGRs: SGR 1806-20 and SGR 0526-66",
+  "abstract": "ASCA has observed two Soft Gamma-ray burst Repeaters (SGRs) among three known. This is a short report of the two SGRs, 1806\u201320 and 0526\u201366(N49). The observed X-ray characteristics favor a spin-powered system for SGR1806-20 and no ASCA detection of the hard X-ray component from SGR0526\u201366 suggests a very soft spectrum of the ROSAT HRI X-ray point source."
+ },
+ {
+  "id": "assu_pre-1997_004",
+  "bibcode": "1995ApJ...453...25F",
+  "entity_type": "assumptions",
+  "era": "pre-1997",
+  "text": "GRBs are at cosmological distances based on isotropic BATSE distribution",
+  "title": "Determination of Distance from Time Dilation of Cosmological Gamma-Ray Bursts",
+  "abstract": "The isotropic distribution of gamma-ray bursts (GRBs) as observed with the Burst and Transient Source Experiment (BATSE) strongly suggests that the bursts are at cosmological distances. At such distances, the expansion of the universe should redshift the spectra and stretch the temporal structure. Indeed, such time dilation has been observed through a variety of analyses and over all observed timescales in gamma-ray bursts. We relate the observed peak intensities, spectral shapes, and time dilation to absolute distance. We include the uncertainties in our knowledge of the intrinsic spectrum and correct for the coupling between the spectral shape and the temporal structure. Assuming a q<SUB>0</SUB> = \u00bd cosmology, the reported time dilation between the dimmest BATSE bursts and the bright BATSE bursts (a factor of \u223c2) requires a standard candle luminosity of \u223c10<SUP>52</SUP> ergs<SUP>-1</SUP>, which translates into a redshift of &gt;6 for the dimmest BATSE bursts rather than a redshift of 1 or 2, as previously reported. An alternative method to determine the distance to cosmological GRBs is to use the log N-log P distribution. The large luminosity and distance determined from the time dilation is inconsistent with the observed log N-log P distribution (which requires a luminosity of 4.6 \u00d7 10<SUP>50</SUP> ergs s<SUP>-1</SUP> and z \u223c0.8) unless there is very strong evolution. Cosmologies with q<SUB>0</SUB> \u2260 \u00bd give similar results. The implied distance for the dimmest bursts is beyond where galaxies are thought to form. If true, the gamma-ray bursts would be orphans: no known objects would have the same distance scale. We conclude that either a large fraction (65%) of the observed time dilation between the BATSE bright and dimmest bursts is intrinsic to the bursts or that there are strong evolutionary effects in the log N-log P distribution and that it is only a coincidence that log N-log P shows a -3/2 power law at high intensities."
+ },
+ {
+  "id": "assu_1997-2008_005",
+  "bibcode": "2006NCimB.121.1595T",
+  "entity_type": "assumptions",
+  "era": "1997-2008",
+  "text": "H.E.S.S. can slew quickly enough to observe GRB afterglows at TeV energies",
+  "title": "GRB observations with HESS",
+  "abstract": "H.E.S.S. (High Energy Stereoscopic System), which is designed to detect TeV gamma-rays, is a system of four Imaging Atmospheric Cherenkov Telescopes situated in Namibia. The system has been shown to be very successful in detecting and observing galactic and extra-galactic TeV sources. In order to explore the highest energy end of GRB spectra, a GRB observing program has been established in the H.E.S.S. collaboration. Here we introduce our GRB observing program and report on its current status."
+ },
+ {
+  "id": "assu_1997-2008_006",
+  "bibcode": "2005ApJ...634..509T",
+  "entity_type": "assumptions",
+  "era": "1997-2008",
+  "text": "Two-dimensional atmospheric models adequately capture the relevant atmospheric processes",
+  "title": "Gamma-Ray Bursts and the Earth: Exploration of Atmospheric, Biological, Climatic, and Biogeochemical Effects",
+  "abstract": "Gamma-ray bursts (GRBs) are likely to have made a number of significant impacts on the Earth during the last billion years. The gamma radiation from a burst within a few kiloparsecs would quickly deplete much of the Earth's protective ozone layer, allowing an increase in solar UVB radiation reaching the surface. This radiation is harmful to life, damaging DNA and causing sunburn. In addition, NO<SUB>2</SUB> produced in the atmosphere would cause a decrease in visible sunlight reaching the surface and could cause global cooling. Nitric acid rain could stress portions of the biosphere, but the increased nitrate deposition could be helpful to land plants. We have used a two-dimensional atmospheric model to investigate the effects on the Earth's atmosphere of GRBs delivering a range of fluences, at various latitudes, at the equinoxes and solstices, and at different times of day. We have estimated DNA damage levels caused by increased solar UVB radiation, reduction in solar visible light due to NO<SUB>2</SUB> opacity, and deposition of nitrates through rainout of HNO<SUB>3</SUB>. For the ``typical'' nearest burst in the last billion years, we find globally averaged ozone depletion up to 38%. Localized depletion reaches as much as 74%. Significant global depletion (at least 10%) persists up to about 7 yr after the burst. Our results depend strongly on time of year and latitude over which the burst occurs. The impact scales with the total fluence of the GRB at the Earth but is insensitive to the time of day of the burst and its duration (1-1000 s). We find DNA damage of up to 16 times the normal annual global average, well above lethal levels for simple life forms such as phytoplankton. The greatest damage occurs at mid- to low latitudes. We find reductions in visible sunlight of a few percent, primarily in the polar regions. Nitrate deposition similar to or slightly greater than that currently caused by lightning is also observed, lasting several years. We discuss how these results support the hypothesis that the Late Ordovician mass extinction may have been initiated by a GRB."
+ },
+ {
+  "id": "assu_1997-2008_007",
+  "bibcode": "2008MNRAS.384.1129S",
+  "entity_type": "assumptions",
+  "era": "1997-2008",
+  "text": "Relativistic outflow consists of discrete shells with different Lorentz factors",
+  "title": "Scattered emission from a relativistic outflow and its application to gamma-ray bursts",
+  "abstract": "We investigate a scenario of photon scattering by electrons within a relativistic outflow. The outflow is composed of discrete shells with different speeds. One shell emits radiation for a short duration. Some of this radiation is scattered by the shell(s) behind. We calculate in a simple two-shell model the observed scattered flux density as a function of the observed primary flux density, the normalized arrival time delay between the two emission components, the Lorentz factor ratio of the two shells and the scattering shell's optical depth. Thomson scattering in a cold shell and inverse Compton scattering in a hot shell are both considered. The results of our calculations are applied to the gamma-ray bursts and the afterglows. We find that the scattered flux from a cold slower shell is small and likely to be detected only for those bursts with very weak afterglows. A hot scattering shell could give rise to a scattered emission as bright as the X-ray shallow decay component detected in many bursts, on a condition that the isotropically equivalent total energy carried by the hot electrons is large, ~10<SUP>52</SUP>-10<SUP>56</SUP> erg. The scattered emission from a faster shell could appear as a late short \u03b3-ray/MeV flash or become part of the prompt emission depending on the delay of the ejection of the shell."
+ },
+ {
+  "id": "assu_1997-2008_008",
+  "bibcode": "2002NewA....7..197R",
+  "entity_type": "assumptions",
+  "era": "1997-2008",
+  "text": "Optical thickness and various timescales/radii control the observable phenomenology",
+  "title": "Beam models for gamma-ray bursts sources: outflow structure, kinematics and emission mechanisms",
+  "abstract": "The variety of \u03b3-ray burst phenomenology could be largely attributable to differences in the opening angle of an isotropic outflow or to a standard type of event viewed from different orientations. Motivated by this currently popular idea, we study the effects of varying the energy per unit solid angle in the unsteady expelled outflow by an increase either in the bulk Lorentz factor or in the baryon loading. We apply these models to interpret the observed correlations between variability, luminosity and spectral peak energy and find that while the latter scenario fails to provide a good description, bursts produced by collisions between similar mass shells but with increasingly large Lorentz factors are both more variable and have larger peak spectral energies. We present detailed internal shock calculations confirming this interpretation and discuss the roles various timescales, radii and the optical thickness of the wind play in determining this wide range of behaviors. Finally, we discuss the variety of scenarios in which large variations of the source expansion velocity are naturally expected."
+ },
+ {
+  "id": "assu_1997-2008_009",
+  "bibcode": "2006JCAP...09..013F",
+  "entity_type": "assumptions",
+  "era": "1997-2008",
+  "text": "The radio, UV/optical, and X-ray afterglows can be separated as independent components",
+  "title": "The interpretation and implication of the afterglow of GRB 060218",
+  "abstract": "The nearby GRB 060216/SN 2006aj was an extremely long, weak and very soft GRB. It was peculiar in many aspects. We show here that the x-ray, ultraviolet/optical and radio afterglows of GRB 060218 have to be attributed to different physical processes arising from different emission regions. From the several components in this burst's afterglow only the radio afterglow can be interpreted in terms of the common external shock model. We infer from the radio that the blast wave's kinetic energy was ~10<SUP>50</SUP> erg and the circumburst matter had a constant rather than a wind profile. The lack of a 'jet break' up to 22 days implies that the outflow was wide, \u03b8<SUB>j</SUB>&gt;1. Even though the late x-ray afterglow decays normally, it cannot result from an external shock because of its very steep spectrum. Furthermore, the implied kinetic energy would have produced far too much radio. We suggest that this x-ray afterglow could be attributed to a continued activity of the central engine that within the collapsar scenario could arise from fall-back accretion. 'Central engine afterglow' may be common in under-luminous GRBs where the kinetic energy of the blast wave is small and the external shock does not dominate over this component. Such under-luminous GRBs might be very common but they are rarely recorded because they can be detected only from short distances."
+ },
+ {
+  "id": "assu_2009-2017_010",
+  "bibcode": "2013JCAP...06..030C",
+  "entity_type": "assumptions",
+  "era": "2009-2017",
+  "text": "IceCube PeV events are astrophysical in origin (not atmospheric)",
+  "title": "On the origin of IceCube's PeV neutrinos",
+  "abstract": "The IceCube collaboration has recently reported the observation of two events with energies in excess of 1 PeV. While an atmospheric origin of these events cannot be ruled out at this time, this pair of showers may potentially represent the first observation of high-energy astrophysical neutrinos. In this paper, we argue that if these events are neutrino-induced, then the neutrinos are very likely to have been produced via photo-meson interactions taking place in the same class of astrophysical objects that are responsible for the acceleration of the ~ 10<SUP>17</SUP> eV cosmic ray spectrum. Among the proposed sources of such cosmic rays, gamma-ray bursts stand out as particularly capable of generating PeV neutrinos at the level implied by IceCube's two events. In contrast, the radiation fields in typical active galactic nuclei models are likely dominated by lower energy (UV) photons, and thus feature higher energy thresholds for pion production, leading to neutrino spectra which peak at EeV rather than PeV energies (models with significant densities of x-ray emission, however, could evade this problem). Cosmogenic neutrinos generated from the propagation of ultra-high energy cosmic rays similarly peak at energies that are much higher than those of the events reported by IceCube."
+ },
+ {
+  "id": "assu_2009-2017_011",
+  "bibcode": "2014MNRAS.444.1054G",
+  "entity_type": "assumptions",
+  "era": "2009-2017",
+  "text": "Different galaxy morphological types follow distinct chemical evolution tracks due to their star formation histories",
+  "title": "Chemical evolution models: GRB host identification and cosmic dust predictions",
+  "abstract": "The nature of some GRB host galaxies has been investigated by means of chemical evolution models of galaxies of different morphological types following the evolution of the abundances of H, He, C, N, O, \u03b1-elements, Ni, Fe, Zn, and including also the evolution of dust. By comparing predictions with abundance data, we were able to constrain nature and age of GRB hosts. We also computed a theoretical cosmic dust rate, including stellar dust production, accretion and destruction, under the hypotheses of pure luminosity evolution and strong number density evolution of galaxies. We suggest that one of the three GRB hosts is a massive protospheroid caught during its formation, while for the other two the situation is more uncertain, although one could perhaps be a spheroid and the other a spiral galaxy. We estimated the chemical ages of the host galaxies which vary from 15 to 320 Myr. Concerning the cosmic effective dust production rate in a unitary volume of the Universe, our results show that in the case of pure luminosity evolution there is a first peak between redshift z = 8 and 9 and another at z \u223c 5, whereas in the case of strong number density evolution, it increases slightly from z = 10 to z \u223c 2 and then it decreases down to z = 0. Finally, we found that the total cosmic dust mass density at the present time is \u03a9<SUB>dust</SUB> \u223c 3.5 \u00d7 10<SUP>-5</SUP> in the case of pure luminosity evolution, and \u03a9<SUB>dust</SUB> \u223c 7 \u00d7 10<SUP>-5</SUP> in the case of number density evolution."
+ },
+ {
+  "id": "assu_2009-2017_012",
+  "bibcode": "2014AJ....148...42M",
+  "entity_type": "assumptions",
+  "era": "2009-2017",
+  "text": "The smooth polarization angle rotation of more than 300 degrees is associated with a large-scale ordered helical magnetic field structure in the blazar jet",
+  "title": "The Outburst of the Blazar S4 0954+658 in 2011 March-April",
+  "abstract": "We present the results of optical (R-band) photometric and polarimetric monitoring and Very Long Baseline Array imaging of the blazar S4 0954+658, along with Fermi \u03b3-ray data during a multi-waveband outburst in 2011 March-April. After a faint state with a brightness level R ~ 17.6 mag registered in the first half of 2011 January, the optical brightness of the source started to rise and reached ~14.8 mag during the middle of March, showing flare-like behavior. The most spectacular case of intranight variability was observed during the night of 2011 March 9, when the blazar brightened by ~0.7 mag within 7 hr. During the rise of the flux, the position angle of the optical polarization rotated smoothly over more than 300\u00b0. At the same time, within 1\u03c3 uncertainty, a new superluminal knot appeared with an apparent speed of 19.0 \u00b1 0.3c. We have very strong evidence that this knot is associated with the multi-waveband outburst in 2011 March-April. We also analyze the multi-frequency behavior of S4 0954+658 during a number of minor outbursts from 2008 August to 2012 April. We find some evidence of connections between at least two additional superluminal ejecta and near-simultaneous optical flares."
+ },
+ {
+  "id": "assu_2009-2017_013",
+  "bibcode": "2015PhPro..74..191A",
+  "entity_type": "assumptions",
+  "era": "2009-2017",
+  "text": "High apogee orbit minimizes background and provides long uninterrupted observations",
+  "title": "The Prototype of GAMMA-400 Apparatus",
+  "abstract": "Scientific project GAMMA-400 (Gamma-Astronomy Multifunction Modules Apparatus) relates to the new generation of space observatories for investigation of cosmic \u03b3-emission in the energy band from \u223c20 MeV up to several TeV, electron/positron fluxes from \u223c1 GeV up to \u223c10 TeV and cosmic-ray nuclei fluxes with energies up to \u223c10<SUP>15</SUP> eV by means of GAMMA-400 gamma-telescope represents the core of the scientific complex. The investigation of gamma ray bursts in the energy band of 10 keV-15 MeV are possible too by means of KONUS-FG apparatus included in the complex. For \u03b3-rays in the energy region from 10 to 100 GeV expected energy resolution changes from \u223c3% to \u223c1% and angular resolution from \u223c0.1% to \u223c 0.01% respectively, \u03b3/protons rejection factor is \u223c5\u00b710<SUP>5</SUP>. The GAMMA-400 satellite will be launched at the beginning of the next decade on the high apogee orbit with following initial parameters: apogee altitude \u223c300000 km, perigee altitude \u223c500 km, rotation period \u223c7 days, inclination to the equator plane 51.4\u00b0. The active functioning interval will be 7-10 years. The scientific complex will have next main technical parameters: total weight \u223c4100 kg, power consumption \u223c2000 W, information quote 100 GByte/day. During the project development, the prototype of apparatus was created for working-off of the main apparatus construction units in laboratory conditions. The main distinctive features of the prototype are presented."
+ },
+ {
+  "id": "assu_2009-2017_014",
+  "bibcode": "2017MNRAS.464L...6K",
+  "entity_type": "assumptions",
+  "era": "2009-2017",
+  "text": "Convection transports nuclear burning ashes (heavy elements) upward to the photosphere",
+  "title": "Detection of burning ashes from thermonuclear X-ray bursts",
+  "abstract": "When neutron stars (NS) accrete gas from low-mass binary companions, explosive nuclear burning reactions in the NS envelope fuse hydrogen and helium into heavier elements. The resulting thermonuclear (type-I) X-ray bursts produce energy spectra that are fit well with black bodies, but a significant number of burst observations show deviations from Planck spectra. Here we present our analysis of RXTE/PCA observations of X-ray bursts from the NS low-mass X-ray binary HETE J1900.1-2455. We have discovered that the non-Planckian spectra are caused by photoionization edges. The anticorrelation between the strength of the edges and the colour temperature suggests that the edges are produced by the nuclear burning ashes that have been transported upwards by convection and become exposed at the photosphere. The atmosphere model fits show that occasionally the photosphere can consist entirely of metals, and that the peculiar changes in blackbody temperature and radius can be attributed to the emergence and disappearance of metals in the photosphere. As the metals are detected already in the Eddington-limited phase, it is possible that a radiatively driven wind ejects some of the burning ashes into the interstellar space."
+ },
+ {
+  "id": "assu_2018-2026_015",
+  "bibcode": "2023A&A...678A..30H",
+  "entity_type": "assumptions",
+  "era": "2018-2026",
+  "text": "GRB sightlines provide representative samples of high-redshift ISM conditions",
+  "title": "Gauging the mass of metals in the gas phase of galaxies from the Local Universe to the Epoch of Reionization",
+  "abstract": "The chemical enrichment of dust and metals are vital processes in constraining the star formation history of the universe. These are important ingredients in the formation and evolution of galaxies overall. Previously, the dust masses of high-redshift star-forming galaxies have been determined through their far-infrared continuum, however, equivalent, and potentially simpler, approaches to determining the metal masses have yet to be explored at z \u2273 2. Here, we present a new method of inferring the metal mass in the interstellar medium (ISM) of galaxies out to z \u2248 8, using the far-infrared [C II]-158 \u03bcm emission line as a proxy. We calibrated the [C II]-to-M<SUB>Z, ISM</SUB> conversion factor based on a benchmark observational sample at z \u2248 0, in addition to gamma-ray burst sightlines at z &gt; 2 and cosmological hydrodynamical simulations of galaxies at z \u2248 0 and z \u2248 6. We found a universal scaling across redshifts of log(M<SUB>Z, ISM</SUB>/M<SUB>\u2299</SUB>) = log(L<SUB>[CII]</SUB>/L<SUB>\u2299</SUB>)-0.45, with a 0.4 dex scatter, which is constant over more than two orders of magnitude in metallicity. We applied this scaling to recent surveys for [C II] in galaxies at z \u2273 2 and compared their inferred M<SUB>Z, ISM</SUB> to their stellar mass (M<SUB>\u22c6</SUB>). In particular, we determined the fraction of metals retained in the gas-phase ISM, M<SUB>Z, ISM</SUB>/M<SUB>\u22c6</SUB>, as a function of redshift and we showed that an increasing fraction of metals reside in the ISM of galaxies at higher redshifts. We place further constraints on the cosmic metal mass density in the ISM (\u03a9<SUB>Z, ISM</SUB>) at z \u2248 5 and \u22487 based on recent estimates of the [C II]-158 \u03bcm luminosity functions at these epochs, yielding \u03a9<SUB>Z,ISM</SUB> = 6.6<SUB>-4.3</SUB><SUP>+13</SUP> \u00d7 10<SUP>-7</SUP> M<SUB>\u2299</SUB> Mpc<SUP>-3</SUP> (z \u2248 5) and \u03a9<SUB>Z,ISM</SUB> = 2.0<SUB>-1.3</SUB><SUP>+3.5</SUP> \u00d7 10<SUP>-7</SUP> M<SUB>\u2299</SUB> Mpc<SUP>-3</SUP> (z \u2248 7), respectively. These results are consistent with the expected metal yields from the integrated star formation history at the respective redshifts. This suggests that the majority of metals produced at z \u2273 5 are confined to the ISM, with strong implications that disfavor efficient outflow processes at these redshifts. Instead, these results suggest that the extended [C II] halos predominantly trace the extended neutral gas reservoirs of high-z galaxies."
+ },
+ {
+  "id": "assu_2018-2026_016",
+  "bibcode": "2020SoPh..295...90W",
+  "entity_type": "assumptions",
+  "era": "2018-2026",
+  "text": "The pointing precision of \u00b14 arcseconds is adequate for accurate localization of STIX X-ray images on the Sun.",
+  "title": "The STIX Aspect System (SAS): The Optical Aspect System of the Spectrometer/Telescope for Imaging X-Rays (STIX) on Solar Orbiter",
+  "abstract": "The Spectrometer/Telescope for Imaging X-rays (STIX) is a remote sensing instrument on Solar Orbiter that observes the hard X-ray bremsstrahlung emission of solar flares. This paper describes the STIX Aspect System (SAS), a subunit that measures the pointing of STIX relative to the Sun with a precision of \u00b14<SUP>\u2033</SUP>, which is required to accurately localize the reconstructed X-ray images on the Sun. The operating principle of the SAS is based on an optical lens that images the Sun onto a plate that is perforated by small apertures arranged in a cross-shaped configuration of four radial arms. The light passing through the apertures of each arm is detected by a photodiode. Variations of spacecraft pointing and of distance from the Sun cause the solar image to move over different apertures, leading to a modulation of the measured lightcurves. These signals are used by ground analysis to calculate the locations of the solar limb, and hence the pointing of the telescope."
+ },
+ {
+  "id": "assu_2018-2026_017",
+  "bibcode": "2023MNRAS.525.2509V",
+  "entity_type": "assumptions",
+  "era": "2018-2026",
+  "text": "IR lead interpreted as Comptonization of external seed photons",
+  "title": "Sub-second infrared variability from the archetypal accreting neutron star 4U 1728-34",
+  "abstract": "We report on the first simultaneous high-time resolution X-ray and infrared (IR) observations of a neutron star low mass X-ray binary in its hard state. We performed $\\approx 2\\,$ h of simultaneous observations of 4U 1728-34 using HAWK-I@VLT, XMM-Newton, and NuSTAR. The source displayed significant X-ray and IR variability down to sub-second time-scales. By measuring the cross-correlation function between the IR and X-ray lightcurves, we discovered a significant correlation with an IR lead of $\\approx 30 \\!-\\! 40\\,$ ms with respect to the X-rays. We analysed the X-ray energy dependence of the lag, finding a marginal increase towards higher energies. Given the sign of the lag, we interpret this as possible evidence of Comptonization from external seed photons. We discuss the origin of the IR seed photons in terms of cyclo-synchrotron radiation from an extended hot flow. Finally, we also observed the IR counterpart of a type-I X-ray burst, with a delay of $\\approx 7.2\\,$ s. Although some additional effects may be at play, by assuming that this lag is due to light travel time between the central object and the companion star, we find that 4U 1728-34 must have an orbital period longer than $3\\,$ h and an inclination higher than 8<SUP>\u25cb</SUP>."
+ },
+ {
+  "id": "assu_2018-2026_018",
+  "bibcode": "2021PASP..133f5001H",
+  "entity_type": "assumptions",
+  "era": "2018-2026",
+  "text": "Automated systems can replace human decision-making for time-critical follow-up",
+  "title": "The Automatic Observation Management System of the GWAC Network. I. System Architecture and Workflow",
+  "abstract": "The Ground Wide Angle Camera Network (GWAC-N) is a network of robotic multi-aperture, multiple field-of-view (FoV) optical telescopes. The main contingent of GWAC-N instruments are provided by the Ground Wide Angle Cameras Array (GWAC-A), and additional, narrower FoV telescopes are utilized to provide fast multi-band follow-up capabilities. The primary scientific goal of the GWAC-N is to search for optical counterparts of gamma-ray bursts that will be detected by the Space Variable Object Monitor (SVOM) satellite. The GWAC-N performs many additional observing tasks including follow-up of Target of Opportunities (ToO) targets and the detection (and monitoring) of variable objects and optical transients. To handle these use cases (and to allow for extensibility), we have designed ten observation modes and 175 observation strategies, including a joint strategy with multiple GWAC-N telescopes for the follow-up of gravitational wave (GW) events. To perform these observations, we develop an Automatic Observation Management (AOM) system capable of performing object management, dynamic scheduling, automatic broadcasting across the network, and image handling. The AOM system combines the individual telescopes which comprise the GWAC-N into a network and smoothly organizes all associated operations, completely meeting the requirements dictated by GWAC-N. With its modular design, the AOM is scientifically and technically viable for other general-purpose telescope networks. As the GWAC-N extends and evolves, the AOM will greatly enhance its discovery potential. In this first paper of a series, we present the scientific goals of the GWAC-N and detail the hardware, software, and workflow developed to achieve these goals. The structure, technical design, implementation, and performance of the AOM system are also described in detail. We conclude with a summary of the current status of the GWAC-N and our near-future development plan."
+ },
+ {
+  "id": "assu_2018-2026_019",
+  "bibcode": "2022ApJ...935..154G",
+  "entity_type": "assumptions",
+  "era": "2018-2026",
+  "text": "Corona geometry is stable enough over the 3-year monitoring to compare bursts.",
+  "title": "Burst-Disk Interaction in 4U 1636-536 as Observed by NICER",
+  "abstract": "We present the detection of 51 thermonuclear X-ray bursts observed from 4U 1636-536 by the Neutron Star Interior Composition Explorer (NICER) over the course of a 3 yr monitoring campaign. We perform time-resolved spectroscopy for 40 of these bursts and show the existence of a strong soft excess in all the burst spectra. The excess emission can be characterized by the use of a scaling factor (the f <SUB> a </SUB> method) to the persistent emission of the source, which is attributed to the increased mass accretion rate onto the neutron star due to Poynting-Robertson drag. The soft excess emission can also be characterized by the use of a model taking into account the reflection of the burst emission off the accretion disk. We also present time-resolved spectral analysis of five X-ray bursts simultaneously observed by NICER and AstroSat, which confirm the main results with even greater precision. Finally, we present evidence for Compton cooling using seven X-ray bursts observed contemporaneously with NuSTAR, by means of a correlated decrease in the hard X-ray lightcurve of 4U 1636-536 as the bursts start."
+ },
+ {
+  "id": "clai_pre-1997_020",
+  "bibcode": "1993PhR...227..143S",
+  "entity_type": "claims",
+  "era": "pre-1997",
+  "text": "Dark halo matter may consist of stellar remnants, most conservatively a population of primordial massive white dwarfs",
+  "title": "Dark halos consist of compact stellar remnants",
+  "abstract": "I present the arguments for dark halo matter to consist of stellar remnants, the most innocuous form of which is a population of primordial massive white dwarfs. Several observational tests are described, including the implications of merging into neutron stars of a subset of the white dwarfs that originally underwent tidal capture in photoclusters to form close binaries. Halo neutron stars are born with considerable momentum to form high velocity radio pulsars and an extended isotropic distribution of gamma ray burst sources."
+ },
+ {
+  "id": "clai_pre-1997_021",
+  "bibcode": "1994ApJ...437L..43F",
+  "entity_type": "claims",
+  "era": "pre-1997",
+  "text": "Time-variable radio emission after the gamma-ray burst is a prediction of all fireball models",
+  "title": "A Search for the Radio Counterpart to the 1994 March 1 Gamma-Ray Burst",
+  "abstract": "We report on the results of a search for the radio counterpart to the bright \u03b3-ray burst of 1994 March 1. Using the Dominion Radio Astrophysical Observatory Synthesis Telescope sensitive, wide-field radio images at 1.4 GHz and 0.4 GHz were made of a region around GRB 940301. A total of 15 separate radio images were obtained at each frequency, sampling a near-continuous range of post-burst timescales between 3 and 15 days, as well as 26, 47, and 99 days. We place an upper limit of 3.5 mJy on a fading/flaring radio counterpart at 1.4 GHz and 55 mJy at 0.4 GHz. Unlike past efforts our counterpart search maintains high sensitivity over two decades of post-burst time durations. Time-variable radio emission after the initial \u03b3-ray burst is a prediction of all fireball models, currently the most popular model for \u03b3-ray bursts. Our observations allow us to put significant constraints on the fireball parameters for cosmological models of \u03b3-ray bursts."
+ },
+ {
+  "id": "clai_pre-1997_022",
+  "bibcode": "1995Ap&SS.231...35Q",
+  "entity_type": "claims",
+  "era": "pre-1997",
+  "text": "Post-1B data are consistent with the repeating model inferred from the 1B data after accounting for lower fraction of bursts with well-determined positions",
+  "title": "Likelihood Analysis of Repeating in the BATSE Catalogue",
+  "abstract": "I describe a new likelihood technique, based on counts-in-cells statistics, that I use to analyze repeating in the BATSE 1B and 2B catalogues. Using the 1B data, I find that repeating is preferred over non-repeating by 4.3:1 odds, with a peak at 5\u20136 repetitions per source. I find that the post-1B data are consistent with the repeating model inferred from the 1B data, after taking into account the lower fraction of bursts with well-determined positions. Combining the two data sets, I find that the odds favoring repeating over non-repeating are almost unaffected at 4:1, with a narrower peak at 5 repetitions per source. I conclude that the data sets are consistent both with each other and with repeating, and that for these data sets the odds favor repeating."
+ },
+ {
+  "id": "clai_pre-1997_023",
+  "bibcode": "1993ApJ...413L.117K",
+  "entity_type": "claims",
+  "era": "pre-1997",
+  "text": "The flux is too large to come from the neutron star directly; it is consistent with an irradiated accretion disk or companion star",
+  "title": "Detection of an Ultraviolet and Visible Counterpart of the NGC 6624 X-Ray Burster",
+  "abstract": "We have detected, in images taken with the HST FOC, the UV and optical counterpart of the X-ray source 4U 1820-30 in the globular cluster NGC 6624. Astrometric measurements place this object 2 sigma from the X-ray position of 4U 1820-30. The source dominates a far-UV FOC image and has the same flux at 1400 A as was seen through the large IUE aperture by Rich et al. (1993). It has a B magnitude of 18.7 but is not detected in V. It is 0.66 arcsec from the center of NGC 6624, a fact that may change the interpretation of the P-average of the 11 minute binary orbit. The flux drops between 1400 and 4300 A at a rate that is nearly as steep as that of a Rayleigh-Jeans curve. The flux is far too large to come from the neutron star directly but could accord with radiation from a heated accretion disk and/or the heated side of the companion star."
+ },
+ {
+  "id": "clai_pre-1997_024",
+  "bibcode": "1995A&A...302..121G",
+  "entity_type": "claims",
+  "era": "pre-1997",
+  "text": "COMPTEL imaging and BATSE/Ulysses triangulation constrain the source location of GB 920622 to a ring sector 1.1 arcmin wide and 2 degrees long",
+  "title": "The gamma-ray burst GB 920622.",
+  "abstract": "We have analyzed the Ulysses, BATSE, and COMPTEL spectral data from the \u03b3-ray burst of June 22, 1992 (GB 920622). COMPTEL data reveal a hard to soft evolution within the first pulse of the burst, while the mean hardness ratios of the three pulses are the same. Unlike the single instrument spectra, the composite spectrum of GB 920622 averaged over the total burst duration ranging from 20keV up to 10MeV cannot be fit by a single power law. Instead, the spectrum shows continuous curvature across the full energy range. COMPTEL imaging and BATSE/Ulysses triangulation constrain the source location of GB 920622 to a ring sector 1.1 arcmin wide and 2 degrees long. This area has been searched for quiescent X-ray sources using ROSAT survey data collected about two years before the burst. After the optical identification of the X-ray sources in and near the GRB location we conclude that no quiescent X-ray counterpart candidate for GB 920622 has been found."
+ },
+ {
+  "id": "clai_1997-2008_025",
+  "bibcode": "2007MNRAS.374L..34K",
+  "entity_type": "claims",
+  "era": "1997-2008",
+  "text": "This class would have strong correlation with star formation and occur close to host galaxy",
+  "title": "A new type of long gamma-ray burst",
+  "abstract": "We consider gamma-ray bursts (GRBs) produced by the merger of a massive white dwarf with a neutron star. We show that these are likely to produce long-duration GRBs, in some cases definitely without an accompanying supernova, as observed recently. This class of burst would have a strong correlation with star formation, and occur close to the host galaxy. However, rare members of the class need not be near star-forming regions, and could have any type of host galaxy. Thus a long-duration burst far from any star-forming region would also be a signature of this class. Estimates based on the existence of a known progenitor suggest that our proposed class may be an important contributor to the observed GRB rate."
+ },
+ {
+  "id": "clai_1997-2008_026",
+  "bibcode": "2003ApJ...596.1080V",
+  "entity_type": "claims",
+  "era": "1997-2008",
+  "text": "The outflows in GRBs initially consist of a hot and optically thick mixture of baryons, electron-positron pairs, and photons",
+  "title": "Relativistic Magnetohydrodynamics with Application to Gamma-Ray Burst Outflows. I. Theory and Semianalytic Trans-Alfv\u00e9nic Solutions",
+  "abstract": "We present a general formulation of special relativistic magnetohydrodynamics and derive exact radially self-similar solutions for axisymmetric outflows from strongly magnetized, rotating compact objects. We generalize previous work by including thermal effects and analyze in detail the various forces that guide, accelerate, and collimate the flow. We demonstrate that, under the assumptions of a quasi-steady poloidal magnetic field and of a highly relativistic poloidal velocity, the equations become effectively time independent and the motion can be described as a frozen pulse. We concentrate on trans-Alfv\u00e9nic solutions and consider outflows that are super-Alfv\u00e9nic throughout in the companion paper. Our results are applicable to relativistic jets in gamma-ray burst (GRB) sources, active galactic nuclei, and microquasars, but our discussion focuses on GRBs. We envision the outflows in this case to initially consist of a hot and optically thick mixture of baryons, electron-positron pairs, and photons. We show that the flow is at first accelerated thermally but that the bulk of the acceleration is magnetic, with the asymptotic Lorentz factor corresponding to a rough equipartition between the Poynting and kinetic energy fluxes (i.e., ~50% of the injected total energy is converted into baryonic kinetic energy). The electromagnetic forces also strongly collimate the flow, giving rise to an asymptotically cylindrical structure."
+ },
+ {
+  "id": "clai_1997-2008_027",
+  "bibcode": "1999A&AS..138..607L",
+  "entity_type": "claims",
+  "era": "1997-2008",
+  "text": "The internal-external shock fireball model is the leading theoretical framework for GRBs in 1999.",
+  "title": "Highlights of the Rome Workshop on gamma-ray bursts in the afterglow ERA",
+  "abstract": "I review some of the highlights of the Rome Workshop on Gamma-Ray Bursts, and discuss some of the questions these results pose about the nature and origin of gamma-ray bursts."
+ },
+ {
+  "id": "clai_1997-2008_028",
+  "bibcode": "2001A&A...373..542O",
+  "entity_type": "claims",
+  "era": "1997-2008",
+  "text": "Most classical and recurrent novae emit hard X-rays (in the ROSAT band) in the first months after the outburst",
+  "title": "X-ray emission from classical and recurrent novae observed with ROSAT",
+  "abstract": "We have analysed 350 pointed and serendipitous observations of 108 different classical and recurrent novae in outburst and in quiescence, contained in the ROSAT archive. One aim was to search for super-soft X-ray sources and we found only 3 of them among post-novae. Thus, the super-soft X-ray phase of novae is relatively short lived (up to 10 years) and is observed only for up to 20% of novae. Most classical and recurrent novae instead emit hard X-rays (in the ROSAT band) in the first months after the outburst, with peak X-ray luminosity of a few times 10<SUP>33</SUP> erg s<SUP>-1</SUP>. The emission, which we attribute to shocks in the nova ejecta, lasts at least =~ 2 years and even much longer under special circumstances (like preexisting circumstellar material, or a prolonged wind phase). We also investigated X-ray emission due to the accretion mechanism in quiescent novae. 81 Galactic classical and recurrent novae were observed at quiescence, and only 11 were detected. Some of them are variable in X-rays on time scales of years; the X-ray spectra range from very soft to hard. The average X-ray luminosity is not larger than that of quiescent dwarf novae, even if quiescent novae are at least 10 times more luminous at optical wavelengths. There seems to be a missing boundary layer problem: a possible explanation is that boundary layer radiation in nova systems is emitted almost entirely in the extreme ultraviolet. There is no evidence of a large incidence of magnetic systems, either of enhanced X-ray luminosity in novae observed shortly before or after the outburst."
+ },
+ {
+  "id": "clai_1997-2008_029",
+  "bibcode": "1999A&A...352..543G",
+  "entity_type": "claims",
+  "era": "1997-2008",
+  "text": "Four large optical bursts detected from the transient X-ray burster XTE J2123-058",
+  "title": "Detection of optical bursts from the transient X-ray source XTE J2123-058",
+  "abstract": "We report the detection of four large optical bursts from the transient X-ray burster XTE J2123-058. This is the third case of detection of optical bursts in an X-ray transient during the active phase; the bursts are recorded with high time resolution and signal-to-noise. The total duration of the bursts is about 80 seconds and the amplitudes vary from 0.7 to 1 magnitude. Based on observations made at Laborat\u00f3rio Nacional de Astrof\u00edsica/CNPq, Brazil"
+ },
+ {
+  "id": "clai_2009-2017_030",
+  "bibcode": "2011ApJ...742...31L",
+  "entity_type": "claims",
+  "era": "2009-2017",
+  "text": "Pulse profile is consistent with being stable on timescales of days to decades",
+  "title": "Long-term X-Ray Monitoring of the Young Pulsar PSR B1509-58",
+  "abstract": "It has long been thought that the pulsed X-ray properties of rotation-powered pulsars are stable on long timescales. However, long-term, systematic studies of individual sources have been lacking. Furthermore, dramatic X-ray variability has now been observed from two pulsars having inferred sub-critical dipole magnetic fields. Here we present an analysis of the long-term pulsed X-ray properties of the young, energetic pulsar PSR B1509-58 using data from the Rossi X-ray Timing Explorer. We measured the 2-50 keV pulsed flux for 14.7 yr of X-ray observations and found that it is consistent with being constant on all relevant timescales, and place a 3\u03c3 upper limit on day-to-week variability of &lt;28%. In addition, we searched for magnetar-like X-ray bursts in all observations and found none, which we use to constrain the measurable burst rate to less than one per 750 ks of observations. We also searched for variability in the pulse profile and found that it is consistent with being stable on timescales of days to decades. This supports the hypothesis that X-ray properties of rotation-powered X-ray pulsars can be stable on decade-long timescales. In addition, we extend the existing timing solution by 7.1 yr to a total of 28.4 yr and report updated values of the braking index, n = 2.832 \u00b1 0.003, and the second braking index, m = 17.6 \u00b1 1.9."
+ },
+ {
+  "id": "clai_2009-2017_031",
+  "bibcode": "2017MNRAS.471.1797M",
+  "entity_type": "claims",
+  "era": "2009-2017",
+  "text": "The observed bolometric flux exceeded the Eddington value in 3% of spectra",
+  "title": "Swift observations of V404 Cyg during the 2015 outburst: X-ray outflows from super-Eddington accretion",
+  "abstract": "The black hole (BH) binary V404 Cyg entered the outburst phase in 2015 June after 26 yr of X-ray quiescence, and with its behaviour broke the outburst evolution pattern typical of most BH binaries. We observed the entire outburst with the Swift satellite and performed time-resolved spectroscopy of its most active phase, obtaining over a thousand spectra with exposures from tens to hundreds of seconds. All the spectra can be fitted with an absorbed power-law model, which most of the time required the presence of a partial covering. A blueshifted iron-K\u03b1 line appears in 10 per cent of the spectra together with the signature of high column densities, and about 20 per cent of the spectra seem to show signatures of reflection. None of the spectra showed the unambiguous presence of soft disc-blackbody emission, while the observed bolometric flux exceeded the Eddington value in 3 per cent of the spectra. Our results can be explained assuming that the inner part of the accretion flow is inflated into a slim disc that both hides the innermost (and brightest) regions of the flow, and produces a cold, clumpy, high-density outflow that introduces the high absorption and fast spectral variability observed. We argue that the BH in V404 Cyg might have been accreting erratically or even continuously at Eddington/super-Eddington rates - thus sustaining a surrounding slim disc - while being partly or completely obscured by the inflated disc and its outflow. Hence, the largest flares produced by the source might not be accretion-driven events, but instead the effects of the unveiling of the extremely bright source hidden within the system."
+ },
+ {
+  "id": "clai_2009-2017_032",
+  "bibcode": "2017PhRvL.119r1102F",
+  "entity_type": "claims",
+  "era": "2009-2017",
+  "text": "Joint GW+sGRB observations improve estimates of progenitor distance and inclination angle compared to GRB-only or GW-only observations",
+  "title": "Probing Intrinsic Properties of Short Gamma-Ray Bursts with Gravitational Waves",
+  "abstract": "Progenitors of short gamma-ray bursts are thought to be neutron stars coalescing with their companion black hole or neutron star, which are one of the main gravitational wave sources. We have devised a Bayesian framework for combining gamma-ray burst and gravitational wave information that allows us to probe short gamma-ray burst luminosities. We show that combined short gamma-ray burst and gravitational wave observations not only improve progenitor distance and inclination angle estimates, they also allow the isotropic luminosities of short gamma-ray bursts to be determined without the need for host galaxy or light-curve information. We characterize our approach by simulating 1000 joint short gamma-ray burst and gravitational wave detections by Advanced LIGO and Advanced Virgo. We show that \u223c90 % of the simulations have uncertainties on short gamma-ray burst isotropic luminosity estimates that are within a factor of two of the ideal scenario, where the distance is known exactly. Therefore, isotropic luminosities can be confidently determined for short gamma-ray bursts observed jointly with gravitational waves detected by Advanced LIGO and Advanced Virgo. Planned enhancements to Advanced LIGO will extend its range and likely produce several joint detections of short gamma-ray bursts and gravitational waves. Third-generation gravitational wave detectors will allow for isotropic luminosity estimates for the majority of the short gamma-ray burst population within a redshift of z \u223c1 ."
+ },
+ {
+  "id": "clai_2009-2017_033",
+  "bibcode": "2012Sci...338.1445N",
+  "entity_type": "claims",
+  "era": "2009-2017",
+  "text": "Black holes generate collimated, relativistic jets",
+  "title": "A Universal Scaling for the Energetics of Relativistic Jets from Black Hole Systems",
+  "abstract": "Black holes generate collimated, relativistic jets, which have been observed in gamma-ray bursts (GRBs), microquasars, and at the center of some galaxies [active galactic nuclei (AGN)]. How jet physics scales from stellar black holes in GRBs to the supermassive ones in AGN is still unknown. Here, we show that jets produced by AGN and GRBs exhibit the same correlation between the kinetic power carried by accelerated particles and the gamma-ray luminosity, with AGN and GRBs lying at the low- and high-luminosity ends, respectively, of the correlation. This result implies that the efficiency of energy dissipation in jets produced in black hole systems is similar over 10 orders of magnitude in jet power, establishing a physical analogy between AGN and GRBs."
+ },
+ {
+  "id": "clai_2009-2017_034",
+  "bibcode": "2014MNRAS.442...20H",
+  "entity_type": "claims",
+  "era": "2009-2017",
+  "text": "A varying microphysics parameter \u03b5_e (dependent on external density) in a wind medium can reproduce observed plateau correlations without an efficiency crisis.",
+  "title": "The prompt-early afterglow connection in gamma-ray bursts: implications for the early afterglow physics",
+  "abstract": "The early X-ray afterglow of gamma-ray bursts revealed by Swift carried many surprises. Following an initial steep decay the light curve often exhibits a plateau phase that can last up to several 10<SUP>4</SUP> s, with in addition the presence of flares in 50 per cent of the cases. We focus in this paper on the plateau phase whose origin remains highly debated. We confront several newly discovered correlations between prompt and afterglow quantities (isotropic emitted energy in gamma-rays, luminosity and duration of the plateau) to several models proposed for the origin of plateaus in order to check if they can account for these observed correlations. We first show that the scenario of plateau formation by energy injection into the forward shock leads to an efficiency crisis for the prompt phase and therefore study two possible alternatives: the first one still takes place within the framework of the standard forward shock model but allows for a variation of the microphysics parameters to reduce the radiative efficiency at early times; in the second scenario the early afterglow results from a long-lived reverse shock. Its shape then depends on the distribution of energy as a function of Lorentz factor in the ejecta. In both cases, we first present simple analytical estimates of the plateau luminosity and duration and then compute detailed light curves. In the two considered scenarios we find that plateaus following the observed correlations can be obtained under the condition that specific additional ingredients are included. In the forward shock scenario, the preferred model supposes a wind external medium and a microphysics parameter \u025b<SUB>e</SUB> that first varies as n<SUP>-\u03be</SUP> (n being the external density), with \u03be \u223c 1 to get a flat plateau, before staying constant below a critical density n<SUB>0</SUB>. To produce a plateau in the reverse shock scenario the ejecta must contain a tail of low Lorentz factor with a peak of energy deposition at \u0393 \u2273 10."
+ },
+ {
+  "id": "clai_2018-2026_035",
+  "bibcode": "2026MNRAS.546ag005E",
+  "entity_type": "claims",
+  "era": "2018-2026",
+  "text": "Chaotic debris streams from multiple stripping episodes can collide with a period roughly the same as the orbital period of the star",
+  "title": "Can GRB 250702B be explained as the tidal disruption of a white dwarf by an intermediate mass black hole? Yes",
+  "abstract": "GRB 250702B is a unique astrophysical transient characterised by its nature as a repeating gamma-ray trigger. Its properties include possible periodicity in its gamma-ray light curve, an X-ray counterpart that rose prior to the gamma-ray outbursts and faded quickly, and radio and infrared counterparts. These features are difficult to reconcile with most models of high energy transients but we show that they are compatible with a white dwarf bound to an intermediate mass black hole that is tidally stripped over multiple pericentre passages before being fully disrupted. In this model, accretion onto the black hole powers a mildly relativistic jet that produces the X-rays through internal processes and the infrared and radio counterparts through thermal emission and external shocks respectively but is unable to produce the gamma-ray emission on its own. We find that chaotic debris streams from the multiple stripping episodes can collide with a period roughly the same as the orbital period of the star. These shocks produce X-ray photons that are upscattered by the jet to produce the observed MeV gamma-ray emission. Future analysis of the jet properties will allow us to place firmer constraints on our model."
+ },
+ {
+  "id": "clai_2018-2026_036",
+  "bibcode": "2020MNRAS.495..570G",
+  "entity_type": "claims",
+  "era": "2018-2026",
+  "text": "Intermittent jet systems would appear as X-ray, optical, and radio transients resembling delayed GRB afterglows rather than bright GRBs",
+  "title": "Intermittent hydrodynamic jets in collapsars do not produce GRBs",
+  "abstract": "Strong variability is a common characteristic of the prompt emission of gamma-ray bursts (GRB). This observed variability is widely attributed to an intermittency of the central engine, through formation of strong internal shocks in the GRB-emitting jet expelled by the engine. In this paper, we study numerically the propagation of hydrodynamic jets, injected periodically by a variable engine, through the envelope of a collapsed star. By post-processing the output of 3D numerical simulations, we compute the net radiative efficiency of the outflow. We find that all intermittent jets are subject to heavy baryon contamination that inhibits the emission at and above the photosphere well below detection limits. This is in contrast to continuous jets that, as shown recently, produce a highly variable gamma-ray photospheric emission with high efficiency, owing to the interaction of the jet with the stellar envelope. Our results challenge the variable engine model for hydrodynamic jets, and may impose constraints on the duty cycle of GRB engines. If such systems exist in nature, they are not expected to produce bright gamma-ray emission, but should appear as X-ray, optical, and radio transients that resemble a delayed GRB afterglow signal."
+ },
+ {
+  "id": "clai_2018-2026_037",
+  "bibcode": "2023MNRAS.526.6181S",
+  "entity_type": "claims",
+  "era": "2018-2026",
+  "text": "The Crab pulsar ~33 Hz pulsation was detected by the balloon-borne instrument",
+  "title": "Study of X-ray spectral and timing properties of astronomical sources using low-cost stratospheric balloons",
+  "abstract": "Astronomical objects, such as the Sun, accreting matter around black holes, neutron stars, white dwarfs, etc. are known to emit X-rays and gamma-rays. Some of these sources, such as highly magnetized neutron stars, show periodic pulsations. Even accreting matter around black holes and neutron stars shows timing properties including quasi-periodic oscillations. In this paper, we use the data of low-cost, lightweight, high-altitude (~42 km) small, stratospheric balloon-borne missions of the Indian Centre for Space Physics. We measure the intensity of the secondary cosmic rays, the radiation fluxes, and the spectra of persistent X-ray sources or transient events such as solar flares and gamma-ray bursts, apart from routine weather parameters. In this study, we present the source detection method without an onboard pointing system and the temporal and spectral behaviour of the quiet Sun. We also analyse the data containing Crab in the field of view to find the pulsation of the Crab pulsar. During the analysis of the source detection and spectrum of the solar X-rays, we calculate the detector's background radiation (mainly secondary cosmic rays) using physical assumptions and also take care of the atmospheric absorption effects. Finally, we show the source detection processes for the strong sources such as the Sun, Crab, and Cyg X-1, obtaining the quiet Sun's spectrum. Among the interesting timing properties, we present the result for the Crab pulsar and find the well-known ~33 Hz pulsations whenever our instrument pointed to the Crab."
+ },
+ {
+  "id": "clai_2018-2026_038",
+  "bibcode": "2024ApJ...970L..12G",
+  "entity_type": "claims",
+  "era": "2018-2026",
+  "text": "Time-integrated spectrum from expanding fireball deviates significantly from instantaneous emission and can explain observed broad GRB spectral width",
+  "title": "Investigation of the Gamma-Ray Bursts Prompt Emission Under the Relativistically Expanding Fireball Scenario",
+  "abstract": "The spectral properties of a composite thermal emission arising from a relativistic expanding fireball can be remarkably different from the Planck function. We perform a detailed study of such a system to explore the features of the prompt emission spectra from gamma-ray bursts (GRBs). In particular, we address the effect of optical opacity and its dependence on the density profile between the expanding gas and the observer. This results in a nontrivial shape of the photospheric radius, which in combination with the constraints derived from the equal arrival time can result in a mild broader spectrum compared to the Planck function. Further, we show the time-integrated spectrum from the expanding fireball deviates significantly from the instantaneous emission and is capable of explaining the observed broad spectral width of GRBs. We also show that the demand of the spectral width of the order of unity, obtained through statistical analysis, is consistent with the scenario where the dynamics of the expanding fireball are governed predominantly by the energy content of the matter."
+ },
+ {
+  "id": "clai_2018-2026_039",
+  "bibcode": "2019PASJ...71...10T",
+  "entity_type": "claims",
+  "era": "2018-2026",
+  "text": "AKARI-FIS-based intrinsic hydrogen column densities at GRB sources are usually higher or similar compared to values from low-resolution data",
+  "title": "Galactic foreground of gamma-ray bursts from AKARI Far-Infrared Surveyor",
+  "abstract": "We demonstrate the use of the AKARI FIS All-Sky Survey maps in the study of extragalactic objects. A quick but reliable estimate of the Galactic foreground is essential for extragalactic research in general. We explored the galactic foreground and calculated hydrogen column densities using AKARI FIS and other recent all-sky survey data, and compared our results to former estimates. Our AKARI-FIS-based foreground values were then used toward gamma-ray burst (GRB) sources as input for X-ray afterglow spectrum fitting. From those fits the intrinsic column densities at the GRB sources were derived. The high-angular-resolution AKARI-FIS-based Galactic foreground hydrogen column densities are statistically very similar, but for most of the tested directions somewhat lower than previous estimates based on low-resolution data. This is due to the low filling factor of high-density enhancements in all galactic latitudes. Accordingly, our AKARI-FIS-based new intrinsic hydrogen column densities are usually higher or similar compared to the values calculated based, e.g., on the low-resolution Leiden/Argentine/Bonn survey data and listed in the Leicester database. The variation, however, is typically smaller than the error of the estimate from the fits of the X-ray afterglow spectra. There are a number of directions where the improvement of the foreground estimates resulted in an overestimate of magnitude or higher increment of the derived intrinsic hydrogen column densities. We concluded that most of the GRBs with formerly extremely low intrinsic hydrogen column densities are in fact normal, but we confirmed that GRB050233 is indeed a non-enveloped long GRB."
+ },
+ {
+  "id": "meth_pre-1997_040",
+  "bibcode": "1995NuPhS..38..447H",
+  "entity_type": "methods",
+  "era": "pre-1997",
+  "text": "EGRET high-energy gamma-ray observation",
+  "title": "High Energy Gamma Ray Observations with the EGRET Instrument On the Compton Gamma Ray Observatory",
+  "abstract": "The Energetic Gamma Ray Experiment Telescope (EGRET) on the Compton Gamma Ray Observatory has, since launch in April 1991, observed the entire sky with a exposure of at least 10 <SUP>8</SUP> cm <SUP>2</SUP> s and has detected a wide variety of gamma ray sources in addition to the diffuse galactic gamma-ray emission. The spectra and time variability of these sources, which include AGN, pulsars, gamma ray bursts, and solar flares, are discussed along with the diffuse emission from the galactic plane and molecular clouds."
+ },
+ {
+  "id": "meth_pre-1997_041",
+  "bibcode": "1996MNRAS.279..733P",
+  "entity_type": "methods",
+  "era": "pre-1997",
+  "text": "Conceptual design and ray-tracing simulations of lobster-eye wide-field X-ray telescope",
+  "title": "An X-ray all-sky monitor with extraordinary sensitivity",
+  "abstract": "We set forth a conceptual design for an X-ray all-sky monitor based on lobster-eye wide-field telescopes. This instrument, suitable for a small satellite, would monitor the flux of objects as faint as 2x10^-12 erg cm^-2 s^-1 (0.5-2.4 keV) on a daily basis with a signal-to-noise ratio of 5. Sources would be located to 1-2 arcmin. Detailed simulations show that cross-talk from the cruciform lobster images would not significantly compromise performance. At this sensitivity limit, we could monitor not just X-ray binaries, but also fainter classes of X-ray sources. Hundreds of active galactic nuclei, coronal sources and cataclysmic variables could be tracked on a daily basis. Large numbers of fast transients should be visible, including gamma-ray bursts and the soft X-ray breakout of nearby Type II supernovae."
+ },
+ {
+  "id": "meth_pre-1997_042",
+  "bibcode": "1996ApJ...461..320N",
+  "entity_type": "methods",
+  "era": "pre-1997",
+  "text": "Fully general relativistic equilibrium configuration calculations for BH-neutron torus systems",
+  "title": "Runaway Instability of Black Hole--Neutron Torus Systems",
+  "abstract": "We have obtained fully general relativistic equilibrium configurations of black hole-neutron torus systems and have analyzed their stability. Although several authors have discussed whether such systems can be sources of gamma-ray bursts, their arguments have been based on the qualitative nature of black hole-neutron torus systems because such configurations have not yet been solved. Moreover, since black hole-neutron torus systems are supposed to form after coalescence of binary neutron stars or after collapse of a massive star, a newly formed torus may be in a rather hot state. Therefore we have developed a numerical code that can handle configurations of cold and hot (0.1, 1, and 10 MeV) neutron tori. <P />Recently, polytropic tori around black holes have been shown to suffer a global runaway instability. As for neutron tori, the self-gravitating tori closely orbiting around the black holes with the mass range of 1-3 M<SUB>sun</SUB> are destroyed in a timescale \u0394tT&amp;<SUB>tau;</SUB> \u226a 1 s as a result of this instability. This is a much shorter timescale than the evolutionary timescale that is relevant for the current model of gamma-ray bursts based on the merger of binary neutron stars. This result probably excludes the possibility of neutron tori models for gamma-ray bursts as sources at cosmological distances."
+ },
+ {
+  "id": "meth_pre-1997_043",
+  "bibcode": "1992GeoRL..19...83W",
+  "entity_type": "methods",
+  "era": "pre-1997",
+  "text": "Auroral electron precipitation modeling",
+  "title": "Jovian Bremsstrahlung X rays: A Ulysses prediction",
+  "abstract": "The Jovian aurora is the most powerful planetary aurora in the solar system; to date, however, it has not been possible to establish conclusively which mechanisms are involved in the excitation of the auroral emissions that have been observed at ultraviolet, infrared, and soft X ray wavelengths. Precipitation of Iogenic heavy sulfur and oxygen ions, downward acceleration of electrons along Birkeland currents, and a combination of both of these mechanisms have all been proposed to account for the observed auroral emissions. Modeling results reported here show that precipitating auroral electrons with sufficient energy to be consistent with the Voyager UVS observations will produce bremsstrahlung X rays with sufficient energy and intensity to be detected by the Solar Flare X Ray and Cosmic Ray Burst Instrument (GRB) on board the Ulysses spacecraft The detection of such bremsstrahlung X rays at Jupiter would provide strong evidence for the electron precipitation mechanism, although it would not rule out the possibility of some heavy ion involvement, and would thus make a significant contribution toward solving the mystery of the Jovian aurora."
+ },
+ {
+  "id": "meth_pre-1997_044",
+  "bibcode": "1992BASI...20..231J",
+  "entity_type": "methods",
+  "era": "pre-1997",
+  "text": "CaII K solar flare observations",
+  "title": "Analysis of solar flare in CaII K on 1989 March 13",
+  "abstract": "We report the CaII K observations of a major umbral solar flare of optical class 3B which occurred on 1989 March 13. Correlated optical, microwave, soft X-ray (SXR), sudden ionospheric disturbance observations and the resulting proton enhancements have also been analyzed. The values of magnetic field perpendicular to electron velocity electron energy E and angular size of a great microwave burst (GB) source are estimated as 897 gauss, 1.4 MeV, and 7 arcsec, respectively. Due to the production of long-duration hard X-ray burst and GB, we conclude that the observed flare is very energetic."
+ },
+ {
+  "id": "meth_1997-2008_045",
+  "bibcode": "2007ApJ...654..373E",
+  "entity_type": "methods",
+  "era": "1997-2008",
+  "text": "Generalization of computation to broad range of peak photon energies and durations",
+  "title": "Terrestrial Consequences of Spectral and Temporal Variability in Ionizing Photon Events",
+  "abstract": "Gamma-ray bursts (GRBs) directed at Earth from within a few kiloparsecs may have damaged the biosphere, primarily through changes in atmospheric chemistry that admit greatly increased solar UV. However, GRBs are highly variable in spectrum and duration. Recent observations indicate that short (~0.1 s) burst GRBs, which have harder spectra, may be sufficiently abundant at low redshift that they may offer an additional significant effect. A much longer timescale is associated with shock breakout luminosity observed in the soft X-ray (~10<SUP>3</SUP> s) and UV (~10<SUP>5</SUP> s) emission and radioactive decay gamma-ray line radiation emitted during the light-curve phase of supernovae (~10<SUP>7</SUP> s). Here, we generalize our atmospheric computations to include a broad range of peak photon energies and investigate the effect of burst duration while holding total fluence and other parameters constant. The results can be used to estimate the probable impact of various kinds of ionizing events (such as short GRBs, X-ray flashes, and supernovae) on the Earth's atmosphere. We find that the ultimate intensity of atmospheric effects varies only slightly with burst duration from 10<SUP>-1</SUP> to 10<SUP>8</SUP> s. Therefore, the effect of many astrophysical events causing atmospheric ionization can be approximated without including time development. Detailed modeling requires specification of the season and latitude of the event. Harder photon spectra produce greater atmospheric effects for spectra with peaks up to about 20 MeV because of greater penetration into the stratosphere."
+ },
+ {
+  "id": "meth_1997-2008_046",
+  "bibcode": "2002AcASn..43..341S",
+  "entity_type": "methods",
+  "era": "1997-2008",
+  "text": "Averaged power density spectra analysis",
+  "title": "Power density spectra of two classes of long GAMMA-Ray bursts",
+  "abstract": "Averaged Power Density Spectra (PDSs) of two classes of long gamma-ray bursts classified from neural network analysis by Balastegui et al.(2001) recently are investigated. The PDSs of two classes both follow a power law in wide frequency range with approximately the same slope, which indicates a process with a self-similar temporal property may underlie in emission mechanisms of the both classes. The two classes of bursts are divided into groups according to their brightness and spectral hardness distributions respectively and each group's PDS is calculated. PDSs of the two classes both are flatten with increasing burst brightness and hardness respectively."
+ },
+ {
+  "id": "meth_1997-2008_047",
+  "bibcode": "2000JAVSO..29...26S",
+  "entity_type": "methods",
+  "era": "1997-2008",
+  "text": "CCD photometric calibration using Landolt Selected Areas",
+  "title": "Using the Landolt Selected Areas (SAs) for Photometric Identification of Faint Supernovae and Optical Counterparts to Gamma-ray Bursters",
+  "abstract": "We propose to use the Landolt Selected Areas (SAs) as convenient photometric fields to calibrate magnitudes and colors of faint supernovae and optical counterparts or \"flashes\" associated with transient gamma-ray bursts (GRBs). The spacing of and established photometric sequences in the SAs makes them convenient reference fields to interleave with CCD images of suspected time-variable objects for transformation of instrumental magnitudes and colors to standardized systems."
+ },
+ {
+  "id": "meth_1997-2008_048",
+  "bibcode": "2000ApJ...536....1L",
+  "entity_type": "methods",
+  "era": "1997-2008",
+  "text": "Flux threshold calculations",
+  "title": "Gamma-Ray Bursts as a Probe of the Very High Redshift Universe",
+  "abstract": "There is increasingly strong evidence that gamma-ray bursts (GRBs) are associated with star-forming galaxies and occur near or in the star-forming regions of these galaxies. These associations provide indirect evidence that at least the long GRBs detected by BeppoSAX are a result of the collapse of massive stars. The recent evidence that the light curves and the spectra of the afterglows of GRB 970228 and GRB 980326 appear to contain a supernova component, in addition to a relativistic shock-wave component, provides more direct clues that this is the case. We show that, if many GRBs are indeed produced by the collapse of massive stars, GRBs and their afterglows provide a powerful probe of the very high redshift (z&gt;~5) universe. We first establish that GRBs and their afterglows are both detectable out to very high redshifts. We then show that one expects GRBs to occur out to at least z~10, and possibly to z~15-20, redshifts that are far larger than those expected for the most distant quasars. This implies that there are large numbers of GRBs with peak photon number fluxes below the detection thresholds of BATSE and HETE 2, and even below the detection threshold of Swift. The mere detection of very high redshift GRBs would give us our first information about the earliest generations of stars. We show that GRBs and their afterglows can be used as beacons to locate core-collapse supernovae at redshifts z&gt;&gt;1 and to study the properties of these supernovae. We describe the expected properties of the absorption-line systems and the Ly\u03b1 forest in the spectra of GRB afterglows and discuss various strategies for determining the redshifts of very high redshift GRBs. We then show how the absorption-line systems and the Ly\u03b1 forest visible in the spectra of GRB afterglows can be used to trace the evolution of metallicity in the universe and to probe the large-scale structure of the universe at very high redshifts. Finally, we show how measurement of the Ly\u03b1 break in the spectra of GRB afterglows can be used to constrain, or possibly measure, the epoch at which reionization of the universe occurred by using the Gunn-Peterson test."
+ },
+ {
+  "id": "meth_1997-2008_049",
+  "bibcode": "2007PhRvL..98t1801F",
+  "entity_type": "methods",
+  "era": "1997-2008",
+  "text": "Prediction of GLAST/Fermi sensitivity for future occultation observations",
+  "title": "Transparency of the Sun to Gamma Rays due to Axionlike Particles",
+  "abstract": "It is shown that the Sun can become partially transparent to high energy photons in the presence of a pseudoscalar. In particular, if the axion interpretation of the PVLAS result were true, then up to 2% of GeV energy gamma rays might pass through the Sun, while an even stronger effect is expected for some axion parameters. We discuss the possibilities of observing this effect. Present data are limited to the observation of the solar occultation of 3C 279 by the Energetic Gamma-Ray Experiment Telescope in 1991; 98% C.L. detection of a nonzero flux of gamma rays passing through the Sun is not yet conclusive. Since the same occultation happens every October, future experiments, e.g., the Gamma-Ray Large Area Space Telescope, are expected to have better sensitivity."
+ },
+ {
+  "id": "meth_2009-2017_050",
+  "bibcode": "2012MSAIS..21..104C",
+  "entity_type": "methods",
+  "era": "2009-2017",
+  "text": "Comparison of observed SGRB offsets with predicted distributions from DNS population synthesis",
+  "title": "Short gamma-ray bursts: evidence for an origin in globular clusters?",
+  "abstract": "We compare the observed spatial offsets of short gamma-ray bursts from their host galaxies with their predicted distributions, assuming that they originate in double neutron star binaries that form from field stars. We find that, for the majority of bursts, this model is sufficient to explain the observed offsets, although there is a trend towards larger offsets than predicted. One burst, GRB 060502B, has an offset that is clearly anomalous. We discuss possible reasons for the large offsets, including host galaxy misidentification, and suggest that some of the largest-offset bursts may originate in the merger of double neutron star binaries that form dynamically in the cores of globular clusters."
+ },
+ {
+  "id": "meth_2009-2017_051",
+  "bibcode": "2015ApJ...811....4K",
+  "entity_type": "methods",
+  "era": "2009-2017",
+  "text": "Classification of SGRB X-ray light curve types",
+  "title": "X-Raying Extended Emission and Rapid Decay of Short Gamma-Ray Bursts",
+  "abstract": "Extended emission in short gamma-ray bursts (SGRBs) is a mystery. By conducting time-resolved spectral analyses of the nine brightest events observed by the Swift-XRT, we classify the early X-ray emission of SGRBs into two types. One is the extended emission with exponentially rapid decay, which shows significant spectral softening for hundreds of seconds after the SGRB trigger and is also detected by the Swift-BAT. The other is a dim afterglow that only shows power-law decay over 10<SUP>4</SUP> s. The correlations between the temporal decay and spectral indices of the extended emissions are inconsistent with the \u03b1-\u03b2 correlation expected for the high-latitude curvature emission from a uniform jet. The observed too-rapid decay suggests that the emission is from a photosphere or a patchy surface, and manifests the stopping via a central engine such as magnetic reconnection at the black hole."
+ },
+ {
+  "id": "meth_2009-2017_052",
+  "bibcode": "2011MNRAS.416.2760C",
+  "entity_type": "methods",
+  "era": "2009-2017",
+  "text": "Cosmological N-body/hydrodynamical simulations",
+  "title": "Population III stars and the long gamma-ray burst rate",
+  "abstract": "Because massive, low-metallicity Population III (PopIII) stars may produce very powerful long gamma-ray bursts (LGRBs), high-redshift GRB observations could probe the properties of the first stars. We analyse the correlation between early PopIII stars and LGRBs by using cosmological N-body/hydrodynamical simulations, which include detailed chemical evolution, cooling, star formation, feedback effects and the transition between PopIII and more standard Population I/II (PopII/I) stars. From the Swift observed rate of LGRBs, we estimate the fraction of black holes that will produce a GRB from PopII/I stars to be in the range 0.028 &lt; f<SUB>GRB</SUB> &lt; 0.140, depending on the assumed upper metallicity of the progenitor. Assuming that as of today no GRB event has been associated with a PopIII star, we estimate the upper limit for the fraction of LGRBs produced by PopIII stars to be in the range 0.006 &lt; f<SUB>GRB</SUB> &lt; 0.022. When we apply a detection threshold compatible with the BAT instrument, we find that the expected fraction of PopIII GRBs (GRB3) is \u223c10 per cent of the full LGRB population at z &gt; 6, becoming as high as 40 per cent at z &gt; 10. Finally, we study the properties of the galaxies hosting our sample of GRB3s. We find that the average metallicity of the galaxies hosting a GRB3 is typically higher than the critical metallicity used to select the PopIII stars, due to the efficiency in polluting the gas above such low values. We also find that the highest probability of finding a GRB3 occurs within galaxies with a stellar mass &lt;10<SUP>7</SUP> M<SUB>\u2299</SUB>, independent of the redshift."
+ },
+ {
+  "id": "meth_2009-2017_053",
+  "bibcode": "2011A&A...536A..46B",
+  "entity_type": "methods",
+  "era": "2009-2017",
+  "text": "Hardness ratio spectral variability study",
+  "title": "The first GRB survey of the IBIS/PICsIT archive",
+  "abstract": "Context. The multi-purpose INTEGRAL mission is continuously contributing to Gamma Ray Burst (GRB) science, thanks to the performances of its two main instruments, IBIS and SPI, operating in the hard X-ray / soft \u03b3-ray domain. <BR /> Aims: We investigate the possibilities offered to the study of GRBs by PICsIT, the high-energy detector of the IBIS instrument. <BR /> Methods: We searched for transient episodes in the PICsIT light curves archive from May 2006 to August 2009, using stringent criteria optimized for the detection of long events. In the time interval under examination PICsIT provides an energy coverage from 208 to 2600 keV, resolved in eight energy channels, combined with a fine time resolution of 16 ms. <BR /> Results: PICsIT successfully observes GRBs in the 260-2600 keV energy range with an incoming direction spread over half the sky for the brightest events. We compiled a list of 39 bursts, most of which are confirmed GRBs or simultaneous to triggers from other satellites/instruments. We produced light curves with a time sampling down to 0.25 s in three energy intervals for all events. Because an adequate response matrix is not yet available for the PICsIT burst sample, we obtained a calibration coefficient in three selected energy bands by comparing instrumental counts with physical fluences inferred from observations with different satellites. The good time resolution provided by the PICsIT data allows a spectral variability study of our sample through the hardness ratio. <P />Figures 9-48 are available in electronic form at <A href=\"http://www.aanda.org\">http://www.aanda.org</A>"
+ },
+ {
+  "id": "meth_2009-2017_054",
+  "bibcode": "2013ApJ...772L...4G",
+  "entity_type": "methods",
+  "era": "2009-2017",
+  "text": "Photo-hadronic neutrino production rate calculation for multiple GRB emission models",
+  "title": "On the Neutrino Non-detection of GRB 130427A",
+  "abstract": "The recent gamma-ray burst GRB 130427A has an isotropic electromagnetic energy E <SUP>iso</SUP> ~ 10<SUP>54</SUP> erg, suggesting an ample supply of target photons for photo-hadronic interactions, which at its low redshift of z ~ 0.34 would appear to make it a promising candidate for neutrino detection. However, the IceCube collaboration has reported a null result based on a search during the prompt emission phase. We show that this neutrino non-detection can provide valuable information about this gamma-ray burst's (GRB's) key physical parameters such as the emission radius R<SUB>d</SUB> , the bulk Lorentz factor \u0393, and the energy fraction converted into cosmic rays epsilon<SUB> p </SUB>. The results are discussed both in a model-independent way and in the specific scenarios of an internal shock (IS) model, a baryonic photospheric (BPH) model, and a magnetic photospheric (MPH) model. We find that the constraints are most stringent for the MPH model considered, but the constraints on the IS and the BPH models are fairly modest."
+ },
+ {
+  "id": "meth_2018-2026_055",
+  "bibcode": "2018PhyS...93k4001P",
+  "entity_type": "methods",
+  "era": "2018-2026",
+  "text": "Beyond-mean-field Excited Vampir variational model",
+  "title": "Exotic phenomena in medium mass N \u2243 Z nuclei within the beyond-mean-field approach",
+  "abstract": "Recent studies on properties of proton-rich nuclei in the A = 70 mass region brought insights into fundamental symmetries and interactions and produced characteristics required by the astrophysical scenarios on the rp-process path revealing coexistence phenomena which dominate the structure and dynamics of these exotic nuclei. Isospin mixing and related phenomena like Coulomb energy differences, mirror energy differences, triplet energy differences as well as superallowed Fermi beta decay in isovector triplets have been investigated. The interplay between isospin-symmetry-breaking and shape-coexistence effects on isospin-related phenomena in {N}\u2243 {Z} nuclei as well as weak interaction processes under terrestrial and stellar x-ray burst environment have been explored in the frame of the beyond-mean-field complex Excited Vampir variational model. We used an adequate model space and the effective interaction was derived from a G-matrix starting from the charge-dependent Bonn CD potential. Results concerning the influence of shape coexistence and mixing on the structure and \u03b2-decay properties of exotic nuclei will be reviewed."
+ },
+ {
+  "id": "meth_2018-2026_056",
+  "bibcode": "2018PhRvD..97h3013S",
+  "entity_type": "methods",
+  "era": "2018-2026",
+  "text": "Time of flight difference analysis between GW and EM signals",
+  "title": "Constraints from the time lag between gravitational waves and gamma rays: Implications of GW170817 and GRB 170817A",
+  "abstract": "The Laser Interferometer Gravitational-Wave Observatory (LIGO) has recently discovered gravitational waves (GWs) from its first neutron star-neutron star merger at a distance of \u223c40 Mpc from the Earth. The associated electromagnetic (EM) detection of the event, including the short gamma-ray burst within \u0394 t \u223c2 s after the GW arrival, can be used to test various aspects of sources physics and GW propagation. Using GW170817 as the first GW-EM example, we show that this event provides a stringent direct test that GWs travel at the speed of light. The gravitational potential of the Milky Way provides a potential source of Shapiro time delay difference between the arrival of photons and GWs, and we demonstrate that the nearly coincident detection of the GW and EM signals can yield strong limits on anomalous gravitational time delay, through updating the previous limits taking into account details of Milky Way's gravitational potential. Finally, we also obtain an intriguing limit on the size of the prompt emission region of GRB 170817A, and discuss implications for the emission mechanism of short gamma-ray bursts."
+ },
+ {
+  "id": "meth_2018-2026_057",
+  "bibcode": "2021MNRAS.502.1279O",
+  "entity_type": "methods",
+  "era": "2018-2026",
+  "text": "Kilonova model light curve comparison",
+  "title": "A tale of two mergers: constraints on kilonova detection in two short GRBs at z \u223c 0.5",
+  "abstract": "We present a detailed multiwavelength analysis of two short gamma-ray bursts (sGRBs) detected by the Neil Gehrels Swift Observatory: GRB 160624A at $z$ = 0.483 and GRB 200522A at $z$ = 0.554. These sGRBs demonstrate very different properties in their observed emission and environment. GRB 160624A is associated with a late-type galaxy with an old stellar population (\u224d3 Gyr) and moderate ongoing star formation (\u224d1 M<SUB>\u2609</SUB> yr<SUP>-1</SUP>). Hubble and Gemini limits on optical/near-infrared emission from GRB 160624A are among the most stringent for sGRBs, leading to tight constraints on the allowed kilonova properties. In particular, we rule out any kilonova brighter than AT2017gfo, disfavouring large masses of wind ejecta (\u22720.03 M<SUB>\u2609</SUB>). In contrast, observations of GRB 200522A uncovered a luminous (L<SUB>F125W</SUB> \u224d 10<SUP>42</SUP> erg s<SUP>-1</SUP> at 2.3 d) and red (r - H \u224d 1.3 mag) counterpart. The red colour can be explained either by bright kilonova emission powered by the radioactive decay of a large amount of wind ejecta (0.03 M<SUB>\u2609</SUB> \u2272 M \u2272 0.1 M<SUB>\u2609</SUB>) or moderate extinction, E(B - V) \u224d 0.1-0.2 mag, along the line of sight. The location of this sGRB in the inner regions of a young (\u224d0.1 Gyr) star-forming (\u224d2-6 M<SUB>\u2609</SUB> yr<SUP>-1</SUP>) galaxy and the limited sampling of its counterpart do not allow us to rule out dust effects as contributing, at least in part, to the red colour."
+ },
+ {
+  "id": "meth_2018-2026_058",
+  "bibcode": "2020MNRAS.495.3751C",
+  "entity_type": "methods",
+  "era": "2018-2026",
+  "text": "3D hydrodynamic simulations of mixing and fallback",
+  "title": "The impact of fallback on the compact remnants and chemical yields of core-collapse supernovae",
+  "abstract": "Fallback in core-collapse supernovae plays a crucial role in determining the properties of the compact remnants and of the ejecta composition. We perform three-dimensional simulations of mixing and fallback for selected non-rotating supernova models to study how explosion energy and asymmetries correlate with the remnant mass, remnant kick, and remnant spin. We find that the strongest kick and spin are imparted by partial fallback in an asymmetric explosion. Black hole (BH) kicks of several hundred $\\mathrm{km}\\, \\mathrm{s}^{-1}$ and spin parameters of $\\mathord {\\sim }0.25$ can be obtained in this scenario. If the initial explosion energy barely exceeds the envelope binding energy, stronger fallback results, and the remnant kick and spin remain small. If the explosion energy is high with respect to the envelope binding energy, there is little fallback with a small effect on the remnant kick, but the spin-up by fallback can be substantial. For a non-rotating $12\\, \\mathrm{M}_\\odot$ progenitor, we find that the neutron star is spun up to millisecond periods. The high specific angular momentum of the fallback material can also lead to disc formation around BHs. Fallback may thus be a pathway towards millisecond-magnetar or collapsar-type engines for hypernovae and gamma-ray bursts that does not require rapid progenitor rotation. Within our small set of simulations, none reproduced the peculiar layered fallback necessary to explain the metal-rich iron-poor composition of many carbon-enhanced metal-poor (CEMP) stars. Models with different explosion energy and different realizations of asymmetries may, however, be compatible with CEMP abundance patterns."
+ },
+ {
+  "id": "meth_2018-2026_059",
+  "bibcode": "2019MNRAS.486.4149G",
+  "entity_type": "methods",
+  "era": "2018-2026",
+  "text": "Burst fuel composition inference",
+  "title": "XMMU J181227.8-181234: a new ultracompact X-ray binary candidate",
+  "abstract": "We report the discovery of Type I (thermonuclear) X-ray bursts from the transient source XMMU J181227.8-181234 = XTE J1812-182. We found seven X-ray bursts in Rossi X-ray Timing Explorer observations during the 2008 outburst, confirming the source as a neutron star low-mass X-ray binary. Based on the measured burst fluence and the average recurrence time of 1.4^{+0.9}_{-0.5} h, we deduce that the source is accreting almost pure helium (X \u2264 0.1) fuel. Two bursts occurred just 18 min apart; the first short waiting time bursts observed in a source accreting hydrogen-poor fuel. Taking into consideration the effects on the burst and persistent flux due to the inferred system inclination of 30 \u00b1 10\u00b0, we estimate the distance to be 14 \u00b1 2 kpc, where we report the statistical uncertainty but note that there could be up to 20{{ per cent}} variation in the distance due to systematic effects discussed in the paper. The corresponding maximum accretion rate is 0.30 \u00b1 0.05 times the Eddington limit. Based on the low hydrogen content of the accreted fuel and the short average recurrence time, we classify the source as a transient ultracompact low-mass X-ray binary."
+ },
+ {
+  "id": "open_pre-1997_060",
+  "bibcode": "1992ApJ...391L..63B",
+  "entity_type": "open_questions",
+  "era": "pre-1997",
+  "text": "Can GRB lensing statistics complement FRB lensing searches for compact dark matter?",
+  "title": "Using Gamma-Ray Bursts to Detect a Cosmological Density of Compact Objects",
+  "abstract": "If gamma-ray bursts come from cosmological distances, then a significant fraction of them will be lensed. Multiple images will be detected by the time delays between the two images. The shortest bursts are sensitive to lens masses &gt;~ 250 M_sun_. The observed fraction of double images provides a direct measure of {OMEGA}_compact_ as a function of the assumed maximum redshifts of the burst sources. The results depend weakly on the cosmological model and the burst spectra."
+ },
+ {
+  "id": "open_pre-1997_061",
+  "bibcode": "1990ApJ...348L..25H",
+  "entity_type": "open_questions",
+  "era": "pre-1997",
+  "text": "What is the role of pair cascades in shaping the emergent spectrum?",
+  "title": "Escape of Beamed Emission from Gamma-Ray Bursts on Magnetized Neutron Stars",
+  "abstract": "Gamma-ray bursts are observed to emit photons with energies in excess of tens of MeV. The emergence of multi-MeV photons must confront the growing evidence that gamma-ray bursts originate from neutron stars with a strong magnetic field. If the emission is roughly isotropic, photon annihilation leading to electron-positron pair production is very efficient, and most of the emission is attenuated. On the other hand, multi-MeV photons may escape to infinity if they are emitted in a beam about the local magnetic field. In this Letter, the amount of beaming required to allow high-energy photons to escape is calculated. Applying the result to the burst GB780325, which emits photons up to 6 MeV and shows evidence of a 5 x 10 to the 12th G magnetic field, it is found that the radiation can escape if it is beamed by approximately less than 0.3 rad. In general, emission up to 100 MeV as seen in some bursts does not pose a problem."
+ },
+ {
+  "id": "open_pre-1997_062",
+  "bibcode": "1995Ap&SS.231..459F",
+  "entity_type": "open_questions",
+  "era": "pre-1997",
+  "text": "Can soft X-ray spectral features reliably constrain GRB distances?",
+  "title": "CATSAT - A Very Low Cost Burst Distance Measuring Mission",
+  "abstract": "CATSAT is a small, fast and cheap space mission currently funded for Phase A studies under the Student Explorer Demonstration Initiative (STEDI) by University Space Research Association. Its prime scientific objective is to determine burst distances by measuring their spectra at energies from &lt; 500 eV to several MeV. Soft X-ray spectral measurements will be made with 2 cm<SUP>2</SUP> Si Avalanche Photodiodes (APD). The spectrometer will consist of seven collimated arrays, each containing 14 APDs and covering \u223c 1 steradians. CATSAT also contains three other context instruments. The Directional Gamma Spectrometer is a NaI-PMT array which will provide burst triggering as well as spectra and directional information from &gt; 200 keV observations. The Hard X-Ray spectrometer consists of CaF<SUB>2</SUB>(Eu)-PMT detectors which are optimized in the cyclotron absorption energy band. The X-ray Albedo Polarimeter consists of nine collimated NaI-PMT detectors observing the earth reflected emission. Results from the XAP will be used to determine the burst direction and to place constraints on X-ray polarization. CATSAT was designed at three universities to be built with student help in two years for a cost of $3.5M."
+ },
+ {
+  "id": "open_pre-1997_063",
+  "bibcode": "1995Ap&SS.231...65M",
+  "entity_type": "open_questions",
+  "era": "pre-1997",
+  "text": "Are the BATSE SGRs from 1992 actually from GRS 1915+105?",
+  "title": "Soft Gamma-Ray Bursts from the Superluminal Source GRS 1915+105?",
+  "abstract": "The power required to eject relativistic plasma clouds in the hard X-ray transient GRS 1915+105 is at least 100 times the luminosity of the soft\u03d2-ray bursts (SGRs) that were observed by BATSE from the same region of the sky in the year 1992. We show that there are spatial, time, and spectral coincidences between GRS 1915+105 and the SGRs observed by BATSE which suggest that they are one and the same source. However, the position of the SGRs is rather uncertain and until better positions are obtained, the question on the association of GRS 1915+105 with the SGRs must remain open."
+ },
+ {
+  "id": "open_pre-1997_064",
+  "bibcode": "1993APh.....1..269J",
+  "entity_type": "open_questions",
+  "era": "pre-1997",
+  "text": "Is Centaurus A a confirmed VHE emitter at energies above 10 TeV?",
+  "title": "Possible observation of 100 TeV gamma rays from the active galaxy Centaurus A",
+  "abstract": "We have searched for evidence of ultra-high energy gamma rays from the active galaxy Centaurus A in the data set of the JANZOS experiment during the period 13 October 1987 to 18 January 1992. No significant DC excess was found from this source. Excess events were found, however, in the period 14 April - 3 June 1990. The duration of the excess, 48 days, and equivalent luminosity, ~10^43 erg s^-1, are both similar to those measured previously for X-ray outbursts of Centaurus A. Furthermore, the events appear to exhibit the expected absorption feature at 200 TeV due to interactions with the 2.7 K background radiation, but the chance probability for the excess is at the 2% level. The equivalent time averaged flux during this period was (5.5+/-1.5)x10^-12 photons cm^-2s^-1 at energies &gt;=110 TeV, about 20 times as large as the upper limit flux of steady emission, assuming a differential spectral index of -2.0. Further observations are required to confirm the result."
+ },
+ {
+  "id": "open_1997-2008_065",
+  "bibcode": "2008ApJ...680.1350F",
+  "entity_type": "open_questions",
+  "era": "1997-2008",
+  "text": "What determines the jet energy threshold distinguishing r-process-successful from r-process-failed collapsar jets?",
+  "title": "Nucleosynthesis in Magnetically Driven Jets from Collapsars",
+  "abstract": "We have made detailed calculations of the composition of magnetically driven jets ejected from collapsars, or rapidly rotating massive stars, based on long-term magnetohydrodynamic simulations of their core collapse with various distributions of magnetic field and angular momentum before collapse. We follow the evolution of the abundances of about 4000 nuclides from the collapse phase to the ejection phase and through the jet generation phase using a large nuclear reaction network. We find that the r-process successfully operates only in energetic jets (&gt;10<SUP>51</SUP> ergs), such that U and Th are synthesized abundantly, even when the collapsar has a relatively weak magnetic field (10<SUP>10</SUP> G) and a moderately rotating core before the collapse. The abundance patterns inside the jets are similar to those of the r-elements in the solar system. About 0.01-0.06 M<SUB>\u2299</SUB> of neutron-rich, heavy nuclei are ejected from a collapsar with energetic jets. The higher energy jets have larger amounts of <SUP>56</SUP>Ni, varying from 3.7 \u00d7 10<SUP>-4</SUP> to 0.06 M<SUB>\u2299</SUB>. Less energetic jets, which eject small amounts of <SUP>56</SUP>Ni, could induce a gamma-ray burst (GRB) without a supernova, such as GRB 060505 or GRB 060614. Considerable amounts of r-elements are likely to be ejected from GRBs with hypernovae, if both the GRB and hypernova are induced by jets that are driven near the black hole."
+ },
+ {
+  "id": "open_1997-2008_066",
+  "bibcode": "2001ApJ...558..442P",
+  "entity_type": "open_questions",
+  "era": "1997-2008",
+  "text": "Why does the standard jet break model fail for this burst?",
+  "title": "The X-Ray Afterglow of GRB 000926 Observed by BeppoSAX and Chandra: A Mildly Collimated Fireball in a Dense Medium?",
+  "abstract": "We present X-ray observations of the afterglow of GRB 000926, performed around and after the break observed in the optical light curve 2 days after the burst. The steep X-ray light curve observed around the break confirms the presence of this feature in X-rays. However, the spectral and temporal properties are not consistent with a standard jet scenario based on synchrotron emission, requiring a more complicated model. We find that X-ray and optical data are compatible with a moderately collimated fireball (with opening angle \u03b8~25<SUP>deg</SUP>) expanding in a dense medium (n~4\u00d710<SUP>4</SUP> cm<SUP>-3</SUP>). This produces two breaks in the light curve. The first, at t~2 days, is due to jet behavior. The second, around 5 days, is attributed to the transition of the fireball to a nonrelativistic expansion. This transition predicts a flattening of the light curve, which explains the late X-ray measurement in excess above the extrapolation of the simple jet scenario, and is also consistent with optical data."
+ },
+ {
+  "id": "open_1997-2008_067",
+  "bibcode": "1998A&A...332L..57B",
+  "entity_type": "open_questions",
+  "era": "1997-2008",
+  "text": "What is the true distribution of neutron star binary merger timescales?",
+  "title": "Gamma-ray bursts and density evolution of neutron star binary mergers",
+  "abstract": "The evolution of the comoving cosmic merger-rate density of neutron star binaries n_c(z) is calculated using a distribution of their merging times provided by population-synthesis computations of binary stars. We adopt an exponential law for the star formation rate with various timescales for different morphological types of galaxies. For elliptical galaxies also an initial burst of star formation, lasting one Gyr, is considered. The resulting n_c(z) of most models agree with the form n_c(z) ~ (1+z)(1.5-2) for z &lt; 2, which has been proposed for the source population of gamma -ray bursts. Assuming a standard candle luminosity, the computed brightness distribution is consistent with the BATSE results if bursts at the peak flux threshold, P = 0.4 photons cm(-2) s(-1) , are located at a limiting redshift of 1.9 to 3.3. Progenitors of the systems producing gamma -ray bursts at small redshift (bright) are likely to host in spiral galaxies and star forming regions whereas these at high redshift (dim) reside mainly in elliptical galaxies. The location of a burst may be up to ~ 1Mpc away from the host galaxy."
+ },
+ {
+  "id": "open_1997-2008_068",
+  "bibcode": "1999ApJ...519L.143H",
+  "entity_type": "open_questions",
+  "era": "1997-2008",
+  "text": "Confirmation and spectroscopic identification of the quiescent X-ray counterpart to SGR 1627-41",
+  "title": "Precise Interplanetary Network Localization of a New Soft Gamma Repeater, SGR 1627-41",
+  "abstract": "We present Ulysses, Konus-Wind, and BATSE observations of bursts from a new soft gamma repeater that was active in 1998 June and July. Triangulation of the bursts results in a ~1.8d by 16\" error box whose area is ~7.6 arcmin<SUP>2</SUP> and which contains the Galactic supernova remnant G337.0-0.1. This error box intersects the position of a BeppoSAX X-ray source that is also consistent with the position of G337.0-0.1 and is thought to be the quiescent counterpart to the repeater. If so, the resulting error box is ~2<SUP>'</SUP>\u00d716<SUP>''</SUP> and has an area of ~0.6 arcmin<SUP>2</SUP>. The error box location within the supernova remnant suggests that the neutron star has a transverse velocity of ~200-2000 km s<SUP>-1</SUP>."
+ },
+ {
+  "id": "open_1997-2008_069",
+  "bibcode": "2003ApJ...593..946K",
+  "entity_type": "open_questions",
+  "era": "1997-2008",
+  "text": "Can time-dependent reprocessing models produce lines consistent with observations?",
+  "title": "Iron K Lines from Gamma-Ray Bursts",
+  "abstract": "We present models for reprocessing of an intense flux of X-rays and gamma rays expected in the vicinity of gamma-ray burst sources. We consider the transfer and reprocessing of the energetic photons into observable features in the X-ray band, notably the K lines of iron. Our models are based on the assumption that the gas is sufficiently dense to allow the microphysical processes to be in a steady state, thus allowing efficient line emission with modest reprocessing mass and elemental abundances ranging from solar to moderately enriched. We show that the reprocessing is enhanced by down-Comptonization of photons whose energy would otherwise be too high to absorb in iron and that pair production can have an effect on enhancing the line production. Both ``distant'' reprocessors, such as supernova or wind remnants, and ``nearby'' reprocessors, such as outer stellar envelopes, can reproduce the observed line fluxes with Fe abundances 30-100 times above solar, depending on the incidence angle. The high incidence angles required arise naturally only in nearby models, which for plausible values can reach Fe line-to-continuum ratios close to the reported values."
+ },
+ {
+  "id": "open_2009-2017_070",
+  "bibcode": "2012MSAIS..21..143M",
+  "entity_type": "open_questions",
+  "era": "2009-2017",
+  "text": "Does this correlation hold for short GRBs as well?",
+  "title": "Extending the plateau luminosity-duration anticorrelation",
+  "abstract": "X-ray light curves of Swift Gamma-ray Bursts (GRBs) often show a plateau phase between the initial steep decay and the standard afterglow decay. The plateau luminosity and the rest frame plateau end time are known to be anticorrelated. Our aim is to test whether GRBs that show no evidence of plateau can be considered as ``very short plateau'' cases matching the above correlation. We analyze a sample of 50 GRBs observed by Swift with known redshifts (z), estimating the end time of the plateau and the 0.3-10 keV luminosity at that time. We then consider the GRBs with known z and no evidence of plateau. We confirm the existence of the correlation and provide a unified picture showing that also those X-ray light curves with no evidence of plateau are consistent with it assuming that the start epoch of the long duration afterglow decay is a plateau duration upper limit. We suggest that this result may represent a clue for a unified interpretation of the anticorrelation in the framework of multicomponent models of X-ray emission from GRBs."
+ },
+ {
+  "id": "open_2009-2017_071",
+  "bibcode": "2011MNRAS.413.2173G",
+  "entity_type": "open_questions",
+  "era": "2009-2017",
+  "text": "Is the host galaxy metallicity consistent with the long GRB progenitor scenario?",
+  "title": "A detailed spectral study of GRB 041219A and its host galaxy",
+  "abstract": "GRB 041219A is one of the longest and brightest gamma-ray bursts (GRBs) ever observed. It was discovered by the INTEGRAL satellite, and thanks to a precursor happening about 300 s before the bulk of the burst, ground-based telescopes were able to catch the rarely observed prompt emission in the optical and in the near-infrared bands. <P />Here we present the detailed analysis of its prompt gamma-ray emission, as observed with IBIS onboard INTEGRAL, and of the available X-ray afterglow data collected by X-Ray Telescope onboard Swift. We then present the late-time multiband near-infrared imaging data, collected at the Telescopio Nazionale Galileo (TNG) and the Canada-France-Hawaii Telescope (CFHT), that allowed us to identify the host galaxy of the GRB as an underluminous, irregular galaxy of \u223c5 \u00d7 10<SUP>9</SUP> M<SUB>\u2299</SUB> at best-fitting redshift of z= 0.31<SUP>+0.54</SUP><SUB>-0.26</SUB>. <P />We model the broad-band prompt optical to gamma-ray emission of GRB 041219A within the internal shock model. We were able to reproduce the spectra and light curve invoking the synchrotron emission of relativistic electrons accelerated by a series of propagating shock waves inside a relativistic outflow. On the other hand, it is less easy to simultaneously reproduce the temporal and spectral properties of the infrared data."
+ },
+ {
+  "id": "open_2009-2017_072",
+  "bibcode": "2009ApJ...705L.191A",
+  "entity_type": "open_questions",
+  "era": "2009-2017",
+  "text": "Whether such large proton luminosities can be achieved in realistic GRB environments",
+  "title": "Hadronic Models for the Extra Spectral Component in the Short GRB 090510",
+  "abstract": "A short gamma-ray burst GRB 090510 detected by Fermi shows an extra spectral component between 10 MeV and 30 GeV, an addition to a more usual low-energy (&lt;10 MeV) Band component. In general, such an extra component could originate from accelerated protons. In particular, inverse Compton emission from secondary electron-positron pairs and proton synchrotron emission are competitive models for reproducing the hard spectrum of the extra component in GRB 090510. Here, using Monte Carlo simulations, we test the hadronic scenarios against the observed properties. To reproduce the extra component around GeV with these models, the proton injection isotropic-equivalent luminosity is required to be larger than 10<SUP>55</SUP> erg s<SUP>-1</SUP>. Such large proton luminosities are a challenge for the hadronic models."
+ },
+ {
+  "id": "open_2009-2017_073",
+  "bibcode": "2014IJMPD..2350050D",
+  "entity_type": "open_questions",
+  "era": "2009-2017",
+  "text": "How does the instability evolve for variable perturbation rates?",
+  "title": "The dynamical evolution of the black hole-torus system perturbed by a Bondi-Hoyle accretion",
+  "abstract": "The existence of the black hole (BH)-torus system has been given a considerable attention to explain the variability of X-ray and Gamma-ray (\u03b3-ray) data. The perturbation of this system by a Bondi-Hoyle accretion leads to an instability which might be used to understand the dynamics of X-ray binaries and \u03b3-ray burst (GRB). The instability is of a Papaloizou-Pringle type and the fastest growing mode of this instability corresponds to m = 1. In this paper, we put forward a scenario in which the stable BH-torus system is perturbed by a matter which is coming from red giants due to the stellar winds. We model the perturbed BH-torus system to find out how the dynamics of the system changes depending on the rest-mass density of the initial perturbation and to estimate the maximum rest-mass density of the perturbation, \u03c1<SUB>p</SUB>, which creates a quasi-periodic oscillation without having a shock cone around the BH for fixed \u03c1<SUB>c</SUB> (\u03c1<SUB>c</SUB> is the maximum rest-mass density of the initial stable torus). We have found that the perturbation with a rest-mass density, \u03c1<SUB>p</SUB> &lt; 100\u03c1<SUB>atm</SUB> (\u03c1<SUB>atm</SUB> is the rest-mass density of the atmosphere), for any Mach number is the best model for the formation of the oscillating torus around the BH. Otherwise, the shock cone appears in the downstream region of the accreted domain. It is also found that the instability is observed while \u03c1<SUB>p</SUB> &lt; 100\u03c1<SUB>atm</SUB>."
+ },
+ {
+  "id": "open_2009-2017_074",
+  "bibcode": "2016MNRAS.455..962S",
+  "entity_type": "open_questions",
+  "era": "2009-2017",
+  "text": "Can the SKA detect individual filament absorption signatures as predicted?",
+  "title": "Detailed modelling of the 21-cm forest",
+  "abstract": "The 21-cm forest is a promising probe of the Epoch of Reionization. The local state of the intergalactic medium (IGM) is encoded in the spectrum of a background source (radio-loud quasars or gamma-ray burst afterglow) by absorption at the local 21-cm wavelength, resulting in a continuous and fluctuating absorption level. Small-scale structures (filaments and minihaloes) in the IGM are responsible for the strongest absorption features. The absorption can also be modulated on large scales by inhomogeneous heating and Wouthuysen-Field coupling. We present the results from a simulation that attempts to preserve the cosmological environment while resolving some of the small-scale structures (a few kpc resolution in a 50 h<SUP>-1</SUP> Mpc box). The simulation couples the dynamics and the ionizing radiative transfer and includes X-ray and Lyman lines radiative transfer for a detailed physical modelling. As a result we find that soft X-ray self-shielding, Ly \u03b1 self-shielding and shock heating all have an impact on the predicted values of the 21-cm optical depth of moderately overdense structures like filaments. A correct treatment of the peculiar velocities is also critical. Modelling these processes seems necessary for accurate predictions and can be done only at high enough resolution. As a result, based on our fiducial model, we estimate that LOFAR should be able to detect a few (strong) absorptions features in a frequency range of a few tens of MHz for a 20 mJy source located at z = 10, while the SKA would extract a large fraction of the absorption information for the same source."
+ },
+ {
+  "id": "open_2018-2026_075",
+  "bibcode": "2022MNRAS.516.4180N",
+  "entity_type": "open_questions",
+  "era": "2018-2026",
+  "text": "Can the nonthermal emission mechanism be uniquely identified",
+  "title": "The spectral analysis of GRB 150902A and the nature of its outflow",
+  "abstract": "The degree of magnetization of the jets remains an important question in Gamma-Ray Burst (GRB) physics. The magnetization at a large distance from the initial radius also determines whether the process for non-thermal prompt emission is magnetic reconnection or internal shocks. In this article, we aim to address these questions for GRB 150902A. We carry out the spectral analysis of GRB 150902A between 8 keV and 100 GeV with the data from the Fermi Gamma-ray SpaceTelescope. In both the time-integrated and time-resolved analyses, we find that the fit of the spectrum is significantly improved by the addition of a sub-dominant black-body component to the Band function. These results allow us to study and constrain the properties of the outflow. In particular, we consider different values of the efficiency of the non-thermal emission process f<SUB>NT</SUB> and evaluate possible ranges of the initial fraction of power in thermal form \u03f5<SUB>Th</SUB> for different initial radii. We find that GRB 150902A has a strong magnetic component in the initial outflow, such that \u03f5<SUB>Th</SUB> \u2264 0.5. Small values of the initial radius tend to favour internal shocks; high efficiency magnetic reconnection is completely excluded and relatively low efficiency magnetic reconnection is only possible if the outflow is almost entirely accelerated thermally. For larger initial radii, \u03f5<SUB>Th</SUB> \u226a 0.5 such that the outflow is dominated by the magnetic component initially. Such initial radii allow for the non-thermal emission process to be either magnetic reconnection or internal shocks, depending on the efficiency of the acceleration by the magnetic component."
+ },
+ {
+  "id": "open_2018-2026_076",
+  "bibcode": "2022ApJ...932...10G",
+  "entity_type": "open_questions",
+  "era": "2018-2026",
+  "text": "What physical mechanism (angular momentum transport, stellar winds, binary interaction) connects metallicity to successful jet formation?",
+  "title": "The Cosmic History of Long Gamma-Ray Bursts",
+  "abstract": "The cosmic formation rate of long gamma-ray bursts (LGRBs) encodes the evolution, across cosmic times, of the properties of their progenitors and of their environment. The LGRB formation rate and the luminosity function, with its redshift evolution, are derived by reproducing the largest sets of observations collected over the last four decades, namely the observer-frame prompt emission properties of the GRB samples detected by the Fermi and Compton Gamma Ray Observatory satellites and the redshift, luminosity, and energy distributions of the flux-limited, redshift-complete samples of GRBs detected by Swift. The model that best reproduces all these constraints consists of a GRB formation rate increasing with redshift \u221d(1 + z)<SUP>3.2</SUP>, i.e., steeper than the star formation rate, up to z ~ 3, followed by a decrease \u221d(1 + z)<SUP>-3</SUP>. On top of this, our model also predicts a moderate evolution of the characteristic luminosity function break \u221d(1 + z)<SUP>0.6</SUP>. Models with only luminosity or rate evolution are excluded at &gt;5\u03c3 significance. The cosmic rate evolution of LGRBs is interpreted as their preference for occurring in environments with metallicity $12+\\mathrm{log}({\\rm{O}}/{\\rm{H}})\\lt 8.6$ , consistent with theoretical models and host galaxy observations. The LGRB rate at z = 0, accounting for their collimation, is ${\\rho }_{0}\\,=\\,{79}_{-33}^{+57}$ Gpc<SUP>-3</SUP> yr<SUP>-1</SUP> (68% confidence interval). This corresponds to ~1% of broad-line Type Ibc supernovae producing a successful jet in the local universe. This fraction increases up to ~7% at z \u2265 3. Finally, we estimate that at least \u22480.2-0.7 yr<SUP>-1</SUP> of the Swift- and Fermi-detected bursts at z &lt; 0.5 are jets observed slightly off-axis."
+ },
+ {
+  "id": "open_2018-2026_077",
+  "bibcode": "2019ApJ...871...90B",
+  "entity_type": "open_questions",
+  "era": "2018-2026",
+  "text": "How much can coincident EM detection boost GW candidate significance for sub-threshold events?",
+  "title": "A Fermi Gamma-Ray Burst Monitor Search for Electromagnetic Signals Coincident with Gravitational-wave Candidates in Advanced LIGO's First Observing Run",
+  "abstract": "We present a search for prompt gamma-ray counterparts to compact binary coalescence gravitational wave (GW) candidates from Advanced LIGO\u2019s first observing run (O1). As demonstrated by the multimessenger observations of GW170817/GRB 170817A, electromagnetic and GW observations provide complementary information about the astrophysical source, and in the case of weaker candidates, may strengthen the case for an astrophysical origin. Here we investigate low-significance GW candidates from the O1 compact binary coalescence searches using the Fermi Gamma-Ray Burst Monitor (GBM), leveraging its all sky and broad energy coverage. Candidates are ranked and compared to background to measure the significance. Those with false alarm rates (FARs) of less than 10<SUP>-5</SUP> Hz (about one per day, yielding a total of 81 candidates) are used as the search sample for gamma-ray follow-up. No GW candidates were found to be coincident with gamma-ray transients independently identified by blind searches of the GBM data. In addition, GW candidate event times were followed up by a separate targeted search of GBM data. Among the resulting GBM events, the two with the lowest FARs were the gamma-ray transient GW150914-GBM presented in Connaughton et al. and a solar flare in chance coincidence with a GW candidate."
+ },
+ {
+  "id": "open_2018-2026_078",
+  "bibcode": "2021SoPh..296...39I",
+  "entity_type": "open_questions",
+  "era": "2018-2026",
+  "text": "What spectral features does the CNN use for classification?",
+  "title": "Automatic Detection of Occulted Hard X-Ray Flares Using Deep-Learning Methods",
+  "abstract": "We present a concept for a machine-learning classification of hard X-ray (HXR) emissions from solar flares observed by the Reuven Ramaty High Energy Solar Spectroscopic Imager (RHESSI), identifying flares that are either occulted by the solar limb or located on the solar disk. Although HXR observations of occulted flares are important for particle-acceleration studies, HXR data analyses for past observations were time consuming and required specialized expertise. Machine-learning techniques are promising for this situation, and we constructed a sample model to demonstrate the concept using a deep-learning technique. Input data to the model are HXR spectrograms that are easily produced from RHESSI data. The model can detect occulted flares without the need for image reconstruction nor for visual inspection by experts. A technique of convolutional neural networks was used in this model by regarding the input data as images. Our model achieved a classification accuracy better than 90%, and the ability for the application of the method to either event screening or for an event alert for occulted flares was successfully demonstrated."
+ },
+ {
+  "id": "open_2018-2026_079",
+  "bibcode": "2025A&A...693A.126T",
+  "entity_type": "open_questions",
+  "era": "2018-2026",
+  "text": "Does the single-parameter explanation hold for a larger sample of CL AGNs?",
+  "title": "An X-ray study of changing-look active galactic nuclei",
+  "abstract": "A significant number of changing-look active galactic nuclei (CL AGNs) have been identified to date. In this work, we study what happens to the X-ray spectrum during CL events. We use the example of the nearby CL Seyfert named NGC 1566, which has been observed by Swift, NuSTAR, XMM-Newton, and Suzaku. We applied the Comptonization model to describe the evolution of NGC 1566 X-ray spectra during outbursts and compared these results with the typical behavior of other AGNs to identify some differences and common properties that will ultimately help us better understand the physics of the CL phenomenon. We found that changes in the X-ray properties of NGC 1566 are characterized by a different combination of Sy1 (using 1H 0707\u2013495 as a representative) and Sy2 properties (using NGC 7679 and Mrk 3 as their representatives). At high X-ray luminosities, NGC 1566 exhibits behavior typical of Sy1. At low luminosities, we see a transition of NGC 1566 from Sy1 behavior to an Sy2 pattern. We revealed the saturation of the spectral indices, \u03b1, for these four AGNs during outbursts (\u03b1<SUB>1566</SUB> \u223c 1.1, \u03b1<SUB>0707</SUB> \u223c 2, \u03b1<SUB>7679</SUB> \u223c 0.9, and \u03b1<SUB>mrk3</SUB> \u223c 0.9) and we determined the masses of the black holes (BHs) in the centers of these AGNs; namely, M<SUB>0707</SUB> \u223c 6.8 \u00d7 10<SUP>7</SUP> M<SUB>\u2299</SUB>, M<SUB>7679</SUB> \u223c 8.4 \u00d7 10<SUP>6</SUP> M<SUB>\u2299</SUB>, M<SUB>mrk3</SUB> \u223c 2.2 \u00d7 10<SUP>8</SUP> M<SUB>\u2299</SUB>, and M<SUB>1566</SUB> \u223c 2 \u00d7 10<SUP>5</SUP> M<SUB>\u2299</SUB>, applying the scaling method. Our spectral analysis shows that the changing-look of NGC 1566 from Sy1.2 to Sy1.9 in 2019 was accompanied by the transition of NGC 1566 to an accretion regime, which is typical for the intermediate and highly soft spectral states of other BHs. We also find that when going from Sy2 to Sy1, the spectrum of NGC 1566 shows an increase in the soft excess accompanied by a decrease in the Comptonized fraction (0.1 &lt; f &lt; 0.5), which is consistent with the typical behavior of BH sources during X-ray outburst decay. Our results strongly suggest that the broad variations in behavior observed among CL, Sy1, and Sy2 AGNs with different X-ray luminosities can be explained by changes in a single variable parameter (e.g., the ratio of the AGN's X-ray luminosity to its Eddington luminosity), without any need for incorporating additional differences in the Sy AGN parameters (e.g., inclination). Therefore, we find that the distinction between the Sy1, Sy2, and CL-AGN subclasses is effectively blurred."
+ },
+ {
+  "id": "resu_pre-1997_080",
+  "bibcode": "1995PASJ...47..575M",
+  "entity_type": "results",
+  "era": "pre-1997",
+  "text": "Burst duration ~ 15 s",
+  "title": "Discovery of X-Ray Bursts from GX 13+1 (4U 1811\u201317)",
+  "abstract": "Two X-ray bursts from GX 13+1 were detected with the Large Area Counters on board Ginga in 1989 September. They show clear cooling during decay, and are therefore most likely type-I X-ray bursts, i.e., the result of thermonuclear flashes. The bursts have a relatively large \u03b3-value (~0.3; ratio of the persistent flux to the net peak flux) and short durations (~15 s) which is typical of bursts from bright sources. GX 13+1 is probably a burst source close to the critical luminosity, above which burst activity ceases, like 1820\u201330 and GX 3+1."
+ },
+ {
+  "id": "resu_pre-1997_081",
+  "bibcode": "1995MNRAS.273..722B",
+  "entity_type": "results",
+  "era": "pre-1997",
+  "text": "Initial radio flux density of GRS 1124-68 was approximately 150 mJy at 4.7 GHz on January 17, 1991, already in decline",
+  "title": "Radio observations of GRS 1124-68 (X-ray Nova MUSCAE 1991)",
+  "abstract": "We present radio observations of the bright soft X-ray transient source GRS 1124-68 (Nova Muscae 1991), which was discovered in X-rays on 1991 January 8, and first detected optically on January 13. Radio observations of GRS 1124-68 began on January 17. We report here on observations made with the Molonglo Observatory Synthesis Telescope and with the Australia Telescope Compact Array. When first observed in the radio the flux density was ~150 mJy at 4.7 GHz and already decreasing. The radio observations of the new few days have much in common with observations of earlier strong X-ray transients. However, a second burst of radio emission from GRS 1124-68 was observed with both telescopes, beginning on about January 28. We believe that the observations of this later radio burst are the first observations of the rising phase of a radio transient associated with a soft X-ray transient source. Furthermore, the observations of this rising phase of emission cannot be fitted using the standard model for such radio transients."
+ },
+ {
+  "id": "resu_pre-1997_082",
+  "bibcode": "1996ApJ...470...56H",
+  "entity_type": "results",
+  "era": "pre-1997",
+  "text": "Cosmological models provide good fits to BATSE and PVO peak-flux distributions over physically reasonable parameter space",
+  "title": "Cosmological Brightness Distribution FITS of Gamma-Ray Burst Sources",
+  "abstract": "We discuss detailed fits of the BATSE and PVO gamma-ray burst peak- flux distributions with Friedmann models taking into account possible density evolution and standard candle or power-law luminosity functions. A \u03c7^2^ analysis is used to estimate the goodness of the fits, and we derive the significance level of limits on the density evolution and luminosity function parameters. Cosmological models provide a good fit over a range of parameter space that is physically reasonable."
+ },
+ {
+  "id": "resu_pre-1997_083",
+  "bibcode": "1993AZh....70.1002Z",
+  "entity_type": "results",
+  "era": "pre-1997",
+  "text": "Magnetic field, plasma temperature, column density, and viewing angle determined for GB870303 and GB880205",
+  "title": "On the cyclotron lines in gamma-ray burs spectra.",
+  "abstract": "Radiation transfer at cyclotron harmonics in rarefied plasma is examined with allowance for the mutual conversion of normal modes. The parameters of spectral lines formed in a plane homogeneous layer of electron-positron plasma over the hot polar spot of a neutron star with a strong magnetic field are calculated analytically. A model describing the formation of cyclotron lines in the spectra of cosmic gamma-ray bursts is developed which makes it possible to determine the parameters of line-formation regions from the observed characteristics. For GB870303 and GB880205 bursts, recorded by the GINGA satellite, determinations are made of the magnetic field, plasma temperature, column density, angle between the magnetic field and the line of sight, and maximum distance to the source. The results indicate the galactic origin of the bursts."
+ },
+ {
+  "id": "resu_pre-1997_084",
+  "bibcode": "1991MNRAS.250..373M",
+  "entity_type": "results",
+  "era": "pre-1997",
+  "text": "X-ray activity appeared a few hundred days after onset of optical outburst.",
+  "title": "Five-year photometry of V 635 Cassiopeiae - the optical counterpart of 4U0115+63.",
+  "abstract": "This paper reports on the results of V, R, I photometry of V635 Cas - the optical counterpart of the X-ray source 4U0115 + 63, during the years 1985-90. Throughout this period three large optical eruptions were detected, two of which were accompanied by an X-ray outburst. The X-ray activity appeared a few hundred days after the onset of the optical outburst. It is suggested that the optical eruptions are generated by an accretion disk around the neutron star. It is further suggested that the X-ray delay is due to a centrifugal barrier at the neutron star magnetosphere boundary. This effect might be also responsible for the appearance of an optical outburst without any observable X-ray counterpart."
+ },
+ {
+  "id": "resu_1997-2008_085",
+  "bibcode": "1998IBUAA..12...46M",
+  "entity_type": "results",
+  "era": "1997-2008",
+  "text": "Precision of DTVS photometry compared with microdensitometer results",
+  "title": "Use of the digital television systems (DTVS) for investigation of the photographic images.",
+  "abstract": "Some problems, which are solved by the astronomy today, demand the analyse of the photographic negatives with the using of modern computer technologies. Among them: the creation of archiv plates copies in the digital form; the investigation of the selected panoram images (selected fields of the star sky, spectrograms and so on) and others. <P />The appearence of the automatic microdensitometors (AMD) allowed to present information from the photoplates in digital form. However, AMD are very expensive and that's why they are inaccessible for many observatories. <P />The authors of the work studied the possibility of input of the photographic negatives into computer with the help of modern DTVS. Some reasons caused the conducting of this work: <P />- the investigation of the GRB fields in order to search the peculiar objects (this fields have considerable size); <P />- the availability of the large photoplate archiv which was piled up in two Nikolaev's observatories; <P />- the necessity of prompt processing of the panoram images. <P />We investigated the negatives, received on the 702-mm telescope of Kalinenkov Observatory. The precision of the star's photometry, conducted on the microphotometre and after the input of photonegativ into computer, was compared. Special softwear was worked out for the conducting of this work. The results of the carried out investigations are presented in this work."
+ },
+ {
+  "id": "resu_1997-2008_086",
+  "bibcode": "2007MNRAS.376L..48R",
+  "entity_type": "results",
+  "era": "1997-2008",
+  "text": "The model makes reasonable predictions about the gross properties of the fallback",
+  "title": "Fallback accretion in the aftermath of a compact binary merger",
+  "abstract": "Recent observations of long and short gamma-ray bursts have revealed a puzzling X-ray activity that in some cases continues for hours after the burst. It is difficult to reconcile such time-scales with the viscous time-scales that an accretion disc can plausibly provide. Here I discuss the accretion activity expected from the material that is launched into eccentric but gravitationally bound orbits during a compact binary merger coalescence. From a simple analytical model the time-scales and accretion luminosities that result from fallback in the aftermath of a compact binary merger are derived. For the considered mass range, double neutron star binaries are relatively homogeneous in their fallback luminosities. Neutron star black hole systems show a larger spread in their fallback behaviour. While the model is too simple to make predictions about the detailed time structure of the fallback, it makes reasonable predictions about the gross properties of the fallback. About one hour after the coalescence the fallback accretion luminosity can still be as large as ~10<SUP>45</SUP>erg s<SUP>-1</SUP>, a fraction of which will be transformed into X-rays. Large-scale amplitude variations in the X-ray luminosities can plausibly be caused by gravitational fragmentation, which for the high-eccentricity fallback should occur more easily than in an accretion disc."
+ },
+ {
+  "id": "resu_1997-2008_087",
+  "bibcode": "1997ApJ...479L..35L",
+  "entity_type": "results",
+  "era": "1997-2008",
+  "text": "Model reproduces hard-to-soft spectral evolution patterns",
+  "title": "Physical Model of Gamma-Ray Burst Spectral Evolution",
+  "abstract": "We propose a physical model of gamma-ray burst spectral evolution in which impulsively accelerated nonthermal leptons cool by saturated Compton upscattering of soft photons. This model naturally explains the recently discovered exponential decay of the spectral break energy with photon fluence, the hard-to-soft spectral evolution patterns, and other spectral and temporal properties of gamma-ray bursts."
+ },
+ {
+  "id": "resu_1997-2008_088",
+  "bibcode": "2008PhRvL.101l1301Y",
+  "entity_type": "results",
+  "era": "1997-2008",
+  "text": "Strong upper limits on sterile neutrino warm dark matter parameters set using INTEGRAL/SPI gamma-ray line limits",
+  "title": "Strong Upper Limits on Sterile Neutrino Warm Dark Matter",
+  "abstract": "Sterile neutrinos are attractive dark matter candidates. Their parameter space of mass and mixing angle has not yet been fully tested despite intensive efforts that exploit their gravitational clustering properties and radiative decays. We use the limits on gamma-ray line emission from the Galactic center region obtained with the SPI spectrometer on the INTEGRAL satellite to set new constraints, which improve on the earlier bounds on mixing by more than 2 orders of magnitude, and thus strongly restrict a wide and interesting range of models."
+ },
+ {
+  "id": "resu_1997-2008_089",
+  "bibcode": "2007ApJ...667.1024K",
+  "entity_type": "results",
+  "era": "1997-2008",
+  "text": "Correlation consistent with internal shocks at larger radii or delayed central engine",
+  "title": "Pulse Width Evolution of Late-Time X-Ray Flares in Gamma-Ray Bursts",
+  "abstract": "We study the duration and variability of late-time X-ray flares following gamma-ray bursts (GRBs) observed by the narrow-field X-ray telescope (XRT) aboard the Swift spacecraft. These flares are thought to be indicative of late-time activity by the central engine that powers the GRB and produced by means similar to those which produce the prompt emission. We use a nonparametric procedure to study the overall temporal properties of the flares and a structure function analysis to look for an evolution of the fundamental variability timescale between the prompt and late-time emission. We find a strong correlation in 28 individual X-ray flares in 18 separate GRBs between the flare duration and their time of peak flux since the GRB trigger. We also find a qualitative trend of decreasing variability as a function of time since trigger, with a characteristic minimum variability timescale \u0394t/t=0.1 for most flares. The correlation between pulse width and time is consistent with the effects of internal shocks at ever-increasing collision radii, but could also arise from delayed activity by the central source. Contemporaneous detections of high-energy emission by GLAST could test between these two scenarios, as any late-time X-ray emission would undergo inverse Compton scattering as it passes through the external shock. The profile of this high-energy component should depend on the distance between the emitting region and the external shock."
+ },
+ {
+  "id": "resu_2009-2017_090",
+  "bibcode": "2009A&A...500.1157D",
+  "entity_type": "results",
+  "era": "2009-2017",
+  "text": "Five sources detected near the Chandra localization; four show no variability",
+  "title": "Near-infrared follow-up to the May 2008 activation of <ASTROBJ>SGR 1627-41</ASTROBJ>",
+  "abstract": "Context: On 28 May 2008, the Swift satellite detected the first reactivation of <ASTROBJ>SGR 1627-41</ASTROBJ> since its discovery in 1998. <BR />Aims: Following this event, we began an observing campaign at near infrared wavelengths to search for a possible counterpart inside the error circle of this SGR, which is expected to exhibit flaring activity simultaneously with the high energy flares or at least some variability compared to the quiescent state. <BR />Methods: For the follow-up, we used both the 0.6 m REM robotic telescope at La Silla Observatory, which allowed a fast response within 24 h and, through director discretionary time, the 8.2 m Very Large Telescope at Paranal Observatory, where we observed with NACO to produce high angular-resolution imaging with the aid of adaptive optics. <BR />Results: These observations represent the most rapidly acquired near-infrared observations following activation of this SGR and the deepest and highest spatial resolution observations within the Chandra error circle. <BR />Conclusions: Five sources are detected in the immediate vicinity of the most precise X-ray localisation of this source. For 4 of them, we do not detect variability, although the X-ray counterpart exhibited significant decay during our observation period. The 5th source is only detected in one epoch, where we have the highest image quality, so no variability constraints can be imposed and this remains the only plausible counterpart. We can impose a limit of Ks &gt; 21.6 mag on any other counterpart candidate one week after the onset of the activity. Our adaptive optics imaging with a resolution of 0.2'' provides a reference frame for subsequent studies of future periods of activity. <P />Based on observations made with ESO VLT at Paranal Observatory under programme ID 281.D-5019."
+ },
+ {
+  "id": "resu_2009-2017_091",
+  "bibcode": "2009ApJ...700L..65Z",
+  "entity_type": "results",
+  "era": "2009-2017",
+  "text": "Detection of >10 GeV photons in GRB 080916C",
+  "title": "Evidence of an Initially Magnetically Dominated Outflow in GRB 080916C",
+  "abstract": "The composition of gamma-ray burst (GRB) ejecta is still a mystery. The standard model invokes an initially hot \"fireball\" composed of baryonic matter. Here, we analyze the broadband spectra of GRB 080916C detected by the Fermi satellite. The featureless Band spectrum of all five epochs as well as the detections of gsim10 GeV photons in this burst place a strong constraint on the prompt emission radius R <SUB>\u03b3</SUB>, which is typically gsim10<SUP>15</SUP> cm, independent of the details of the emission process. The lack of detection of a thermal component as predicted by the baryonic models strongly suggests that a significant fraction of the outflow energy is initially not in the \"fireball\" form, but is likely in a Poynting flux entrained with the baryonic matter. The ratio between the Poynting and baryonic fluxes is at least ~(15-20) at the photosphere radius, if the Poynting flux is not directly converted to kinetic energy below the photosphere."
+ },
+ {
+  "id": "resu_2009-2017_092",
+  "bibcode": "2010MNRAS.408L..46G",
+  "entity_type": "results",
+  "era": "2009-2017",
+  "text": "Iron nuclei can reach similar energies in AGN jets of more moderate luminosity",
+  "title": "UHECRs from magnetic reconnection in relativistic jets",
+  "abstract": "Ultra-high-energy cosmic rays (UHECRs) may be produced in active galactic nuclei (AGNs) or gamma-ray burst (GRB) jets. I argue that magnetic reconnection in jets can accelerate UHECRs rather independently of physical processes in the magnetic dissipation region. First-order Fermi acceleration can efficiently take place in the region where the unreconnected (upstream) magnetized fluid converges into the reconnection layer. I find that protons can reach energies up to E ~ 10<SUP>20</SUP>eV in GRB and powerful AGN jets while iron nuclei can reach similar energies in AGN jets of more moderate luminosity."
+ },
+ {
+  "id": "resu_2009-2017_093",
+  "bibcode": "2011ApJ...731...80N",
+  "entity_type": "results",
+  "era": "2009-2017",
+  "text": "Centrifugal force can stop envelope contraction in rapidly rotating progenitors",
+  "title": "Jet Propagations, Breakouts, and Photospheric Emissions in Collapsing Massive Progenitors of Long-duration Gamma-ray Bursts",
+  "abstract": "We investigate the following by two-dimensional axisymmetric relativistic hydrodynamical simulations: (1) jet propagations through an envelope of a rapidly rotating and collapsing massive star, which is supposed to be a progenitor of long-duration gamma-ray bursts (GRBs); (2) breakouts and subsequent expansions into stellar winds; and (3) the accompanying photospheric emissions. We find that if the envelope rotates uniformly almost at the mass shedding limit, its outer part eventually stops contracting when the centrifugal force becomes large enough. Then another shock wave is formed, propagates outward, and breaks out of the envelope into the stellar wind. Whether the jet or the centrifugal bounce-induced shock breaks out earlier depends on the timing of jet injection. If the shock breakout occurs earlier, owing to a later injection, the jet propagation and subsequent photospheric emissions are affected substantially. We pay particular attention to observational consequences of the difference in the timing of jet injection. We calculate optical depths to find the location of photospheres, extracting densities, and temperatures at appropriate retarded times from the hydrodynamical data. We show that the luminosity and observed temperature of the photospheric emissions are both much lower than those reported in previous studies. Although luminosities are still high enough for GRBs, the observed temperatures are lower than the energy at the spectral peak expected by the Yonetoku relation. This may imply that energy exchanges between photons and matter are terminated deeper inside or that some non-thermal processes are operating to boost photon energies."
+ },
+ {
+  "id": "resu_2009-2017_094",
+  "bibcode": "2012MNRAS.425.1669P",
+  "entity_type": "results",
+  "era": "2009-2017",
+  "text": "12% not jet breaks",
+  "title": "The possible ubiquity of energy injection in gamma-ray burst afterglows",
+  "abstract": "Since its launch in 2004, the Swift satellite has monitored the X-ray afterglows of several hundred gamma-ray bursts (GRBs), and revealed that their X-ray light curves are more complex than previously thought, exhibiting up to three power-law segments. Energy injection into the relativistic blast wave energizing the burst ambient medium has been proposed most often to be the reason for the X-ray afterglow complexity. We examine 117 light-curve breaks of 98 Swift X-ray afterglows, selected for their high-quality monitoring and well-constrained flux decay rates. 30 per cent of afterglows have a break that can be an adiabatic jet break, in the sense that there is one variant of the forward-shock emission from a collimated outflow model that can account for both the pre- and post-break flux power-law decay indices, given the measured X-ray spectral slope. If allowance is made for a steady energy injection into the forward shock, then another 56 per cent of X-ray afterglows have a light-curve break that can be explained with a jet break. The remaining 12 per cent that are not jet breaks, as well as the existence of two breaks in 19 afterglows (out of which only one can be a jet break), suggest that some X-ray breaks arise from a sudden change in the rate at which energy is added to the blast wave, and it may well be that a larger fraction of X-ray light-curve breaks are generated by that mechanism. The fractional increase in the shock energy, inferred from the energy injection required to account for the observed X-ray flux decays, may be anticorrelated with the GRB prompt output, whether the X-ray break is a jet break or an energy-injection break. That anticorrelation can also be seen as bursts with a higher energy output being followed by faster fading X-ray afterglows. To test the above two mechanisms for afterglow light-curve breaks, we derive comprehensive analytical results for the dynamics of outflows undergoing energy injection and for their light curves, including closure relations for inverse-Compton afterglows and for the emission from spreading jets interacting with a wind-like ambient medium."
+ },
+ {
+  "id": "resu_2018-2026_095",
+  "bibcode": "2018IJMPD..2742003N",
+  "entity_type": "results",
+  "era": "2018-2026",
+  "text": "GeV emission detected in a significant fraction of bright Fermi-LAT GRBs, with clear onset delay and extended duration.",
+  "title": "High-energy emission from gamma-ray bursts",
+  "abstract": "The number of gamma-ray bursts (GRBs) detected at high energies (\u223c0.1 - 100GeV) has seen a rapid increase over the last decade, thanks to observations from the Fermi-Large Area Telescope. The improved statistics and quality of data resulted in a better characterization of the high-energy emission properties and in stronger constraints on theoretical models. In spite of the many achievements and progresses, several observational properties still represent a challenge for theoretical models, revealing how our understanding is far from being complete. This paper reviews the main spectral and temporal properties of \u223c0.1 - 100GeV emission from GRBs and summarizes the most promising theoretical models proposed to interpret the observations. Since a boost for the understanding of GeV radiation might come from observations at even higher energies, the present status and future prospects for observations at very-high energies (above \u223c100GeV) are also discussed. The improved sensitivity of upcoming facilities, coupled to theoretical predictions, supports the concrete possibility for future ground GRB detections in the high/very-high energy domain."
+ },
+ {
+  "id": "resu_2018-2026_096",
+  "bibcode": "2018ApJ...868..107V",
+  "entity_type": "results",
+  "era": "2018-2026",
+  "text": "Hot cavity rim temperature",
+  "title": "Genesis and Impulsive Evolution of the 2017 September 10 Coronal Mass Ejection",
+  "abstract": "The X8.2 event of 2017 September 10 provides unique observations to study the genesis, magnetic morphology, and impulsive dynamics of a very fast coronal mass ejection (CME). Combining GOES-16/SUVI and SDO/AIA EUV imagery, we identify a hot (T \u2248 10-15 MK) bright rim around a quickly expanding cavity, embedded inside a much larger CME shell (T \u2248 1-2 MK). The CME shell develops from a dense set of large AR loops (\u22730.5R <SUB> s </SUB>) and seamlessly evolves into the CME front observed in LASCO C2. The strong lateral overexpansion of the CME shell acts as a piston initiating the fast EUV wave. The hot cavity rim is demonstrated to be a manifestation of the dominantly poloidal flux and frozen-in plasma added to the rising flux rope by magnetic reconnection in the current sheet beneath. The same structure is later observed as the core of the white-light CME, challenging the traditional interpretation of the CME three-part morphology. The large amount of added magnetic flux suggested by these observations explains the extreme accelerations of the radial and lateral expansion of the CME shell and cavity, all reaching values of 5-10 km s<SUP>-2</SUP>. The acceleration peaks occur simultaneously with the first RHESSI 100-300 keV hard X-ray burst of the associated flare, further underlining the importance of the reconnection process for the impulsive CME evolution. Finally, the much higher radial propagation speed of the flux rope in relation to the CME shell causes a distinct deformation of the white-light CME front and shock."
+ },
+ {
+  "id": "resu_2018-2026_097",
+  "bibcode": "2023MNRAS.520..613A",
+  "entity_type": "results",
+  "era": "2018-2026",
+  "text": "Two intervening absorption systems at z=1.581 and z=1.444 detected",
+  "title": "GRB 160410A: The first chemical study of the interstellar medium of a short GRB",
+  "abstract": "Short gamma-ray bursts (SGRBs) are produced by the coalescence of compact binary systems which are remnants of massive stars. GRB 160410A is classified as a short-duration GRB with extended emission and is currently the farthest SGRB with a redshift determined from an afterglow spectrum and also one of the brightest SGRBs to date. The fast reaction to the Neil Gehrels Swift Observatory alert allowed us to obtain a spectrum of the afterglow using the X-shooter spectrograph at the Very Large Telescope (VLT). The spectrum shows several absorption features at a redshift of z = 1.7177, in addition, we detect two intervening systems at z = 1.581 and z = 1.444. The spectrum shows Ly \u03b1 in absorption with a column density of log (N(H I)/cm<SUP>2</SUP>) = 21.2 \u00b1 0.2 which, together with Fe II, C II, Si II, Al II, and O I, allow us to perform the first study of chemical abundances in a SGRB host galaxy. We determine a metallicity of [X/H] = -2.3 \u00b1 0.2 for Fe II and -2.5 \u00b1 0.2 for Si II and no dust depletion. We also find no evidence for extinction in the afterglow spectral energy distribution modelling. The environment has a low degree of ionization and the C IV and Si IV lines are completely absent. We do not detect an underlying host galaxy down to deep limits. Additionally, we compare GRB 160410A to GRB 201221D, another high-z short GRB that shows absorption lines at z = 1.045 and an underlying massive host galaxy."
+ },
+ {
+  "id": "resu_2018-2026_098",
+  "bibcode": "2022A&A...662A.126J",
+  "entity_type": "results",
+  "era": "2018-2026",
+  "text": "Unusually steep optical rise observed ~100 s after initial trigger",
+  "title": "GRB 190919B: Rapid optical rise explained as a flaring activity",
+  "abstract": "Following the detection of a long GRB 190919B by INTEGRAL (INTErnational Gamma-Ray Astrophysics Laboratory), we obtained an optical photometric sequence of its optical counterpart. The light curve of the optical emission exhibits an unusually steep rise \u223c100 s after the initial trigger. This behaviour is not expected from a `canonical' GRB optical afterglow. As an explanation, we propose a scenario consisting of two superimposed flares: an optical flare originating from the inner engine activity followed by the hydrodynamic peak of an external shock. The inner-engine nature of the first pulse is supported by a marginal detection of flux in hard X-rays. The second pulse eventually concludes in a slow constant decay, which, as we show, follows the closure relations for a slow cooling plasma expanding into the constant interstellar medium and can be seen as an optical afterglow sensu stricto."
+ },
+ {
+  "id": "resu_2018-2026_099",
+  "bibcode": "2018IJMPD..2747027S",
+  "entity_type": "results",
+  "era": "2018-2026",
+  "text": "Gravitational wave speed equals electromagnetic wave speed to within ~10^-15.",
+  "title": "Does GW170817 falsify MOND?",
+  "abstract": "The gravitational-wave event GW170817 and the near-simultaneous corresponding gamma-ray burst (GRB 170817 A) falsify modified gravity theories in which the gravitational geometry differs non-conformally from physical geometry. Thus, the observations of this event definitively rule out theories, such as TeVeS, a suggested relativistic extension of Milgrom\u2019s modified Newtonian dynamics (MOND), that predict a significantly different Shapiro delay for electromagnetic and gravitational radiation. While not falsifying MOND per se, GW170817 severely constrains relativistic extensions of MOND to theories that do not rely on additional matter-coupling fields but rather upon modified field equations for one universal gravitational and physical metric. Here, I mention a simple preferred-frame theory as an example."
+ },
+ {
+  "id": "spec_pre-1997_100",
+  "bibcode": "1995PASP..107.1145F",
+  "entity_type": "speculations",
+  "era": "pre-1997",
+  "text": "Models spanning neutron stars, black holes, and exotic objects are all viable candidates",
+  "title": "Gamma-Ray Bursts: an Overview",
+  "abstract": "A history and overview of the observed properties of gamma-ray bursts are presented. The phenomenon of gamma-ray bursts is without precedence in astronomy, having no observed property that would be a direct indicator of their distance and no counterpart object in another wavelength region. Their brief, random appearance only in the gamma-ray region has made their study difficult. The observed time profiles, spectral properties and durations of gamma-ray bursts cover a wide range. All proposed models for their origin must be considered speculative. It is humbling to think that even after 25 years since their discovery, the distance scale of gamma-ray bursts is still very much debatable. (SECTION: 75th Anniversary Astronomical Debate)"
+ },
+ {
+  "id": "spec_pre-1997_101",
+  "bibcode": "1996ApJ...462L..39L",
+  "entity_type": "speculations",
+  "era": "pre-1997",
+  "text": "Understanding type II bursts in two systems with different field strengths may constrain the disk instability mechanism",
+  "title": "A Comparison between the Rapid Burster and GRO J1744-28",
+  "abstract": "Twenty years ago, the Rapid Burster (MXB 1730-335) was discovered. Its most salient feature was the occurrence of rapidly repetitive type II X-ray bursts, the release of gravitational potential energy due to spasmodic accretion onto a compact object. This is almost certainly due to an accretion disk instability whose origin is still not understood. With the recent appearance of GRO J1744-28, the Rapid Burster is no longer the only system to produce such bursts. Both systems are transient low-mass X-ray binaries in which the accretor is a neutron star. The Rapid Burster, located in a globular cluster, also produces type I bursts which are due to thermonuclear flashes on the neutron star's surface; no X-ray pulsations are observed. Its neutron star magnetic field is therefore relatively weak. In contrast, strong X-ray pulsations have been observed in the persistent flux as well as in the type II bursts from GRO J1744-28, but no type I bursts have been observed. Thus, the magnetic field of the neutron star in this system is probably stronger than is the case of the Rapid Burster. The fact that type II bursts occur in both systems may bring us closer to an understanding of the mechanism(s?) that produces them."
+ },
+ {
+  "id": "spec_pre-1997_102",
+  "bibcode": "1991PASJ...43L..69Y",
+  "entity_type": "speculations",
+  "era": "pre-1997",
+  "text": "If GRBs are at cosmological distances (as later confirmed), the claimed cyclotron features from neutron star surfaces would need to be reinterpreted or the features are not of cyclotron origin.",
+  "title": "A New Detection of Cyclotron Lines Seen in a Gamma-Ray Burst GB890929",
+  "abstract": "The Gamma-ray Burst Detector on the Ginga satellite has observed new cyclotron line features in the spectra of a gamma-ray burst which occurred on 1989 September 29 (GB890929). A spectral analysis also showed double line features. The best-fit gave a cyclotron-energy of E<SUB>B</SUB> = 24.1 \u00b1 0.9 keV, which corresponds to a magnetic field of B = (2.08 \u00b1 0.08)(1 + z) \u00d7 10<SUP>12</SUP> Gauss, where z represents the gravitational redshift. The electron column density for the line-forming region is estimated to be (1.8 \u00b1 0.5) \u00d7 10<SUP>21</SUP> cm<SUP>-2</SUP>. These features were similar to those seen in the bursts previously observed with Ginga. So far, cyclotron features have been detected in three bursts out of 23 events of which Ginga measured reasonably significant spectra."
+ },
+ {
+  "id": "spec_pre-1997_103",
+  "bibcode": "1993ApJ...403L..67P",
+  "entity_type": "speculations",
+  "era": "pre-1997",
+  "text": "Galactic halo GRB models face an additional severe constraint from fireball physics even if distance arguments are satisfied",
+  "title": "Fireballs in the Galactic Halo and Gamma-Ray Bursts",
+  "abstract": "If gamma ray burst sources are in the galactic halo they inevitably involve a creation of an opaque pair plasma fireball, just like in cosmological sources. We find that the typical physical conditions in a galactic halo fireball are: optical depth $\\ap 10^8$, thermal energy $\\ap 100 KeV$, maximal relativstic expansion $\\G \\ap 300 $ and a maximal baryonic load of $\\ap 10^{-15} M_\\odot$. This does not rule out galctic halo models but it poses an addtional severe constraint on all such sources. A comparison of these conditions with the physical conditions at cosmological fireballs reveal that galactic halo fireballs are less favorable than cosmological ones as sources of gamma ray bursts."
+ },
+ {
+  "id": "spec_pre-1997_104",
+  "bibcode": "1991ApJ...366L..39S",
+  "entity_type": "speculations",
+  "era": "pre-1997",
+  "text": "Flares on Mira stars may be produced by magnetic activity analogous to flares on other cool stars, but in a very different stellar environment",
+  "title": "Flares on Mira Stars?",
+  "abstract": "Fourteen cases of flares reported on Mira type stars have been collected. These flares typically have an amplitude of over half a magnitude, a rise time of minutes, and a duration of tens of minutes. Nine of the 11 stars represent a normal cross section of the Mira population, while the remaining two are in symbiotic systems (CH Cyg and RX Pup). The flares were observed photographically (five cases), photometrically (three cases), visually (three cases), and with radio telescopes (two cases), while CH Cyg has had flares observed by many techniques. The evidence for the existence of flares on Miras is strong but not definitive. It is possible to hypothesize a variety of background or instrumental effects that could explain all 14 events; however, there is no evidence that suggests the data should be taken at other than face value, and there are good arguments for rejecting the possibility of artifacts. It is felt that the current data warrant systematic observational and theoretical investigation of the possibility of flares on Mira stars."
+ },
+ {
+  "id": "spec_1997-2008_105",
+  "bibcode": "2003ApJ...586L..13H",
+  "entity_type": "speculations",
+  "era": "1997-2008",
+  "text": "Early optical-to-X-ray color changes could indicate the presence of a reverse shock component or a rapidly evolving extinction",
+  "title": "Broadband Modeling of GRB 021004",
+  "abstract": "We present a broadband modeling of the afterglow of GRB 021004. The optical transient of this burst was detected very early and densely sampled in several bands. Its light curve shows significant deviations from a simple power law. We use the data from the X-ray to the I band gathered in the first month of observations and examine three models. Two involve variations in the energy of the shock. The first (energy injection) allows only increases to the shock energy, while the second (patchy shell) allows the energy to increase or decrease. In the final model (clumpy medium), the energy of the shock is constant while the density varies. While all three models reproduce well the optical bands, the variable density model can best account for the X-ray data, and the energy-injection model has the poorest fit. None of the models can account for the modest color variations observed during the first few days of the burst."
+ },
+ {
+  "id": "spec_1997-2008_106",
+  "bibcode": "2006ChJAA...6..305G",
+  "entity_type": "speculations",
+  "era": "1997-2008",
+  "text": "GRB ejecta may generally have complicated multi-component structures",
+  "title": "On the Evolution of the Apparent Size of Gamma-Ray Burst Remnants",
+  "abstract": "The remnants of two gamma-ray bursts, GRB 030329 and GRB 041227, have been resolved by Very Long Baseline Interferometry observations. The radio counterparts were observed to expand with time. These observations provide an important way to test the dynamics of the standard fireball model. We show that the observed size evolution of these two events cannot be explained by a simple jet model, rather, it can be satisfactorily explained by the two-component jet model. It strongly hints that gamma-ray burst ejecta may have complicated structures."
+ },
+ {
+  "id": "spec_1997-2008_107",
+  "bibcode": "1999ApJ...520..641S",
+  "entity_type": "speculations",
+  "era": "1997-2008",
+  "text": "If delayed emission with early afterglow characteristics is detected, it can prove the internal shock scenario as producing the GRB",
+  "title": "Predictions for the Very Early Afterglow and the Optical Flash",
+  "abstract": "According to the internal-external shocks model for gamma-ray bursts (GRBs), the GRB is produced by internal shocks within a relativistic flow while the afterglow is produced by external shocks with the interstellar medium. We explore the early afterglow emission. For short GRBs the peak of the afterglow will be delayed, typically by few dozens of seconds after the burst. For long GRBs the early afterglow emission will overlap the GRB signal. We calculate the expected spectrum and the light curves of the early afterglow in the optical, X-ray, and gamma-ray bands. These characteristics provide a way to discriminate between late internal shocks emission (part of the GRB) and the early afterglow signal. If such a delayed emission, with the characteristics of the early afterglow, is detected, it can be used to prove the internal shock scenario as producing the GRB, as well as to measure the initial Lorentz factor of the relativistic flow. The reverse shock, at its peak, contains energy which is comparable to that of the GRB itself but has a much lower temperature than that of the forward shock so it radiates at considerably lower frequencies. The reverse shock dominates the early optical emission, and an optical flash brighter than 15th magnitude is expected together with the forward shock peak at X-rays or gamma-rays. If this optical flash is not observed, strong limitations can be put on the baryonic contents of the relativistic shell deriving the GRBs, leading to a magnetically dominated energy density."
+ },
+ {
+  "id": "spec_1997-2008_108",
+  "bibcode": "2004ApJ...609..935Y",
+  "entity_type": "speculations",
+  "era": "1997-2008",
+  "text": "Discussion of luminosity evolution - redshift dependence of intrinsic luminosity",
+  "title": "Gamma-Ray Burst Formation Rate Inferred from the Spectral Peak Energy-Peak Luminosity Relation",
+  "abstract": "We estimate a gamma-ray burst (GRB) formation rate based on the new relation between the spectral peak energy (E<SUB>p</SUB>) and the peak luminosity. The new relation is derived by combining the data of E<SUB>p</SUB> and the peak luminosities by BeppoSAX and BATSE, and it looks considerably tighter and more reliable than the relations suggested by the previous works. Using the new E<SUB>p</SUB>-luminosity relation, we estimate redshifts of the 689 GRBs without known distances in the BATSE catalog and derive a GRB formation rate as a function of the redshift. For the redshift range of 0&lt;=z&lt;=2, the GRB formation rate increases and is well correlated with the star formation rate, while it keeps constant toward z~12. We also discuss the luminosity function and the redshift dependence of the intrinsic luminosity (luminosity evolution)."
+ },
+ {
+  "id": "spec_1997-2008_109",
+  "bibcode": "2005NCimC..28..295B",
+  "entity_type": "speculations",
+  "era": "1997-2008",
+  "text": "The thermal emission component becomes more dominant at larger redshifts",
+  "title": "Principal-Component Analysis of Gamma-Ray Bursts' Spectra",
+  "abstract": "The principal-component analysis is a statistical method, which lowers the number of important variables in a data set. The use of this method for the bursts' spectra and afterglows is discussed in this paper. The analysis indicates that three principal components are enough among the eight ones to describe the variablity of the data. The correlation between the spectral index \u03b1 and the redshift suggests that the thermal emission component becomes more dominant at larger redshifts."
+ },
+ {
+  "id": "spec_2009-2017_110",
+  "bibcode": "2011ApJ...727...29M",
+  "entity_type": "speculations",
+  "era": "2009-2017",
+  "text": "The full SXT population, if measured, will show a* > 0.5 in 80% of cases, confirming GRB/hypernova origin.",
+  "title": "Kerr Parameters for Stellar Mass Black Holes and Their Consequences for Gamma-ray Bursts and Hypernovae",
+  "abstract": "Recent measurements of the Kerr parameters a <SUB>sstarf</SUB> for two black hole binaries in our Galaxy, GRO J1655-40 and 4U 1543-47, of a <SUB>sstarf</SUB> = 0.65-0.75 and a <SUB>sstarf</SUB> = 0.75-0.85, respectively, fit the predictions of Lee et al. of a <SUB>sstarf</SUB> cong 0.8. They predicted a <SUB>sstarf</SUB>&gt;0.5 for 80% of the soft X-ray transient (SXT) sources. The maximum available energy in the Blandford-Znajek formalism for a <SUB>sstarf</SUB>&gt;0.5 gives E&gt;3 \u00d7 10<SUP>53</SUP> erg, orders of magnitude larger than the energy needed for the gamma-ray burst (GRB) and hypernova explosion. We interpret the SXTs to be relics of GRBs and hypernovae. We find that most galactic SXTs were subluminous given that they could use only a small part of the available rotational energy."
+ },
+ {
+  "id": "spec_2009-2017_111",
+  "bibcode": "2016PhRvE..93b1201U",
+  "entity_type": "speculations",
+  "era": "2009-2017",
+  "text": "Similar positron beams may produce annihilation radiation in other thundercloud gamma-ray events globally.",
+  "title": "On-ground detection of an electron-positron annihilation line from thunderclouds",
+  "abstract": "Thunderclouds can produce bremsstrahlung gamma-ray emission, and sometimes even positrons. At 00:27:00 (UT) on 13 January 2012, an intense burst of gamma rays from a thundercloud was detected by the GROWTH experiment, located in Japan, facing the Sea of Japan. The event started with a sharp gamma-ray flash with a duration of &lt;300 ms coincident with an intracloud discharge, followed by a decaying longer gamma-ray emission lasting for \u223c60 s. The spectrum of this prolonged emission reached \u223c10 MeV, and contained a distinct line emission at 508 \u00b13 (stat .)\u00b15 (sys .) keV, to be identified with an electron-positron annihilation line. The line was narrow within the instrumental energy resolution (\u223c80 keV) , and contained 520 \u00b150 photons which amounted to \u223c10 % of the total signal photons of 5340 \u00b1190 detected over 0.1-10 MeV. As a result, the line equivalent width reached 280 \u00b140 keV, which implies a nontrivial result. The result suggests that a downward positron beam produced both the continuum and the line photons."
+ },
+ {
+  "id": "spec_2009-2017_112",
+  "bibcode": "2016PASJ...68S..11M",
+  "entity_type": "speculations",
+  "era": "2009-2017",
+  "text": "The non-detection constrains the fraction of classical novae hosted on massive near-Chandrasekhar-mass white dwarfs.",
+  "title": "Search for soft X-ray flashes at the fireball phase of classical/recurrent novae using MAXI/GSC data",
+  "abstract": "We searched for precursive soft X-ray flashes (SXFs) associated with optically discovered classical or recurrent novae in the data of five years' all-sky observations with the Gas Slit Camera (GSC) of the Monitor of All-sky X-ray Image (MAXI). We first developed a tool to measure the fluxes of point sources by fitting the event distribution with a model that incorporates the point-spread function (PSF-fit) to minimize the potential contamination from nearby sources. Then we applied the PSF-fit tool to 40 classical/recurrent novae that were discovered in optical observations from 2009 August to 2014 August. We found no precursive SXFs with significance above the 3 \u03c3 level in the energy range of 2-4 keV between t<SUB>d</SUB> - 10 d and t<SUB>d</SUB>, where t<SUB>d</SUB> is the date when each nova was discovered. We obtained the upper limits for the bolometric luminosity of SXFs, and compared them with the theoretical prediction and that observed for MAXI J0158-744. This result could constrain the population of massive white dwarfs with a mass of roughly 1.40 solar mass, or larger, in binary systems."
+ },
+ {
+  "id": "spec_2009-2017_113",
+  "bibcode": "2014MNRAS.445.2414V",
+  "entity_type": "speculations",
+  "era": "2009-2017",
+  "text": "If the thick shell model is confirmed, it implies that GRB ejecta remain dynamically important at the time of the plateau break, constraining the ejecta Lorentz factor and total energy",
+  "title": "Gamma-ray burst afterglow plateau break time-luminosity correlations favour thick shell models over thin shell models",
+  "abstract": "A number of correlations between observables have been found to exist for gamma-ray burst (GRB) afterglows, linking ejecta energy to prompt and afterglow energy release and linking early stage optical and X-ray luminosity to the end times of these stages. Here, these correlations are compared to thick and thin shell models for GRB afterglows. In the thick shell model, the time evolution of the underlying relativistic blast wave is still influenced by the original ejecta, while in the thin shell model most energy in the explosion has been transferred to the external medium. It is shown here that the observed correlations rule out basic thin shell models but not the basic thick shell model. In the thick shell case, both forward- and reverse-shock-dominated outflows are shown to be consistent with the correlations, using randomly generated samples of thick shell model afterglows."
+ },
+ {
+  "id": "spec_2009-2017_114",
+  "bibcode": "2010MNRAS.405.1759R",
+  "entity_type": "speculations",
+  "era": "2009-2017",
+  "text": "The compact synchrotron jet could account for ~100 per cent of the X-ray flux at low luminosities",
+  "title": "Evidence for a compact jet dominating the broad-band spectrum of the black hole accretor XTE J1550-564",
+  "abstract": "The black hole X-ray binary XTE J1550-564 was monitored extensively at X-ray, optical and infrared wavelengths throughout its outburst in 2000. We show that it is possible to separate the optical/near-infrared (OIR) jet emission from the OIR disc emission. Focussing on the jet component, we find that as the source fades in the X-ray hard state, the OIR jet emission has a spectral index consistent with optically thin synchrotron emission (\u03b1 ~ -0.6 to -0.7, where F<SUB>\u03bd</SUB> ~ \u03bd<SUP>\u03b1</SUP>). This jet emission is tightly and linearly correlated with the X-ray flux; suggesting a common origin. This is supported by the OIR, X-ray and OIR to X-ray spectral indices being consistent with a single power law (\u03b1 = -0.73). Ostensibly the compact synchrotron jet could therefore account for ~100per cent of the X-ray flux at low luminosities in the hard state. At the same time, (i) an excess is seen over the exponential decay of the X-ray flux at the point in which the jet would start to dominate, (ii) the X-ray spectrum slightly softens, which seems to be due to a high-energy cut-off or break shifting to a lower energy and (iii) the X-ray rms variability increases. This may be the strongest evidence to date of synchrotron emission from the compact, steady jet dominating the X-ray flux of an X-ray binary. For XTE J1550-564, this is likely to occur within the luminosity range ~(2 \u00d7 10<SUP>-4</SUP>-2 \u00d7 10<SUP>-3</SUP>) L<SUB>Edd</SUB> on the hard-state decline of this outburst. However, on the hard-state rise of the outburst and initially on the hard-state decline, the synchrotron jet can only provide a small fraction (~ a few per cent) of the X-ray flux. Both thermal Comptonization and the synchrotron jet can therefore produce the hard X-ray power law in accreting black holes. In addition, we report a phenomenological change in the OIR spectral index of the compact jet from possibly a thermal distribution of particles to one typical of optically thin synchrotron emission, as the jet increases in energy over these ~20d. Once the steady jet is fully formed and the infrared and X-ray fluxes are linearly correlated, the spectral index does not vary (maintaining \u03b1 = -0.7) while the luminosity decreases by a factor of 10. These quantitative results provide unique insights into the physics of the relativistic jet acceleration process."
+ },
+ {
+  "id": "spec_2018-2026_115",
+  "bibcode": "2019ApJS..241...30M",
+  "entity_type": "speculations",
+  "era": "2018-2026",
+  "text": "Neutrino-driven winds from BNS merger disks may dominate the total ejecta mass and r-process yield compared to dynamical ejecta",
+  "title": "\u03bd bhlight: Radiation GRMHD for Neutrino-driven Accretion Flows",
+  "abstract": "The 2017 detection of the in-spiral and merger of two neutron stars was a landmark discovery in astrophysics. We now know that such mergers are central engines of short gamma-ray bursts and sites of r-process nucleosynthesis, where the heaviest elements in our universe are formed. In the coming years, we expect many more such mergers. Modeling such systems presents a significant computational challenge along with the observational one. To meet this challenge, we present \u03bd bhlight, a scheme for solving general relativistic magnetohydrodynamics with energy-dependent neutrino transport in full (3 + 1) dimensions, facilitated by Monte Carlo methods. We present a suite of tests demonstrating the accuracy, efficacy, and necessity of our scheme. We demonstrate the potential of our scheme by running a sample calculation in a domain of interest\u2014the dynamics and composition of the accretion disk formed by a binary neutron star merger."
+ },
+ {
+  "id": "spec_2018-2026_116",
+  "bibcode": "2025A&A...701A.134M",
+  "entity_type": "speculations",
+  "era": "2018-2026",
+  "text": "GRB 221009A may be the most energetic GRB ever detected, with E_iso potentially exceeding current lower limit when detector saturation is corrected",
+  "title": "The brightest GRB ever detected: GRB 221009A as a highly luminous event at z = 0.151",
+  "abstract": "Context. The extreme luminosity of gamma-ray bursts (GRBs) makes them powerful beacons, thus effective probes of the distant Universe. The most luminous bursts are typically detected at moderate and high redshift, where the volume for seeing such rare events is maximized and the star-formation activity is greater than at z = 0. For distant events, not all observations are feasible, such as those at TeV energies. Aims. Here we present a spectroscopic redshift measurement for the exceptional GRB 221009A, the brightest GRB observed to date, with emission extending well into the TeV regime. Methods. We used the X-shooter spectrograph at the ESO Very Large Telescope (VLT) to obtain simultaneous optical to near-infrared (NIR) spectroscopy of the burst afterglow 0.5 days after the explosion. Results. The spectra exhibit both absorption and emission lines from material in a host galaxy at z<SUB>GRB</SUB> = 0.15095 \u00b1 0.00005. Thus, GRB 221009A was a relatively nearby burst with a luminosity distance of d<SUB>L</SUB> = 745 Mpc. Its host galaxy properties (star-formation rate and metallicity) are consistent with those of long GRB hosts at low redshift. This redshift measurement yields information on the energy of the burst. The inferred isotropic energy release, E<SUB>iso</SUB> &gt; 5 \u00d7 10<SUP>54</SUP> erg, lies at the high end of the distribution, making GRB 221009A one of the nearest and also most energetic GRBs observed to date. We estimate that such a combination (nearby as well as intrinsically bright) occurs between once every few decades and once per millennium."
+ },
+ {
+  "id": "spec_2018-2026_117",
+  "bibcode": "2021MNRAS.500.1772N",
+  "entity_type": "speculations",
+  "era": "2018-2026",
+  "text": "The jet-kilonova interaction could be a probe of the jet launch time and energy in future BNS GW+EM events",
+  "title": "Can jets make the radioactively powered emission from neutron star mergers bluer?",
+  "abstract": "Neutron star mergers eject neutron-rich matter in which heavy elements are synthesized. The decay of these freshly synthesized elements powers electromagnetic transients ('macronovae' or 'kilonovae') whose luminosity and colour strongly depend on their nuclear composition. If the ejecta are very neutron-rich (electron fraction Y<SUB>e</SUB> &lt; 0.25), they contain fair amounts of lanthanides and actinides that have large opacities and therefore efficiently trap the radiation inside the ejecta so that the emission peaks in the red part of the spectrum. Even small amounts of this high-opacity material can obscure emission from lower lying material and therefore act as a 'lanthanide curtain'. Here, we investigate how a relativistic jet that punches through the ejecta can potentially push away a significant fraction of the high opacity material before the macronova begins to shine. We use the results of detailed neutrino-driven wind studies as initial conditions and explore with 3D special relativistic hydrodynamic simulations how jets are propagating through these winds. Subsequently, we perform Monte Carlo radiative transfer calculations to explore the resulting macronova emission. We find that the hole punched by the jet makes the macronova brighter and bluer for on-axis observers during the first few days of emission, and that more powerful jets have larger impacts on the macronova."
+ },
+ {
+  "id": "spec_2018-2026_118",
+  "bibcode": "2024MNRAS.528L..33C",
+  "entity_type": "speculations",
+  "era": "2018-2026",
+  "text": "GRBs may be less useful than quasars for damping wing analysis because resonant Ly-alpha absorption inside the ionized bubble obscures the damping wing onset.",
+  "title": "The characteristic shape of damping wings during reionization",
+  "abstract": "Spectroscopic analysis of Ly \u03b1 damping wings of bright sources at z &gt; 6 is a promising way to measure the reionization history of the universe. However, the theoretical interpretation of the damping wings is challenging due to the inhomogeneous nature of the reionization process and the proximity effect of bright sources. In this Letter, we analyse the damping wings arising from the neutral patches in the radiative transfer cosmological simulation suite cosmic reionization on computers. We find that the damping wing profile remains a tight function of volume-weighted neutral fraction &lt;x<SUB>H I</SUB>&gt;<SUB>v</SUB>, especially when &lt;x<SUB>H I</SUB>&gt;<SUB>v</SUB> &gt; 0.5, despite the patchy nature of reionization and the proximity effect. This small scatter indicates that with a well-measured damping wing profile, we could constrain the volume-weighted neutral fraction as precise as \u0394 &lt;x<SUB>H I</SUB>&gt;<SUB>v</SUB> \u2272 0.1 in the first half of reionization. Due to resonant Ly \u03b1 absorption from the residual neutral hydrogen inside the ionized bubble, it may be challenging to find the starting point of the damping wing for faint sources like normal galaxies or gamma-ray bursts. However, for bright sources like quasars, it is hopeful to measure the entire damping wing and use them to measure the neutral fraction accurately."
+ },
+ {
+  "id": "spec_2018-2026_119",
+  "bibcode": "2025ApJ...989L..21C",
+  "entity_type": "speculations",
+  "era": "2018-2026",
+  "text": "These results may have important implications on local SGRB formation rate and binary neutron star merger rate",
+  "title": "Extending the Short Gamma-Ray Burst Population from Subthreshold Triggers in Fermi/GBM and GECAM Data and Its Implications",
+  "abstract": "Detection of short gamma-ray bursts (SGRBs) is critically important for the research of compact object mergers and multimessenger astrophysics, but a significant part of SGRBs fall below the trigger threshold of GRB detectors, and thus are often missed. Here we present a systematic search for and verification of missed SGRBs using Fermi/Gamma-ray Burst Monitor (GBM) subthreshold triggers, jointly analyzing data from GBM, Gravitational Wave High-energy Electromagnetic Counterpart All-sky Monitor (GECAM)-B, and GECAM-C. Among 466 Fermi/GBM subthreshold events (with reliability \u22655) from 2021 to 2024, 181 are within GECAM's field of view. We find that 49 out of 181 are confirmed astrophysical transients, and 41 can be classified as SGRBs. Thus, the SGRB detection rate of Fermi/GBM is increased to about 50 per year. Additionally, a complete multi-instrument monitoring and systematic verification of GBM subthreshold events is expected to further increase the SGRB rate to about 80 per year, which is \u223c100% improvement relative to the GBM-triggered SGRBs. These results may have important implications on the local formation rate of SGRBs and the binary neutron star merger rate. We also searched for potential temporal coincidences between these SGRBs and gravitational waves from the LIGO\u2013Virgo\u2013KAGRA O4 run resulting in no detection."
+ }
+]

@@ -1,0 +1,521 @@
+{
+ "readings": {
+  "0": "batse, distribution",
+  "1": "afterglow, optical",
+  "2": "neutron, merger",
+  "3": "polarization, magnetic",
+  "4": "neutrino, neutrinos",
+  "5": "black, accretion",
+  "6": "host, galaxies",
+  "7": "correlation, cosmological",
+  "8": "violation, invariance",
+  "9": "tgfs, lightning",
+  "10": "fireshell, collapse",
+  "11": "dark, matter",
+  "12": "life, earth",
+  "13": "quark, strange",
+  "14": "climate, river",
+  "15": "basin, gandaki",
+  "16": "eddington, flow",
+  "17": "ukrvo, plates",
+  "18": "corrosion, steel",
+  "19": "green, residents",
+  "20": "isomeric, cross-section",
+  "21": "mixing, forms",
+  "22": "shp-, btla",
+  "23": "climate, basin",
+  "24": "maize, ensemble",
+  "25": "regulatory, noncoding",
+  "26": "land, climate",
+  "27": "drought, ganga",
+  "28": "water, salt",
+  "29": "",
+  "30": "method, basis",
+  "31": "water, climate",
+  "32": "soil, sedimentos",
+  "33": "integral",
+  "34": "mining, guanajuato",
+  "35": "x-ray",
+  "36": "bcr-abl",
+  "37": "cdznte, cdte",
+  "38": "cells, granulysin",
+  "39": "substrates, cascleave",
+  "40": "river, groundwater",
+  "41": "atmospheric",
+  "42": "alfven, flare",
+  "43": "protein, proteins",
+  "44": "",
+  "45": "matter, shell",
+  "46": "centroiding, jet-x",
+  "47": "leptin, receptors",
+  "48": "basalt, magma",
+  "49": "gravitational, thermal",
+  "50": "laser, electron",
+  "51": "sunspot, ions",
+  "52": "fluorescence, cherenkov",
+  "53": "calet, mission",
+  "54": "land, lulc",
+  "55": "morphometric, erosional",
+  "56": "cells, tumors",
+  "57": "weathering, deccan",
+  "58": "precipitation, basins",
+  "59": "pumping, groundwater",
+  "60": "land, trends",
+  "61": "",
+  "62": "",
+  "63": "camera, compton",
+  "64": "msubsup, stretchy",
+  "65": "alps"
+ },
+ "rows": [
+  {
+   "facility": "Fermi",
+   "n_papers": 1338,
+   "n_linked": 1306,
+   "concentration_linked": 0.257,
+   "concentration_all": 0.25,
+   "top": [
+    [
+     4,
+     335
+    ],
+    [
+     3,
+     306
+    ],
+    [
+     2,
+     228
+    ],
+    [
+     0,
+     103
+    ]
+   ]
+  },
+  {
+   "facility": "Fermi-GBM",
+   "n_papers": 537,
+   "n_linked": 529,
+   "concentration_linked": 0.282,
+   "concentration_all": 0.277,
+   "top": [
+    [
+     3,
+     149
+    ],
+    [
+     2,
+     130
+    ],
+    [
+     4,
+     66
+    ],
+    [
+     0,
+     62
+    ]
+   ]
+  },
+  {
+   "facility": "Fermi-LAT",
+   "n_papers": 311,
+   "n_linked": 296,
+   "concentration_linked": 0.628,
+   "concentration_all": 0.598,
+   "top": [
+    [
+     4,
+     186
+    ],
+    [
+     3,
+     41
+    ],
+    [
+     2,
+     23
+    ],
+    [
+     1,
+     14
+    ]
+   ]
+  },
+  {
+   "facility": "Swift",
+   "n_papers": 2329,
+   "n_linked": 1897,
+   "concentration_linked": 0.3,
+   "concentration_all": 0.245,
+   "top": [
+    [
+     1,
+     570
+    ],
+    [
+     2,
+     316
+    ],
+    [
+     6,
+     303
+    ],
+    [
+     7,
+     170
+    ]
+   ]
+  },
+  {
+   "facility": "BeppoSAX",
+   "n_papers": 226,
+   "n_linked": 210,
+   "concentration_linked": 0.433,
+   "concentration_all": 0.403,
+   "top": [
+    [
+     1,
+     91
+    ],
+    [
+     0,
+     27
+    ],
+    [
+     7,
+     24
+    ],
+    [
+     5,
+     20
+    ]
+   ]
+  },
+  {
+   "facility": "BATSE",
+   "n_papers": 856,
+   "n_linked": 815,
+   "concentration_linked": 0.525,
+   "concentration_all": 0.5,
+   "top": [
+    [
+     0,
+     428
+    ],
+    [
+     3,
+     130
+    ],
+    [
+     7,
+     57
+    ],
+    [
+     4,
+     43
+    ]
+   ]
+  },
+  {
+   "facility": "Einstein Probe",
+   "n_papers": 90,
+   "n_linked": 90,
+   "concentration_linked": 0.489,
+   "concentration_all": 0.489,
+   "top": [
+    [
+     5,
+     44
+    ],
+    [
+     2,
+     19
+    ],
+    [
+     1,
+     11
+    ],
+    [
+     6,
+     6
+    ]
+   ]
+  },
+  {
+   "facility": "VLA",
+   "n_papers": 145,
+   "n_linked": 144,
+   "concentration_linked": 0.368,
+   "concentration_all": 0.366,
+   "top": [
+    [
+     1,
+     53
+    ],
+    [
+     2,
+     29
+    ],
+    [
+     5,
+     27
+    ],
+    [
+     6,
+     20
+    ]
+   ]
+  },
+  {
+   "facility": "ALMA",
+   "n_papers": 49,
+   "n_linked": 49,
+   "concentration_linked": 0.408,
+   "concentration_all": 0.408,
+   "top": [
+    [
+     6,
+     20
+    ],
+    [
+     1,
+     14
+    ],
+    [
+     2,
+     6
+    ],
+    [
+     3,
+     4
+    ]
+   ]
+  },
+  {
+   "facility": "VLT",
+   "n_papers": 189,
+   "n_linked": 179,
+   "concentration_linked": 0.631,
+   "concentration_all": 0.598,
+   "top": [
+    [
+     6,
+     113
+    ],
+    [
+     1,
+     19
+    ],
+    [
+     5,
+     14
+    ],
+    [
+     2,
+     13
+    ]
+   ]
+  },
+  {
+   "facility": "JWST",
+   "n_papers": 52,
+   "n_linked": 48,
+   "concentration_linked": 0.5,
+   "concentration_all": 0.462,
+   "top": [
+    [
+     6,
+     24
+    ],
+    [
+     2,
+     12
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     4,
+     4
+    ]
+   ]
+  },
+  {
+   "facility": "HST",
+   "n_papers": 201,
+   "n_linked": 194,
+   "concentration_linked": 0.366,
+   "concentration_all": 0.353,
+   "top": [
+    [
+     6,
+     71
+    ],
+    [
+     2,
+     39
+    ],
+    [
+     1,
+     35
+    ],
+    [
+     5,
+     26
+    ]
+   ]
+  },
+  {
+   "facility": "IceCube",
+   "n_papers": 253,
+   "n_linked": 243,
+   "concentration_linked": 0.827,
+   "concentration_all": 0.794,
+   "top": [
+    [
+     4,
+     201
+    ],
+    [
+     8,
+     15
+    ],
+    [
+     2,
+     10
+    ],
+    [
+     5,
+     8
+    ]
+   ]
+  },
+  {
+   "facility": "LHAASO",
+   "n_papers": 74,
+   "n_linked": 72,
+   "concentration_linked": 0.778,
+   "concentration_all": 0.757,
+   "top": [
+    [
+     4,
+     56
+    ],
+    [
+     8,
+     12
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     9,
+     1
+    ]
+   ]
+  },
+  {
+   "facility": "MAGIC/HESS/CTA",
+   "n_papers": 172,
+   "n_linked": 160,
+   "concentration_linked": 0.606,
+   "concentration_all": 0.564,
+   "top": [
+    [
+     4,
+     97
+    ],
+    [
+     2,
+     18
+    ],
+    [
+     8,
+     16
+    ],
+    [
+     3,
+     9
+    ]
+   ]
+  },
+  {
+   "facility": "LIGO/Virgo",
+   "n_papers": 489,
+   "n_linked": 475,
+   "concentration_linked": 0.771,
+   "concentration_all": 0.748,
+   "top": [
+    [
+     2,
+     366
+    ],
+    [
+     5,
+     53
+    ],
+    [
+     0,
+     15
+    ],
+    [
+     4,
+     14
+    ]
+   ]
+  },
+  {
+   "facility": "AstroSat/CZTI",
+   "n_papers": 38,
+   "n_linked": 37,
+   "concentration_linked": 0.784,
+   "concentration_all": 0.763,
+   "top": [
+    [
+     3,
+     29
+    ],
+    [
+     2,
+     7
+    ],
+    [
+     6,
+     1
+    ]
+   ]
+  },
+  {
+   "facility": "POLAR",
+   "n_papers": 54,
+   "n_linked": 53,
+   "concentration_linked": 0.962,
+   "concentration_all": 0.944,
+   "top": [
+    [
+     3,
+     51
+    ],
+    [
+     6,
+     1
+    ],
+    [
+     2,
+     1
+    ]
+   ]
+  }
+ ],
+ "polarimetry_child": {
+  "child_size": 297,
+  "polar_corpus": 54,
+  "polar_in_child": 51,
+  "czti_corpus": 38,
+  "czti_in_child": 28
+ }
+}

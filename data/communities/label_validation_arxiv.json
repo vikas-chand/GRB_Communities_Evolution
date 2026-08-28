@@ -1,0 +1,324 @@
+{
+ "nmi": 0.1317088999745027,
+ "n_papers": 9719,
+ "n_categories": 24,
+ "communities": [
+  {
+   "id": 0,
+   "reading": "BATSE-era distance scale",
+   "n_with_cat": 576,
+   "coverage": 0.270931326434619,
+   "top": [
+    {
+     "cat": "astro-ph",
+     "share": 0.5434027777777778,
+     "enrichment": 1.6524361507075718
+    },
+    {
+     "cat": "gr-qc",
+     "share": 0.034722222222222224,
+     "enrichment": 1.4499113475177305
+    },
+    {
+     "cat": "astro-ph.CO",
+     "share": 0.0642361111111111,
+     "enrichment": 1.1296576314217441
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "reading": "afterglows",
+   "n_with_cat": 1582,
+   "coverage": 0.7462264150943396,
+   "top": [
+    {
+     "cat": "astro-ph",
+     "share": 0.5929203539823009,
+     "enrichment": 1.8030143891008117
+    },
+    {
+     "cat": "astro-ph.IM",
+     "share": 0.02402022756005057,
+     "enrichment": 0.8996583704075428
+    },
+    {
+     "cat": "astro-ph.HE",
+     "share": 0.35461441213653605,
+     "enrichment": 0.7152787721060284
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "reading": "compact mergers, short GRBs",
+   "n_with_cat": 1787,
+   "coverage": 0.8939469734867433,
+   "top": [
+    {
+     "cat": "gr-qc",
+     "share": 0.055400111919418016,
+     "enrichment": 2.313367226660634
+    },
+    {
+     "cat": "astro-ph.HE",
+     "share": 0.7537772803581422,
+     "enrichment": 1.520414481429486
+    },
+    {
+     "cat": "astro-ph.IM",
+     "share": 0.03301622831561276,
+     "enrichment": 1.236596368172168
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "reading": "prompt emission, radiation physics",
+   "n_with_cat": 1274,
+   "coverage": 0.7610513739545998,
+   "top": [
+    {
+     "cat": "astro-ph.IM",
+     "share": 0.04317111459968603,
+     "enrichment": 1.6169394945294617
+    },
+    {
+     "cat": "astro-ph.HE",
+     "share": 0.6098901098901099,
+     "enrichment": 1.230185333679681
+    },
+    {
+     "cat": "astro-ph",
+     "share": 0.2943485086342229,
+     "enrichment": 0.8950858119701363
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "reading": "high-energy neutrinos",
+   "n_with_cat": 1079,
+   "coverage": 0.7395476353666895,
+   "top": [
+    {
+     "cat": "hep-ph",
+     "share": 0.06950880444856349,
+     "enrichment": 3.6671499895363096
+    },
+    {
+     "cat": "astro-ph.HE",
+     "share": 0.6061167747914736,
+     "enrichment": 1.2225742879812396
+    },
+    {
+     "cat": "astro-ph.IM",
+     "share": 0.025023169601482854,
+     "enrichment": 0.9372227606845467
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "reading": "collapsars, GRB-SNe",
+   "n_with_cat": 1142,
+   "coverage": 0.8263386396526773,
+   "top": [
+    {
+     "cat": "astro-ph.SR",
+     "share": 0.020140105078809107,
+     "enrichment": 1.2917310531918547
+    },
+    {
+     "cat": "astro-ph.HE",
+     "share": 0.5630472854640981,
+     "enrichment": 1.1357005163944902
+    },
+    {
+     "cat": "astro-ph",
+     "share": 0.36690017513134854,
+     "enrichment": 1.1157085275996044
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "reading": "host galaxies",
+   "n_with_cat": 1073,
+   "coverage": 0.8570287539936102,
+   "top": [
+    {
+     "cat": "astro-ph.GA",
+     "share": 0.14631873252562907,
+     "enrichment": 7.288455443015218
+    },
+    {
+     "cat": "astro-ph.SR",
+     "share": 0.06803355079217148,
+     "enrichment": 4.363485189042998
+    },
+    {
+     "cat": "astro-ph.CO",
+     "share": 0.16589002795899346,
+     "enrichment": 2.917345599214342
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "reading": "luminosity correlations, cosmology",
+   "n_with_cat": 585,
+   "coverage": 0.7758620689655172,
+   "top": [
+    {
+     "cat": "astro-ph.CO",
+     "share": 0.3572649572649573,
+     "enrichment": 6.282869221578899
+    },
+    {
+     "cat": "gr-qc",
+     "share": 0.05641025641025641,
+     "enrichment": 2.3555482815057283
+    },
+    {
+     "cat": "astro-ph",
+     "share": 0.28376068376068375,
+     "enrichment": 0.8628892438003067
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "reading": "Lorentz-invariance tests",
+   "n_with_cat": 219,
+   "coverage": 0.8488372093023255,
+   "top": [
+    {
+     "cat": "hep-th",
+     "share": 0.0867579908675799,
+     "enrichment": 25.798671647986716
+    },
+    {
+     "cat": "hep-ph",
+     "share": 0.1780821917808219,
+     "enrichment": 9.395271763146265
+    },
+    {
+     "cat": "gr-qc",
+     "share": 0.182648401826484,
+     "enrichment": 7.626930923928883
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "reading": "terrestrial gamma-ray flashes",
+   "n_with_cat": 96,
+   "coverage": 0.43243243243243246,
+   "top": [
+    {
+     "cat": "astro-ph.IM",
+     "share": 0.3854166666666667,
+     "enrichment": 14.435472328244275
+    },
+    {
+     "cat": "astro-ph.HE",
+     "share": 0.4375,
+     "enrichment": 0.8824640287769784
+    },
+    {
+     "cat": "astro-ph",
+     "share": 0.14583333333333334,
+     "enrichment": 0.44346529284164865
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "reading": "fireshell / BdHN school",
+   "n_with_cat": 114,
+   "coverage": 0.76,
+   "top": [
+    {
+     "cat": "astro-ph.HE",
+     "share": 0.6403508771929824,
+     "enrichment": 1.291626548385352
+    },
+    {
+     "cat": "astro-ph",
+     "share": 0.3157894736842105,
+     "enrichment": 0.9602857469052241
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "reading": "dark matter",
+   "n_with_cat": 78,
+   "coverage": 0.8863636363636364,
+   "top": [
+    {
+     "cat": "hep-ph",
+     "share": 0.20512820512820512,
+     "enrichment": 10.822167080231598
+    },
+    {
+     "cat": "astro-ph",
+     "share": 0.5256410256410257,
+     "enrichment": 1.5984243522204478
+    },
+    {
+     "cat": "astro-ph.CO",
+     "share": 0.05128205128205128,
+     "enrichment": 0.9018472566859663
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "reading": "biological effects at Earth",
+   "n_with_cat": 54,
+   "coverage": 0.6585365853658537,
+   "top": [
+    {
+     "cat": "astro-ph.EP",
+     "share": 0.2962962962962963,
+     "enrichment": 107.68724279835389
+    },
+    {
+     "cat": "astro-ph.GA",
+     "share": 0.05555555555555555,
+     "enrichment": 2.767343485617597
+    },
+    {
+     "cat": "astro-ph",
+     "share": 0.3148148148148148,
+     "enrichment": 0.9573219020073684
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "reading": "quark/strange-star models",
+   "n_with_cat": 60,
+   "coverage": 0.759493670886076,
+   "top": [
+    {
+     "cat": "nucl-th",
+     "share": 0.08333333333333333,
+     "enrichment": 74.3409090909091
+    },
+    {
+     "cat": "hep-ph",
+     "share": 0.21666666666666667,
+     "enrichment": 11.430913978494624
+    },
+    {
+     "cat": "astro-ph",
+     "share": 0.48333333333333334,
+     "enrichment": 1.469770684846607
+    }
+   ]
+  }
+ ]
+}
