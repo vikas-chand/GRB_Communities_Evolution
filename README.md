@@ -23,13 +23,14 @@ network, resolves it by consensus modularity into fourteen communities and
 fifty-seven sub-communities, measures the role every paper plays inside and
 between them, traces the lineages by which today's programmes descended from
 the BATSE era, and validates each step against a null model that preserves
-every paper's citation activity in every year. The finding is that the field
-divides by **research question, not by facility**; that the papers which bind
-communities together are the **predictive frameworks that survived their
-tests** while the **discoveries that tested them stay provincial**; that what
-crosses community boundaries is **observables, constraints, and
-classifications** while interpretations stay home; and that programmes in this
-field do not die — they **stop recruiting**.
+every paper's citation activity in every year. At the scale the map resolves, the
+divisions follow **research questions rather than facilities**; the papers
+that bind communities together are led by **predictive frameworks that
+survived their tests**, while the **discoveries that tested them are the
+strongest provincial hubs**; what crosses community boundaries is
+**observables, constraints, and classifications**, while interpretive models
+stay local; and programmes here fade rather than end — the one fossil is
+**still cited while recruiting 0.8 papers a year**.
 
 > Every number is produced by a script in `scripts/` from a saved product in
 > `data/`, and was independently re-derived before release. The one thing the
@@ -162,8 +163,8 @@ a lesson bought by a real defect.
 
 | Question | What the map answers |
 |---|---|
-| What organises GRB research? | Fourteen communities by research question; every facility's literature scatters across them; mission papers surface as connector hubs |
-| Which papers bind the field? | Confirmed predictive frameworks (collapsar, fireball afterglow, merger triad) and instrument papers are connectors; the discoveries that tested them (GW170817) are the strongest provincial hubs |
+| What organises GRB research? | Fourteen communities whose concentration pattern follows research questions rather than facilities; no facility dominates a community (largest single-facility share 40.5%); mission papers surface as connector hubs |
+| Which papers bind the field? | The leading connectors are confirmed predictive frameworks (collapsar, fireball afterglow, merger triad) and instrument papers; the three strongest provincial hubs are the GW170817 discovery papers |
 | What crosses community boundaries? | Observables, constraints, and classifications (Band spectrum, duration classes, the compactness constraint); interpretive models stay local — median participation 0.68 for spectral-lag papers vs 0.25 for equation-of-state papers |
 | How did the structure form? | One BATSE-era heritage until the first afterglows; then thirty years of splits and mergers, two new lineages after 2000, a single 51-paper block lost in 46 years |
 | What happens to programmes that stop exchanging? | Three fates, measured: a school (fireshell), a fossil (quark stars — cited, recruiting 0.8 papers/yr), an artefact (the dark-matter block) |
@@ -180,10 +181,14 @@ python -m ipykernel install --user --name grb-venv --display-name "Python (grb-v
 jupyter lab                     # open notebooks/00_corpus.ipynb
 ```
 
-Run the notebooks in order. With `RUN_LONG = False` (the default) each stage
-verifies the saved products and rebuilds every cheap product, table, and
-figure in minutes; `RUN_LONG = True` re-derives the expensive stages (the
-five-schedule campaign takes hours). Every stochastic stage is seeded.
+The notebooks are **shipped executed**, so every output — including the
+figures at the end of `06_figures` — is visible on GitHub without running
+anything. To reproduce them, run in order. With `RUN_LONG = False` (the
+default) each stage verifies the saved products and rebuilds every cheap
+product, table, and figure in minutes; `RUN_LONG = True` re-derives the
+expensive stages (the five-schedule campaign takes hours). Every stochastic
+stage is seeded, and a cold run of the cheap path regenerates every product
+content-identically to the shipped ones.
 
 ## Data & reproducibility
 
